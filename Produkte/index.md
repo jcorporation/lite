@@ -16,7 +16,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) üb
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-header">Lite Grundregelwerk v2</div>
-            <div class="card-body pb-0">
+            <div class="card-body">
                 <div class="row g-0">
                     <div class="col-sm-4 d-flex justify-content-center align-items-center">
                         <img class="border border-white" src="{{ site.baseurl }}/assets/downthumbs/grw2_lite-grw2_2017-06-15_pdf.png" width="97" height="140">

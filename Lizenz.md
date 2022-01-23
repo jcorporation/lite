@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lizenz
+permalink: /Lizenz
 title: Lizenz
 ---
 

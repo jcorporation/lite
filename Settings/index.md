@@ -4,25 +4,12 @@ permalink: /Settings/index
 title: Settings
 ---
 
-<article>
-<h1 class="titelimg"><img alt="Cyberpunk" src="{{ site.baseurl }}/assets/pics/settings.png"/>Settings</h1>
-<section>
+<h1><img alt="Settings" src="{{ site.baseurl }}/assets/pics/settings.png"/>Settings</h1>
+
 Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abzunehmen. Jede dieser Adaptionen enthält zumindest eine kurze Beschreibung, Profilnamen, Archetypen, eine exemplarische Ausrüstungsliste und Magiekategorien, falls das Setting Magie unterstützt.
 
 Wie du Lite an ein eigenes Setting anpassen kannst wird in den [Spielregeln]({{ site.baseurl }}/rollenspiel/anpassungen/) erklärt.
 
-</section>
-<aside>
-<div class="hinweis">
-## Legende
-
-- P: PDF ist verfügbar.
-- S+: Das Setting ist ausgearbeitet.
-- A: Es sind Abenteuer verfügbar.
-
-</div>
-</aside>
-</article>
 ## Basis-Settings
 
 Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalten.
@@ -99,6 +86,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 </div>
 <img alt="western" src="{{ site.baseurl }}/assets/pics/western.png"/>[Western]({{ site.baseurl }}/settings/western/)</div>
 </div>
+
 ## Fan-Settings
 
 <div class="floatboxes">
@@ -124,6 +112,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 </div>
 <img alt="Eastern Action" src="{{ site.baseurl }}/assets/pics/easternaction.png"/>[Eastern Action]({{ site.baseurl }}/settings/easternaction/) von Günther Schollmayer</div>
 </div>
+
 ## Weitere Settings
 
 <div class="floatboxes">
@@ -163,6 +152,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 </div>
 <img alt="Zombies" src="{{ site.baseurl }}/assets/pics/zombies.png"/>[Zombies]({{ site.baseurl }}/settings/zombies/)</div>
 </div>
+
 ## Auf Lite basierende Rollenspiele
 
 <div class="floatboxes">
