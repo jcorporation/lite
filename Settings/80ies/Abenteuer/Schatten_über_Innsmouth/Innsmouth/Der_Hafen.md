@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/innsmouth_hafen
-title: 
+permalink: /settings/80ies//Abenteuer/Schatten_über_Innsmouth/Der_Hafen
+title: Der Hafen 
 ---
 
 # Der Hafen &ndash; Säufer und Menschenopfer

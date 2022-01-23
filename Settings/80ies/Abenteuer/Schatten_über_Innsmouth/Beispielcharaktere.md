@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/sc
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Beispielcharaktere
+title: Beispielcharaktere
 ---
 
 # Beispielcharaktere
@@ -153,4 +153,3 @@ Aussehen: blendend!</td></tr>
 
 <hr/>
 - <strong>Zurück:</strong> [Action]({{ site.baseurl }}/settings/80ies/ab/innsmouth/action)
-

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/action
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Action
+title: Action
 ---
 
 # Action
@@ -116,4 +116,3 @@ Töten die Charaktere Dagon, so endet das Abenteuer mit den Charakteren, die mit
 <hr/>
 - <strong>Zurück:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
 - <strong>Weiter:</strong> [Beispielcharaktere]({{ site.baseurl }}/settings/80ies/ab/innsmouth/sc)
-

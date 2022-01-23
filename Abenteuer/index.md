@@ -8,11 +8,11 @@ title: Abenteuer
 
 Hier findet ihr alle Abenteuer die für eines der Lite-[Settings]({{ site.baseurl }}/settings/) verfügbar sind.
 
-- [80ies]({{ site.baseurl }}/settings/80ies/): [Schatten über Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/)
-- [Pulp]({{ site.baseurl }}/settings/pulp/): [Diamanten von Aceh]({{ site.baseurl }}/settings/pulp/ab/diamantenvonaceh/)
-- [Pulp]({{ site.baseurl }}/settings/pulp/): [Fordlandia]({{ site.baseurl }}/settings/pulp/ab/fordlandia/) (in Arbeit)
-- [Pulp]({{ site.baseurl }}/settings/pulp/): [Die Jagd nach der roten Kobra]({{ site.baseurl }}/settings/pulp/ab/rotekobra/)
-- [SpaceOpera]({{ site.baseurl }}/settings/spaceopera/): [Unbestechlicher Mangel]({{ site.baseurl }}/settings/spaceopera/ab/unbman/)
-- [small]({{ site.baseurl }}/settings/small/): [Vom Winde verweht]({{ site.baseurl }}/settings/small/ab/vomwindeverweht/)
-- [Supers]({{ site.baseurl }}/settings/supers/): [Angriff der Rhabarbermänner]({{ site.baseurl }}/settings/supers/ab/rhabarbermaenner/)
-- [Supers]({{ site.baseurl }}/settings/supers/): [Pflanzen an die Macht]({{ site.baseurl }}/settings/supers/ab/pflanzen/)
+- [80ies]({{ site.baseurl }}/Settings/80ies/): [Schatten über Innsmouth]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/)
+- [Pulp]({{ site.baseurl }}/Settings/Pulp/): [Diamanten von Aceh]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/)
+- [Pulp]({{ site.baseurl }}/Settings/Pulp/): [Fordlandia]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/)
+- [Pulp]({{ site.baseurl }}/Settings/Pulp/): [Die Jagd nach der roten Kobra]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/)
+- [SpaceOpera]({{ site.baseurl }}/Settings/SpaceOpera/): [Unbestechlicher Mangel]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/)
+- [small]({{ site.baseurl }}/Settings/small/): [Vom Winde verweht]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/)
+- [Supers]({{ site.baseurl }}/Settings/Supers/): [Angriff der Rhabarbermänner]({{ site.baseurl }}/Settings/Supers/Abenteuer/Rhabarbermänner/)
+- [Supers]({{ site.baseurl }}/Settings/Supers/): [Pflanzen an die Macht]({{ site.baseurl }}/Settings/Supers/Abenteuer/Pflanzen_an_die_Macht/)

@@ -18,7 +18,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
                     </div>
                     <div class="col-sm-8">
                         <h5>Grundregelwerk</h5>
-                        <p class="card-text">PDF A5<br/>
+                        <p>PDF A5<br/>
                         Version: 2017.06.15</p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
                     </div>
                     <div class="col-sm-8">
                         <h5>Charakterbogen</h5>
-                        <p class="card-text">PDF A4<br/>
+                        <p>PDF A4<br/>
                         Version: 2017.04.08</p>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
                     </div>
                     <div class="col-sm-8">
                         <h5>Settingbogen</h5>
-                        <p class="card-text">PDF A4<br/>
+                        <p>PDF A4<br/>
                         Version: 2017.04.08</p>
                     </div>
                 </div>

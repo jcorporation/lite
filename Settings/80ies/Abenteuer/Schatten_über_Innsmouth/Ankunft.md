@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/ankunft
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Ankunft
+title: Ankunft
 ---
 
 # Ankunft
@@ -26,4 +26,3 @@ Nach und nach sollten alle Charaktere an der Stelle der Autopanne des ersten Cha
 <hr/>
 - <strong>Zurück:</strong> [Hintergrund]({{ site.baseurl }}/settings/80ies/ab/innsmouth/hintergrund)
 - <strong>Weiter:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
-

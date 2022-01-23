@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/innsmouth_kirche
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Kirche
+title: Die Kirche
 ---
 
 # Die Kirche &ndash; Cthuloider Ort des Grauens

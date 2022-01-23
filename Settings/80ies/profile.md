@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/profile
-title: 
+permalink: /Settings/80ies/Profile
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Ein Charakter mit hohem Denker-Profil ist das Gehirn der Gruppe. Er ist eine Mis
 ## Stuntman
 
 Unter Stuntman fallen alle körperlichen und athletischen Fähigkeiten. Ein Charakter mit hohem Stuntman-Profil ist sehr robust und könnte auch Leistungssport betreiben oder beim Ironman auf Hawai mitmachen. Natürlich weiß er sich auch zu verarzten, falls mal ein Stunt doch nicht so gelingt wie geplant.
-

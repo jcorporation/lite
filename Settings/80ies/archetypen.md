@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/archetypen
-title: 
+permalink: /Settings/80ies/Archetypen
+title: Archetypen
 ---
 
 # Archetypen

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/innsmouth_hotel
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Das_Hotel
+title: Das Hotel
 ---
 
 # Das Hotel &ndash; Der Wahnsinn hat Methode

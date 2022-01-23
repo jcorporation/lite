@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/innsmouth_tankstelle
-title: 
+permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Tankstelle
+title: Die Tankstelle
 ---
 
 # Die Tankstelle &ndash; Insel der Normalität in einer unnormalen Stadt

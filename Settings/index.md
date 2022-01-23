@@ -14,7 +14,7 @@ Wie du Lite an ein eigenes Setting anpassen kannst wird in den [Spielregeln]({{ 
 
 Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalten.
 
-<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
+<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
@@ -119,7 +119,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 ## Fan-Settings
 
-<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
+<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
@@ -133,7 +133,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/intheschadows.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/pics/intheshadows.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/In_the_Shadows/">In the Shadows</a>
@@ -154,7 +154,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 ## Weitere Settings
 
-<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
+<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
@@ -209,7 +209,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 ## Auf Lite basierende Rollenspiele
 
-<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
+<div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
