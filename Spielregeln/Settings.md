@@ -19,6 +19,6 @@ Weitere Details der Settings werden durch Lite nicht festgelegt. Dafür kannst d
 
 Auf dieser Internetpräsenz gibt es aber auch weitere [Settings]({{ site.baseurl }}/settings/), die teilweise auch detaillierter ausgearbeitet sind und auch spielbereite Abenteuer bieten.
 
-Falls du Lite nur spielen und nicht am Setting basteln willst, kannst du dir auch einfach &bdquo;[SpacePirates]({{ site.baseurl }}//spacepirates/)&ldquo; oder &bdquo;[Das Weltenbuch]({{ site.baseurl }}//weltenbuch/)&ldquo; herunterladen, beide basieren auf Lite und bieten ein ausgearbeitetes Setting.
+Falls du Lite nur spielen und nicht am Setting basteln willst, kannst du dir auch einfach &bdquo;[SpacePirates]({{ site.baseurl }}/Settings/SpacePirates/)&ldquo; oder &bdquo;[Das Weltenbuch]({{ site.baseurl }}/Settings/Das_Weltenbuch/)&ldquo; herunterladen, beide basieren auf Lite und bieten ein ausgearbeitetes Setting.
 
-<strong>[&raquo; zu den Settings]({{ site.baseurl }}/settings/)</strong>
+<strong>[&raquo; zu den Settings]({{ site.baseurl }}/Settings/)</strong>

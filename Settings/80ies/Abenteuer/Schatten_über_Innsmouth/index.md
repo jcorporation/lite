@@ -22,7 +22,6 @@ title: Schatten über Innsmouth
 
 ## Download
 
-
 <div class="card bg-blue text-light">
     <div class="card-body">
         <div class="row g-0">
@@ -39,5 +38,5 @@ title: Schatten über Innsmouth
 </div>
 
 <hr/>
-Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [Tobias Deißler](http://randpatrouille.de/Abenteuer.xhtml). Es steht unter der Lizenz [CreativeCommons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [Tobias Deißler](http://randpatrouille.de/Abenteuer.xhtml). Es steht unter der Lizenz [CreativeCommons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).

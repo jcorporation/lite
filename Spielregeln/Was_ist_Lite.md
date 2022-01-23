@@ -44,10 +44,10 @@ Lite verwendet einen einheitlichen Lösungsansatz für alle Arten von Konflikten
 
 Dieses Buch enthält alle Regeln, um Lite zu spielen. Zuerst wird erklärt wie Charaktere erschaffen werden, wie ein Abenteuer abläuft und Konflikte aufgelöst werden.
 
-Danach erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene schreiben kann. Da Lite auf kein bestimmtes Setting festgelegt ist, sind auch Regeln enthalten, um eigene Settings zu [erstellen]({{ site.baseurl }}/rollenspiel/anpassungen/).
+Danach erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene schreiben kann. Da Lite auf kein bestimmtes Setting festgelegt ist, sind auch Regeln enthalten, um eigene Settings zu [erstellen]({{ site.baseurl }}/Spielregeln/Lite_anpassen/).
 
-Zum Abschluss werden 10 [Settings]({{ site.baseurl }}/rollenspiel/settings) vorgestellt, um schnell losspielen zu können.
+Zum Abschluss werden 10 [Settings]({{ site.baseurl }}/Spielregeln/Settings) vorgestellt, um schnell losspielen zu können.
 
 <hr/>
 
-- [Was wird zum Spielen benötigt?]({{ site.baseurl }}/rollenspiel/spielmaterial)
+- [Was wird zum Spielen benötigt?]({{ site.baseurl }}/Spielregeln/Spielmaterial)
