@@ -1,0 +1,66 @@
+---
+---
+
+@import "bootstrap.min.css";
+
+body {
+  background-color: #ececec;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+h1 {
+  color: #0048a8;
+}
+
+h1 > img {
+  margin-right: 1rem;
+}
+
+.bg-blue {
+  background-color: #3c80ef;
+}
+
+.bg-orange {
+  background-color: #ef8400;
+}
+
+.bg-green {
+  background-color: #63c100;
+}
+
+.bg-dark-blue {
+  background-color: #0048a8;
+}
+
+.breadcrumb-item,
+footer a {
+  color: var(--bs-body-color);
+  text-decoration: none;
+}
+
+table {
+  margin-bottom: 2rem;
+}
+
+th {
+  background-color: #3c80ef;
+  color: white;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid #ececec;
+}
+
+td {
+  background-color: white;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid #ececec;
+}
+
+.card-body p:last-child {
+  margin-bottom: 0;
+}

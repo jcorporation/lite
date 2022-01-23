@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <header class="navbar navbar-expand-sm navbar-dark bg-blue">
+      <nav class="container-xxl flex-wrap flex-md-nowrap py-2">
+        <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}">
+          <img src="{{ site.baseurl }}/assets/pics/logo.png" alt="Lite" width="78" height="77">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+          <div class="navbar-nav flex-grow-1">
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielregeln/">Spielregeln</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Settings/">Settings</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Downloads/">Downloads</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Produkte/">Produkte</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <header class="navbar navbar-expand-md bg-light py-2">
+      <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
+        {% include breadcrumbs %}
+      </nav>
+    </header>
+    <main class="container-xxl py-2">
+      {{ content }}
+    </main>
+    <footer class="footer-bottom bg-light">
+      <nav class="container-xxl">
+        <a class="p-2" href="https://jcgames.de/">
+          <img src="{{ site.baseurl }}/assets/pics/jcgames-logo.png"/>
+        </a>
+        <a class="p-2" href="{{ site.baseurl }}/impressum">Impressum</a>
+        <a class="p-2" href="{{ site.baseurl }}/lizenz">Lizenz</a>
+      </nav>
+    </footer>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
+  </body>
+</html>
