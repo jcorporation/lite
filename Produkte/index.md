@@ -8,7 +8,7 @@ title: Produkte
 
 Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Produkte als PDF zum kostenlosen [Download]({{ site.baseurl }}/downloads).
 
-Die Produkte können direkt bei mir per Mail an [mail@jcgames. de](mailto:mail@jcgames. de) oder auf [Cons und Messen]({{ site.baseurl }}//jcgames/veranstaltungen/) erstanden werden. 
+Die Produkte können direkt bei mir per Mail an [mail@jcgames. de](mailto:mail@jcgames. de) erstanden werden. 
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) über Lite.
 

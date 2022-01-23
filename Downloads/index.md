@@ -81,7 +81,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
 
 | Titel | Version | Format |
 | - | - | - |
-| [80ies: Schatten über Innsmouth]({{ site.baseurl }}/downloads/abenteuer/lite-80ies-innsmouth_2015-02-15.pdf) | 2015-02-15 | PDF A5 |
+| [80ies: Schatten über Innsmouth]({{ site.baseurl }}/downloads/abenteuer/lite-80ies-innsmouth_2015-02-15.pdf) | 2015.02.15 | PDF A5 |
 | [Pulp: Diamanten von Aceh]({{ site.baseurl }}/downloads/abenteuer/lite-pulp-diamantenvonaceh_2015-02-09.pdf) | 2015.02.09 | PDF A5 |
 | [Pulp: Jagd nach der roten Kobra]({{ site.baseurl }}/downloads/abenteuer/lite-pulp-rotekobra_2015-02-09.pdf) | 2015.02.09 | PDF A5 |
 | [small: Vom Winde verweht]({{ site.baseurl }}/downloads/abenteuer/lite-small-vomwindeverweht_2015-02-09.pdf) | 2015.02.09 | PDF A5 |
