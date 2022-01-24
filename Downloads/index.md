@@ -13,7 +13,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
         <div class="card bg-blue text-light h-100">
             <div class="card-header">Grundregelwerk</div>
             <div class="card-body">
-                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
+                <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
                     <p>PDF A5<br/>
                     Version: 2017.06.15</p>
             </div>
@@ -23,7 +23,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
         <div class="card bg-blue text-light h-100">
             <div class="card-header">Charakterbogen</div>
             <div class="card-body">
-                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/charakterbogen.png" width="100" height="140">
+                <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/charakterbogen.png" width="100" height="140">
                 <p>PDF A4<br/>
                 Version: 2017.04.08</p>
             </div>
@@ -33,7 +33,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
         <div class="card bg-blue text-light h-100">
             <div class="card-header">Settingbogen</div>
             <div class="card-body">
-                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/settingbogen.png" width="100" height="140">
+                <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/settingbogen.png" width="100" height="140">
                 <p>PDF A4<br/>
                 Version: 2017.04.08</p>
             </div>
