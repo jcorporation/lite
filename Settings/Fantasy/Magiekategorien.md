@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/fantasy/magie
-title: 
+permalink: /Settings/Fantasy/Magiekategorien
+title: Magiekategorien
 ---
 
 # Magiekategorien
@@ -29,4 +29,3 @@ Diese Kategorie befasst sich mit dem Brauen von magischen Tränken und der Herst
 ## Wahrnehmung
 
 In dieser Kategorie geht es um die Manipulation der Wahrnehmung und damit der Sinne, egal ob es die des Magiewirkenden oder eines Anderen sind.
-

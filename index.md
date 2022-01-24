@@ -43,7 +43,7 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
             </div>
             <div class="card-footer d-flex justify-content-between">
                 <a href="{{ site.baseurl }}/Settings/" class="text-light">Settings</a>
-                <a href="{{ site.baseurl }}/Abenteuer/" class="text-light">Abenteuer</a>
+                <a href="{{ site.baseurl }}/Abenteuer" class="text-light">Abenteuer</a>
             </div>
         </div>
     </div>

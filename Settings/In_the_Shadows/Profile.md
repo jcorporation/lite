@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/intheshadows/profile
-title: 
+permalink: /Settings/In_the_Shadows/Profile
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Unentdecktes Eindringen in feindliches Gelände, ein Ziel beschatten, bemerkt we
 ## Socializer
 
 Überreden, Nachforschen, die richtigen Leute kennen, sich aus schwierigen Situationen quasseln können ohne sich um Kopf und Kragen zu reden, alles dies wird mit dem Profil Socializer abgedeckt.
-

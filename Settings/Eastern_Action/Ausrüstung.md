@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/easternaction/ausruestung
-title: 
+permalink: /Settings/Eastern_Action/Ausrüstung
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -26,6 +26,7 @@ Die allgemeine Währung ist der Hongkong-Dollar.
 <tr><td>(Kampf)Fächer</td><td>300</td></tr>
 </tbody>
 </table>
+
 ## Rüstungen
 
 <table>
@@ -37,6 +38,7 @@ Die allgemeine Währung ist der Hongkong-Dollar.
 <tr><td>Schusssichere Weste</td><td>400</td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>

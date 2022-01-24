@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/cyberpunk/ausruestung
-title: 
+permalink: /Settings/Cyberpunk/Ausrüstung
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -21,6 +21,7 @@ Die allgemeine Währungseinheit bei Cyberpunk ist der ECU.
 <tr><td>Sturmgewehr</td><td>2.800</td></tr>
 </tbody>
 </table>
+
 ## Cyberware
 
 <table>

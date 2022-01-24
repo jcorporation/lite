@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/easternaction/profile
-title: 
+permalink: /settings/easternaction/Profile
+title: Profile
 ---
 
 # Profile
@@ -21,5 +21,3 @@ Unter Wushu fallen alle Nah- und Fernkampffertigkeiten sowie viele körperliche 
 ## Chi
 
 Unter Chi fallen alle übernatürlichen Fähigkeiten. Die Bullet Time, das Klettern an der Decke, das Rennen, Springen und Schweben über Hausdächer, Wasser und vieles mehr.
-
-

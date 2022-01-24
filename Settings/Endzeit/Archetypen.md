@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/endzeit/archetypen
-title: 
+permalink: /Settings/Endzeit/Archetypen
+title: Archetypen
 ---
 
 # Archetypen
@@ -29,4 +29,3 @@ Der Söldner schlägt sich mit möglichst gefahrlosen Aufträgen durch das Leben
 ## Streuner
 
 Der Streuner ist überall und nirgends zu Hause. Er ist ein wahrer Überlebenskünstler und fügt sich schnell in Gruppen ein und versucht keine große Aufmerksamkeit zu erregen.
-

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/fantasy/archetypen
-title: 
+permalink: /Settings/Fantasy/Archetypen
+title: Archetypen
 ---
 
 # Archetypen
@@ -37,4 +37,3 @@ Der Waldläufer fühlt sich der Natur verbunden und in der Wildnis zu Hause. Als
 ## Wandernder Barde
 
 Der Barde unterhält die Menschen mit seiner Kunst, er ist sehr musikalisch und ein guter Geschichtenerzähler. In Kneipen und Tavernen heißt man ihn stets willkommen, da seine Musik und seine Neuigkeiten immer eine willkommene Abwechslung bieten.
-

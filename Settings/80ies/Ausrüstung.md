@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Ausruestung
+permalink: /Settings/80ies/Ausrüstung
 title: Ausrüstung
 ---
 

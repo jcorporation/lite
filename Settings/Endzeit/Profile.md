@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/endzeit/profile
-title: 
+permalink: /Settings/Endzeit/Profile
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Unter Schrauber sind alle technischen und wissenschaftlichen Fertigkeiten angesi
 ## Wilderer
 
 Unter Wilderer fallen alle Fähigkeiten, die in der Wildnis überlebensnotwendig sind. Wilderer können die Gruppe durch eine Wüste oder ein Höhlensystem führen und auch exotische Fahrzeuge bedienen. Schließlich fallen auch illegale und unehrenhafte Tätigkeiten wie Einbruch oder Diebstahl in das Ressort des Wilderers.
-

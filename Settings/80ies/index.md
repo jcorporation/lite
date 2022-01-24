@@ -18,4 +18,4 @@ Actions, Stunts und coole Dialoge prägen die Abenteuer, die sich jeglicher Epik
 
 ## Abenteuer
 
-- [Schatten über Innsmouth]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/)
+- [Schatten über Innsmouth]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/)

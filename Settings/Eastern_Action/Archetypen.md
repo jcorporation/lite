@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/easternaction/archetypen
-title: 
+permalink: /Settings/Eastern_Action/Archetypen
+title: Archetypen
 ---
 
 # Archetypen
@@ -37,5 +37,3 @@ Die Zeiten haben sich gewandelt, doch er hält an den alten Werten fest. Ruhelos
 ## (Ex-) Cop
 
 Die Zeiten sind hart und du hast den Eindruck, im Kampf gegen das Verbrechen auf verlorenem Posten zu stehen.
-
-

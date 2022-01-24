@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/cyberpunk/profile
-title: 
+permalink: /Settings/Cyberpunk/Profile
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Der Tech beherrscht alle technischen und wissenschaftlichen Fertigkeiten. Sie mo
 ## Dealer
 
 Unter Dealer fallen alle sozialen Fähigkeiten, wie Handeln oder Menschenführung. Sie kennen sich gut in der Stadt aus und besitzen gute Kontakte. Sie sind diejenigen, die Erbeutetes verhökern oder mit Auftraggebern verhandeln.
-

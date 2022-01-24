@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/intheshadows/magie
-title: 
+permalink: /Settings/In_the_Shadows/Magiekategorien
+title: Magiekategorien
 ---
 
 # Magiekategorien
@@ -23,4 +23,3 @@ Heilzauber sind entgegen ihres Namens nicht immer hilfreich für das Ziel. Unter
 ## Wahrnehmung
 
 Wahrnehmungszauber unterstützen und/oder erweitern die natürlichen Sinne des Anwenders. Dunkelsicht, Fernsicht, verbessertes Gehör, bis hin zu Gedankenlesen sind mit diesen Zaubern möglich.
-

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/fantasy/profile
-title: 
+permalink: /Settings/Fantasy/Profile
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Unter Handwerker fallen alle handwerklichen Fertigkeiten, wie schmieden oder Fal
 ## Waldläufer
 
 Unter Waldläufer fallen alle Fertigkeiten, die benötigt werden, um in der Wildnis zu überleben. Kenntnisse in der Jagd und über die Natur fallen genauso darunter wie auch Reiten, Feuer entzünden oder eine geeignete Furt finden.
-

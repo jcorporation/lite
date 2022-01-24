@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/endzeit/magie
-title: 
+permalink: /Settings/Endzeit/Magiekategorien
+title: Magiekategorien
 ---
 
 # Magiekategorien
@@ -23,4 +23,3 @@ Mit dieser Kategorie können Gedanken gelesen und übermittelt und Gefühle gesp
 ## Geister
 
 Diese Kategorie umfasst das Bannen, Beschwören und Sprechen mit Geistern.
-

@@ -10,15 +10,15 @@ title: Schatten über Innsmouth
 
 ## Inhalt
 
-- [Hintergrund]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Hintergrund)
-- [Ankunft]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Ankunft)
-- [Innsmouth]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/)
-  - [Die Tankstelle &ndash; Insel der Normalität in einer unnormalen Stadt]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Tankstelle)
-  - [Die Kirche &ndash; Cthuloider Ort des Grauens]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Kirche)
-  - [Das Hotel &ndash; Der Wahnsinn hat Methode]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Das_Hotel)
-  - [Der Hafen &ndash; Säufer und Menschenopfer]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Der_Hafen)
-- [Action]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Action)
-- [Beispielcharaktere]({{ site.baseurl }}/settings/80ies/Abenteuer/Schatten_über_Innsmouth/Beispielcharaktere)
+- [Hintergrund]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Hintergrund)
+- [Ankunft]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Ankunft)
+- [Innsmouth]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/)
+  - [Die Tankstelle &ndash; Insel der Normalität in einer unnormalen Stadt]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Tankstelle)
+  - [Die Kirche &ndash; Cthuloider Ort des Grauens]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Kirche)
+  - [Das Hotel &ndash; Der Wahnsinn hat Methode]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Das_Hotel)
+  - [Der Hafen &ndash; Säufer und Menschenopfer]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Der_Hafen)
+- [Action]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Action)
+- [Beispielcharaktere]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Beispielcharaktere)
 
 ## Download
 
@@ -26,9 +26,10 @@ title: Schatten über Innsmouth
     <div class="card bg-blue text-light">
         <div class="card-header">80ies: Schatten über Innsmouth</div>
         <div class="card-body">
-            <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
+            <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
             <p>PDF A5<br/>
             Version: 2015.02.15</p>
+            <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a></p>
         </div>
     </div>
 </div>

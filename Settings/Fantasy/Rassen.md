@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/fantasy/rassen
-title: 
+permalink: /Settings/Fantasy/Rassen
+title: Rassen
 ---
 
 # Rassen
@@ -18,4 +18,3 @@ title:
 <tr><td>Zwerg</td><td>Krieger + 1</td></tr>
 </tbody>
 </table>
-

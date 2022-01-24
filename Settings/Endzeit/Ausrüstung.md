@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/endzeit/ausruestung
-title: 
+permalink: /Settings/Endzeit/Ausrüstung
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -26,6 +26,7 @@ In diesem Setting gibt es keine Währung, es gibt nur den Tauschhandel. Umso hö
 <tr><td>Schwert</td><td>50</td></tr>
 </tbody>
 </table>
+
 ## Fortbewegungsmittel
 
 <table>
@@ -40,6 +41,7 @@ In diesem Setting gibt es keine Währung, es gibt nur den Tauschhandel. Umso hö
 <tr><td>Straßenwagen</td><td>100</td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>

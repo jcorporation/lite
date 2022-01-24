@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/cyberpunk/archetypen
-title: 
+permalink: /Settings/Cyberpunk/Archetypen
+title: Archetypen
 ---
 
 # Archetypen
@@ -37,4 +37,3 @@ Der Straßenkämpfer steht bei einem Feuergefecht an vorderster Front. Er ist Ex
 ## Tech
 
 Der Tech repariert Menschen und Maschinen, teilweise, indem er beides verknüpft. Er operiert Schwerverletzten die Kugeln raus und setzt Straßenkämpfern die Cyberimplantate ein. Der Tech kennt sich aber auch mit der überall präsenten Technik aus, kann Alarmsysteme knacken und Fahrzeuge und Waffen reparieren.
-

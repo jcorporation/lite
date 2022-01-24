@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/fantasy/ausruestung
-title: 
+permalink: /Settings/Fantasy/Ausrüstung
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -28,6 +28,7 @@ Die allgemeine Währungseinheit sind Kupfer-, Silber- und Goldmünzen.
 <tr><td>Zweihänder</td><td>700 KM</td></tr>
 </tbody>
 </table>
+
 Das Schild gibt einen Bonus auf die Zähigkeit.
 
 ## Rüstungen
@@ -45,6 +46,7 @@ Rüstungen geben einen Bonus auf die Zähigkeit.
 <tr><td>Plattenpanzer</td><td>1.200 KM</td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>
@@ -61,6 +63,7 @@ Rüstungen geben einen Bonus auf die Zähigkeit.
 <tr><td>Zauberstab</td><td>800 KM</td></tr>
 </tbody>
 </table>
+
 Das Waldläuferset beinhaltet alles, was man in der Wildnis so benötigt: Feuerstein, Wasserschlauch, Messer, Seil, etc.
 
 ## Tränke
@@ -74,5 +77,5 @@ Das Waldläuferset beinhaltet alles, was man in der Wildnis so benötigt: Feuers
 <tr><td>Stärketrank</td><td>200 SM</td></tr>
 </tbody>
 </table>
-Tränke geben eine Szene lang einen Bonus auf das passende Profil. Es sind immer 5 Einheiten enthalten.
 
+Tränke geben eine Szene lang einen Bonus auf das passende Profil. Es sind immer 5 Einheiten enthalten.

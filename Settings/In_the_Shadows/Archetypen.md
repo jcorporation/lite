@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/intheshadows/archetypen
-title: 
+permalink: /Settings/In_the_Shadows/Archetypen
+title: Archetypen
 ---
 
 # Archetypen
@@ -37,4 +37,3 @@ Diese Schattenläufer ist das Aushängeschild und der Verhandlungsführer der Gr
 ## StraßenDoc
 
 Der StraßenDoc ist ein wertvolles Mitglied eines Schattenläuferteams. Er flickt seine Kameraden wieder zusammen wenn etwas schief ging, entweder nach dem Schatten- lauf oder direkt vor Ort. Der StraßenDoc ist außerdem oft gebildet und in der Schattengemeinde gut vernetzt.
-
