@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Action
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Action
 title: Action
 ---
 
@@ -20,14 +20,16 @@ Wann immer die Charaktere ein Fahrzeug unbeaufsichtigt zurücklassen, wird es bi
 <tr><th>Bewaffnung</th><td>Holzlatten, Metallketten, Brecheisen</td></tr>
 </tbody>
 </table>
+
 Sie sind erst aggressiv, aber falls sie zu verlieren drohen fliehen sie. Wenn jemand eine Schusswaffe zieht, lassen sie die Waffen fallen und kämpfen nicht mehr weiter, ziehen sich zurück.
 
-<div class="hinweis">
-#### Jugendliche Schläger
-
-Alle jugendlichen Schläger sehen irgendwie ähnlich aus, fast wie verwandt. Sie sind eher gedrungen gebaut, haben breite, faltige Hälse, kleine Augen und Ohren und wenige, strähnige, blonde Haare.
-
+<div class="card mb-3">
+    <div class="card-header bg-green text-light">Jugendliche Schläger</div>
+    <div class="card-body">
+        <p>Alle jugendlichen Schläger sehen irgendwie ähnlich aus, fast wie verwandt. Sie sind eher gedrungen gebaut, haben breite, faltige Hälse, kleine Augen und Ohren und wenige, strähnige, blonde Haare.</p>
+    </div>
 </div>
+
 ## Nachts
 
 In der Nacht versuchen die Dorfbewohner, die Charaktere zu überwältigen. Für jeden Charakter kommen 4-5 Spielleitercharaktere. Falls die Charaktere im Hotel verteilt übernachten, ist ein Bulle-Probe mit 4 Erfolgen nötig, um die Eindringlinge noch vor der Zimmertür wahrzunehmen. ein Bulle-Probe mit 2 Erfolgen reicht immerhin, um aufzuwachen, wenn die Eindringlinge ums Bett stehen. Alle anderen erwachen im Würgegriff der Kultisten.
@@ -51,12 +53,13 @@ Falls sich irgend jemand die Muße nimmt, von einem hohen Punkt aus die Gegend z
 - Vor dem Hafen, im Ozean, ganz weit draußen, scheint etwas goldenes im Wasser zu leuchten. Bei einer Bulle-Probe mit 3 Erfolgen scheint sich so etwas wie eine große Stadt unter Wasser zu befinden.
 - Im Hafen selbst versammelt sich auch eine Menschenmenge. Fischmenschen steigen aus dem Wasser. Es ist eine Art Podest mit einem Altar aufgebaut, auf dem sich wohl ein Mensch befindet (wurde einer der Charaktere entführt, so ist es dieser. Sucht einer der Charaktere eine bestimmte Person, so ist es diese. Trifft beides zu, so gibt sind wohl zwei Menschenopfer geplant. Trifft keines zu, so ist die Person eine junge, hübsche, spärlich gekleidete Frau, die an ihren Fesseln zerrt).
 
-<div class="hinweis">
-#### Fischmenschen
-
-Die Fischmenschen sehen aus wie eine Mischung aus Mensch und Fisch. Sie gehen aufrecht, besitzen bläulich schimmernde Schuppen und einen fischförmigen Kopf. Am Hals befinden sich Kiemen, sie können aber auch Luft atmen.
-
+<div class="card mb-3">
+    <div class="card-header bg-green text-light">Fischmenschen</div>
+    <div class="card-body">
+        <p>Die Fischmenschen sehen aus wie eine Mischung aus Mensch und Fisch. Sie gehen aufrecht, besitzen bläulich schimmernde Schuppen und einen fischförmigen Kopf. Am Hals befinden sich Kiemen, sie können aber auch Luft atmen.</p>
+    </div>
 </div>
+
 Diese Informationen erhalten die Charaktere auch, wenn sie aus der Stadt fliehen wollen und sich schon etwas höher am Hang befinden, von wo aus man den Hafen sehen kann. Fliehen die Charaktere einfach blindlings ohne bevorzugte Richtung, dann landen sie automatisch früher oder später am Hafen.
 
 ## Showdown
@@ -90,6 +93,7 @@ Für den gesamten Endkampf gilt:
 <tr><th>Bewaffnung</th><td>Sturmgewehr, Desert Eagles</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><th colspan="2">Kultisten</th></tr>
@@ -98,6 +102,7 @@ Für den gesamten Endkampf gilt:
 <tr><th>Bewaffnung</th><td>Macheten, Knüppel, Pistolen</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><th colspan="2">Fischmenschen</th></tr>
@@ -106,13 +111,9 @@ Für den gesamten Endkampf gilt:
 <tr><th>Bewaffnung</th><td>Dreizack</td></tr>
 </tbody>
 </table>
+
 ## Ende
 
 Das Abenteuer ist darauf ausgelegt, dass die Charaktere in einer panischen Flucht das Weite suchen. Die Masse an Kultisten ist enorm, und spätestens wenn Dagon selbst seinen Brain Shredder anwirft, sollten die Charaktere laufen! An dieser Stelle könnte, wenn die Charaktere kein eigenes Fahrzeug mehr haben und vorher die Polizei gerufen haben, ein Streifenwagen mit zwei Polizisten auftauchen. Schaffen sie es mit einem Fahrzeug aus der Stadt, so haben sie das Abenteuer gewonnen. Man sieht sie in den Sonnenaufgang fahren, und nur in der letzten Kameraeinstellung kann man den Fischmenschen sehen, der sich mit einem mörderischen Grinsen auf dem Gesicht von unten an den Fahrzeugboden klammert, bevor die Leinwand schwarz wird.
 
 Töten die Charaktere Dagon, so endet das Abenteuer mit den Charakteren, die mit rauchenden Waffen in der rauchenden Trümmerlandschaft des Hafens stehen. Die Kamera fährt nach oben, steigt immer höher, bis man den ganzen Hafen von oben sieht, steigt noch höher, zeigt, wie weit draußen auf dem Wasser riesige Fontänen aufsteigen und die Lichter von Y&#39;ha-nthlei &ndash; ihres göttlichen Schutzes beraubt - langsam und Stück für Stück für immer verlöschen. Ein Sieg auf der ganzen Linie!
-
-
-<hr/>
-- <strong>Zurück:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
-- <strong>Weiter:</strong> [Beispielcharaktere]({{ site.baseurl }}/settings/80ies/ab/innsmouth/sc)

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Die_Tankstelle
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Tankstelle
 title: Die Tankstelle
 ---
 
@@ -16,12 +16,13 @@ Im Inneren der Baracke ist es angenehm kühl, man hört das klappern einer alter
 
 Der Laden ist leer, erst nach mehrmaligem Rufen erscheint der Besitzer, William Murdock. Er begrüßt die Charaktere mit einem breiten Lächeln und einem noch breiteren Südstaatenakzent.
 
-<div class="hinweis">
-#### William Murdock
-
-William Murdock wirkt wie der typische junge, sympathische Amerikaner von Nebenan: Er ist braungebrannt, groß, muskulös mit einem kleinen Bauchansatz und trägt ein rotes Karohemd.
-
+<div class="card mb-3">
+    <div class="card-header bg-green text-light">William Murdock</div>
+    <div class="card-body">
+        <p>William Murdock wirkt wie der typische junge, sympathische Amerikaner von Nebenan: Er ist braungebrannt, groß, muskulös mit einem kleinen Bauchansatz und trägt ein rotes Karohemd.</p>
+    </div>
 </div>
+
 Bei einer Unterhaltung können die Charaktere folgendes herausfinden:
 
 - Er ist kein Einheimischer, sondern zugezogen.
@@ -39,8 +40,3 @@ In Wirklichkeit ist William Murdock total durchgeknallt. Er hat unvorstellbare D
 Diese Frage wird von William jedes mal mit einem freundlichen<br/>
 "Nein, Liebling, keine Fremden!"<br/>
 beantwortet.</p>
-
-<hr/>
-- <strong>Zurück:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
-- <strong>Weiter:</strong> [Die Kirche &ndash; Cthuloider Ort des Grauens]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth_kirche)
-

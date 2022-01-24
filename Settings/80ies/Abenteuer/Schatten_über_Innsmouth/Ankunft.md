@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Ankunft
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Ankunft
 title: Ankunft
 ---
 
@@ -21,8 +21,3 @@ Ziele der Szene: Vermittlung von Wüsten- und Südstaaten-Feeling und das Kennen
 ... irgend eine kleine Autopanne passiert. Ist der Charakter mit einen Mietwagen unterwegs, kann einfach der Sprit ausgegangen sein (Sie haben behauptet, der Wagen sei vollgetankt. War er offensichtlich nicht.) Kommt ein zweiter Charakter mit einem Mietwagen daher (natürlich von der selben Firma) ist dessen Tank auch fast leer. Ansonsten bieten sich Reifenpannen oder Probleme mit dem Kühler an.
 
 Nach und nach sollten alle Charaktere an der Stelle der Autopanne des ersten Charakters ankommen. Da die Straße ziemlich schmal ist können sie nur sehr langsam und vorsichtig vorbeifahren. Im Idealfall lernen sich hier alle Charaktere schon vor Innsmouth kennen; im schlechtesten Fall haben sie sich zumindest schon im vorüberfahren gesehen. Diese klassische Einstiegs-Szene sollte eine Länge von zehn Minuten nicht überschreiten.
-
-
-<hr/>
-- <strong>Zurück:</strong> [Hintergrund]({{ site.baseurl }}/settings/80ies/ab/innsmouth/hintergrund)
-- <strong>Weiter:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)

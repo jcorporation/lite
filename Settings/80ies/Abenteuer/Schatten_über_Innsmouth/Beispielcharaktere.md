@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Beispielcharaktere
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Beispielcharaktere
 title: Beispielcharaktere
 ---
 
@@ -150,6 +150,3 @@ Warum du in Innsmouth bleibst: Das ist dein Auftrag! Und du wirst ihn lösen wie
 Aussehen: blendend!</td></tr>
 </tbody>
 </table>
-
-<hr/>
-- <strong>Zurück:</strong> [Action]({{ site.baseurl }}/settings/80ies/ab/innsmouth/action)

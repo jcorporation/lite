@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Das_Hotel
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Das_Hotel
 title: Das Hotel
 ---
 
@@ -16,12 +16,13 @@ Auf mehrfaches Klingeln hin ertönt von hinten ein breites &bdquo;Komme gleich!&
 
 ## Der Portier (Harry Gilman)
 
-<div class="hinweis">
-#### Harry Gilman
-
-Harry Gilman ist ein alter, gekrümmter Mann, der sich halb humpelnd, halb hüpfend fortbewegt. Er hat eine Glatze, kleine, starre Augen, die einen nie anschauen, einen breiten, faltigen Hals, kleine Ohren und eine fast nicht vorhandene Nase.
-
+<div class="card mb-3">
+    <div class="card-header bg-green text-light">Harry Gilman</div>
+    <div class="card-body">
+        <p>Harry Gilman ist ein alter, gekrümmter Mann, der sich halb humpelnd, halb hüpfend fortbewegt. Er hat eine Glatze, kleine, starre Augen, die einen nie anschauen, einen breiten, faltigen Hals, kleine Ohren und eine fast nicht vorhandene Nase.</p>
+    </div>
 </div>
+
 Er spricht nicht viel, und wenn er spricht, dann langgezogen und mit einem breiten Mund (der Spielleiter sollte wirklich den Mund so breit wie möglich ziehen beim Sprechen). Er bietet Zimmer für dir Nacht zu einem Preis, der für ein normales, modernes Hotel angemessen wäre. Alle Fragen, die nicht die Übernachtung und das Bezahlen (nur Barzahlung!) betreffen beantwortet er mit einem langgezogenen &bdquo;Neeeiiin!&ldquo;, ob es Sinn ergibt oder nicht. Die noch bewohnbaren Zimmer, die er vergibt, sind über das ganze Haus verteilt und liegen ziemlich weit voneinander entfernt.
 
 Alle Gäste müssen sich in ein gewaltiges Gästebuch eintragen, dass der Portier unter beträchtlichen Anstrengungen auf den Tresen wuchtet. Die Namen von Personen, die die Charaktere suchen, stehen fein säuberlich auf der letzten Position. Falls die Charaktere keine Person suchen, ist der jüngste Eintrag von gestern. Die junge Frau blieb nur eine Nacht.
@@ -33,9 +34,3 @@ Die Zimmer liegen um einen offenen Innenhof herum gruppiert, in dessen Mitte ein
 ## Der Keller
 
 Der Keller ist &bdquo;Nur für Personal&ldquo;. Dort befinden sich &ndash; außer den für Hotels übliche Infrastruktur &ndash; ein Raum, in dem sich das Gepäck und die persönlichen Gegenstände aller geopferten Reisenden befinden. Ein riesiger Haufen! Daneben liegt fein säuberlich ein Haufen mit den Waffen, die diese Reisenden dabei hatten. Da das ganze in Texas spielt, ist dieser Haufen auch nicht klein. Er besteht hauptsächlich aus Revolvern und Schrotflinten, aber einige Sturmgewehre, Pistolen und Maschinenpistolen lassen sich auch finden. Die Munition reicht für den Rest des Abenteuers.
-
-
-<hr/>
-- Zurück: [/settings/80ies/ab/innsmouth/innsmouth.html[Innsmouth]
-- Weiter: [/settings/80ies/ab/innsmouth/innsmouth_hafen.html[Der Hafen &ndash; Säufer und Menschenopfer]
-

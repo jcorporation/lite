@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Die_Kirche
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Kirche
 title: Die Kirche
 ---
 
@@ -85,9 +85,3 @@ Entfernt sich ein Charakter von den anderen, wir er aus dem Dunkeln heraus von e
 </tbody>
 </table>
 Da es dunkel in der Kirche ist, ist erst nach dem Kampf zu erkennen, was für ein Wesen das eigentlich war. Hinzueilende Charaktere sollten sich der Gefahr bewusst sein, dass sie bei einem Angriff auch den eigenen Mann treffen können.
-
-
-<hr/>
-- <strong>Zurück:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
-- <strong>Weiter:</strong> [Das Hotel &ndash; Der Wahnsinn hat Methode]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth_hotel)
-

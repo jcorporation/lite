@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Der_Hafen
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Der_Hafen
 title: Der Hafen 
 ---
 
@@ -24,12 +24,13 @@ Höfliche, vorsichtige Fragen nach Obed Marsh werden mit einem barschen &bdquo;d
 
 Zadock Allen lehnt an einer rostige Tonne und starrt auf das Hafenbecken. Nur hochprozentiger Alkohol bringt ihn zum Reden.
 
-<div class="hinweis">
-#### Zadock Allen
-
-Zadock Allen ist ein alter heruntergekommener Säufer, der fettige graue Haare besitzt und zerschlissene Kleidung trägt und erbärmlich stinkt.
-
+<div class="card mb-3">
+    <div class="card-header bg-green text-light">Zadock Allen</div>
+    <div class="card-body">
+        <p>Zadock Allen ist ein alter heruntergekommener Säufer, der fettige graue Haare besitzt und zerschlissene Kleidung trägt und erbärmlich stinkt.</p>
+    </div>
 </div>
+
 Dann lallt er ziemlich unzusammenhängend und mit schwerer Zunge folgendes:
 
 - Der alte Marsh ist an allem schuld. Mit ihm hat alles angefangen.
@@ -49,8 +50,3 @@ Irgend wann jetzt sollte ein Trupp Schläger auftauchen und den Charakteren einh
 <tr><th>Bewaffnung</th><td>Macheten, Knüppel, Pistolen</td></tr>
 </tbody>
 </table>
-
-<hr/>
-- <strong>Zurück:</strong> [Innsmouth]({{ site.baseurl }}/settings/80ies/ab/innsmouth/innsmouth)
-- <strong>Weiter:</strong> [Action]({{ site.baseurl }}/settings/80ies/ab/innsmouth/action)
-
