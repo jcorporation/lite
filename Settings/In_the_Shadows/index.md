@@ -20,13 +20,15 @@ In dieser Welt des Jahres 2050 leben die Charaktere als SIN-lose, ausgestoßen o
 ## Download
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
-    <div class="card bg-blue text-light">
-        <div class="card-header">In the Shadows</div>
-        <div class="card-body">
-            <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/easternaction.png" width="100" height="140">
-            <p>PDF A5<br/>
-            Version: 2015.02.09</p>
-            <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Fansettings/lite-intheshadows-2015-02-09.pdf">Herunterladen</a></p>
+    <div class="col">
+        <div class="card bg-blue text-light">
+            <div class="card-header">In the Shadows</div>
+            <div class="card-body">
+                <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/easternaction.png" width="100" height="140">
+                <p>PDF A5<br/>
+                Version: 2015.02.09</p>
+                <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Fansettings/lite-intheshadows-2015-02-09.pdf">Herunterladen</a></p>
+            </div>
         </div>
     </div>
 </div>

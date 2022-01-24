@@ -23,13 +23,15 @@ title: Schatten über Innsmouth
 ## Download
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
-    <div class="card bg-blue text-light">
-        <div class="card-header">80ies: Schatten über Innsmouth</div>
-        <div class="card-body">
-            <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
-            <p>PDF A5<br/>
-            Version: 2015.02.15</p>
-            <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a></p>
+    <div class="col">
+        <div class="card bg-blue text-light">
+            <div class="card-header">80ies: Schatten über Innsmouth</div>
+            <div class="card-body">
+                <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
+                <p>PDF A5<br/>
+                Version: 2015.02.15</p>
+                <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a></p>
+            </div>
         </div>
     </div>
 </div>
