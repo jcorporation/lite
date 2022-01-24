@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Kirche
+permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Die_Kirche
 title: Die Kirche
 ---
 

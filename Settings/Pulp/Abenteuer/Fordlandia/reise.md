@@ -14,5 +14,5 @@ Gerüchte von verfluchtem Fordlandia.
 
 Niemand will mit dem Schiff am Hafen von Fordlandia anlegen.
 
-<img alt="Karte" src="{{ site.baseurl }}/assets/pics/lite/gallery/abenteuer/tn2/fordlandia-karte.png"/>
+<img alt="Karte" src="{{ site.baseurl }}/assets/images/icons/lite/gallery/abenteuer/tn2/fordlandia-karte.png"/>
 

@@ -5,7 +5,7 @@ title: Supers
 ---
 
 <article>
-<h1 class="titelimg"><img alt="Pulp" src="{{ site.baseurl }}/assets/pics/supers.png"/>Supers</h1>
+<h1 class="titelimg"><img alt="Pulp" src="{{ site.baseurl }}/assets/images/icons/supers.png"/>Supers</h1>
 <section>
 Supers ist ein Setting für typische Comic-Superhelden. Es spielt in einer fröhlichen, bunten und mitttelgroßen Stadt, die aus unbekannten Gründen ständig von genial-verrückten [Superschurken]({{ site.baseurl }}/settings/supers/superschurken) bedroht wird. Polizei und Bürgermeister sind damit natürlich total überfordert, da bleiben nur die Superhelden, um den Superschurken das Handwerk zu legen.
 

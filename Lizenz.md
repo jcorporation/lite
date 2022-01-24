@@ -6,7 +6,7 @@ title: Lizenz
 
 # Lizenz
 
-<img alt="CC BY-SA" src="{{ site.baseurl }}/assets/pics/ccbysa.png"/>
+<img alt="CC BY-SA" src="{{ site.baseurl }}/assets/images/icons/ccbysa.png"/>
 
 Alle Inhalte dieser Webpräsenz stehen unter der Creative Commons Lizenz [Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/), falls sie nicht abweichend gekennzeichnet sind.
 

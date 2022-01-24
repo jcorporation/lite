@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/80ies/ab/innsmouth/innsmouth
-title: 
+permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Innsmouth/index
+title: Innsmouth
 ---
 
 # Innsmouth

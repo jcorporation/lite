@@ -4,7 +4,7 @@ permalink: /Spielregeln/Settings
 title: Settings
 ---
 
-<h1><img alt="Cyberpunk" src="{{ site.baseurl }}/assets/pics/settings.png" />Settings</h1>
+<h1><img alt="Cyberpunk" src="{{ site.baseurl }}/assets/images/icons/settings.png" />Settings</h1>
 
 Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abzunehmen. Diese Anpassungen sind immer nach dem gleichen Schema aufgebaut:
 

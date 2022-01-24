@@ -4,7 +4,7 @@ permalink: /settings/spacecowboys/index
 title: SpaceCowboys
 ---
 
-<h1 class="titelimg"><img alt="SpaceCowboys" src="{{ site.baseurl }}/assets/pics/spacecowboys.png" />SpaceCowboys</h1>
+<h1 class="titelimg"><img alt="SpaceCowboys" src="{{ site.baseurl }}/assets/images/icons/spacecowboys.png" />SpaceCowboys</h1>
 <aside>
 <div class="working">
 #### In Arbeit

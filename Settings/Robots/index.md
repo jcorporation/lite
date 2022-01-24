@@ -4,7 +4,7 @@ permalink: /settings/robots/index
 title: Robots
 ---
 
-<h1 class="titelimg"><img alt="Robots" src="{{ site.baseurl }}/assets/pics/robots.png"/>Robots</h1>
+<h1 class="titelimg"><img alt="Robots" src="{{ site.baseurl }}/assets/images/icons/robots.png"/>Robots</h1>
 <aside>
 <div class="working">
 ## In Arbeit

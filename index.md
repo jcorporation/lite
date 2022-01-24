@@ -15,7 +15,7 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
             <div class="card-body pb-0">
                 <div class="row g-0">
                     <div class="col-sm-4 d-flex p-3 justify-content-center align-items-center">
-                        <img src="{{ site.baseurl }}/assets/pics/erzaehlerisch.png" width="70" height="70">
+                        <img src="{{ site.baseurl }}/assets/images/icons/erzaehlerisch.png" width="70" height="70">
                     </div>
                     <div class="col-sm-8">
                         <p class="card-text">Lite reduziert die Werte auf ein Minimum und bietet eine erzählerische Konfliktlösung mit nur einem Würfelwurf, ohne Details zu unterschlagen. Zudem bindet Lite die Spieler aktiv in die Abenteuergestaltung ein.</p>
@@ -34,7 +34,7 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
             <div class="card-body pb-0">
                 <div class="row g-0">
                     <div class="col-sm-4 d-flex p-3 justify-content-center align-items-center">
-                        <img src="{{ site.baseurl }}/assets/pics/flexibel.png" width="70" height="70">
+                        <img src="{{ site.baseurl }}/assets/images/icons/flexibel.png" width="70" height="70">
                     </div>
                     <div class="col-sm-8">
                         <p class="card-text">Lite ist für alle Settings geeignet und es bringt bereits Anpassungen für viele Settings mit. Zudem kann es schnell an neue Settings angepasst werden. Lite ist sowohl für einmalige Runden als auch für Kampagnen geeignet.</p>
@@ -53,7 +53,7 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
             <div class="card-body pb-0">
                 <div class="row g-0">
                     <div class="col-sm-4 d-flex p-3 justify-content-center align-items-center">
-                        <img src="{{ site.baseurl }}/assets/pics/frei.png" width="70" height="70">
+                        <img src="{{ site.baseurl }}/assets/images/icons/frei.png" width="70" height="70">
                     </div>
                     <div class="col-sm-8">
                         <p class="card-text">Du darfst Lite kostenlos nutzen, verbreiten und bearbeiten. Also mach mit, wenn dir Lite gefällt: Spiele Lite, empfiehl es weiter und schreibe deine eigenen Settings und Abenteuer oder passe vorhandenes Material an.</p>

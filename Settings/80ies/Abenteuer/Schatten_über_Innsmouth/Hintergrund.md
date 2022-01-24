@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/Hintergrund
+permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/Hintergrund
 title: Hintergrund
 ---
 

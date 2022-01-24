@@ -8,52 +8,34 @@ title: Downloads
 
 Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ site.baseurl }}/Lizenz)als kostenlose PDF. Falls du Bücher bevorzugst, kannst du sie [hier]({{ site.baseurl }}/Produkte/) auch direkt bei mir erwerben. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/kontakt) zu Lite.
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
     <div class="col">
         <div class="card bg-blue text-light h-100">
+            <div class="card-header">Grundregelwerk</div>
             <div class="card-body">
-                <div class="row g-0">
-                    <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                        <img class="border border-white" src="{{ site.baseurl }}/assets/downthumbs/grw2_lite-grw2_2017-06-15_pdf.png" width="97" height="140">
-                    </div>
-                    <div class="col-sm-8">
-                        <h5>Grundregelwerk</h5>
-                        <p>PDF A5<br/>
-                        Version: 2017.06.15</p>
-                    </div>
-                </div>
+                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
+                    <p>PDF A5<br/>
+                    Version: 2017.06.15</p>
             </div>
         </div>
     </div>
     <div class="col">
         <div class="card bg-blue text-light h-100">
+            <div class="card-header">Charakterbogen</div>
             <div class="card-body">
-                <div class="row g-0">
-                    <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                        <img class="border border-white" src="{{ site.baseurl }}/assets/downthumbs/grw2_lite-charakterbogen-a4_2017-04-08_pdf.png" width="97" height="140">
-                    </div>
-                    <div class="col-sm-8">
-                        <h5>Charakterbogen</h5>
-                        <p>PDF A4<br/>
-                        Version: 2017.04.08</p>
-                    </div>
-                </div>
+                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/charakterbogen.png" width="100" height="140">
+                <p>PDF A4<br/>
+                Version: 2017.04.08</p>
             </div>
         </div>
     </div>
     <div class="col">
         <div class="card bg-blue text-light h-100">
+            <div class="card-header">Settingbogen</div>
             <div class="card-body">
-                <div class="row g-0">
-                    <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                        <img class="border border-white" src="{{ site.baseurl }}/assets/downthumbs/grw2_lite-settingbogen-a4_2017-04-08_pdf.png" width="97" height="140">
-                    </div>
-                    <div class="col-sm-8">
-                        <h5>Settingbogen</h5>
-                        <p>PDF A4<br/>
-                        Version: 2017.04.08</p>
-                    </div>
-                </div>
+                <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/settingbogen.png" width="100" height="140">
+                <p>PDF A4<br/>
+                Version: 2017.04.08</p>
             </div>
         </div>
     </div>

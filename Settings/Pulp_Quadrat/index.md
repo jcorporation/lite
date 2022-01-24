@@ -4,7 +4,7 @@ permalink: /settings/pulpquadrat/index
 title: Pulp Quadrat
 ---
 
-<h1 class="titelimg"><img alt="Pulp Quadrat" src="{{ site.baseurl }}/assets/pics/pulpquadrat.png" />Pulp Quadrat</h1>
+<h1 class="titelimg"><img alt="Pulp Quadrat" src="{{ site.baseurl }}/assets/images/icons/pulpquadrat.png" />Pulp Quadrat</h1>
 <aside>
 <div class="working">
 ## In Arbeit

@@ -6,5 +6,5 @@ title:
 
 # Karte
 
-<img alt="Karte" src="{{ site.baseurl }}/assets/pics/lite/gallery/abenteuer/org/rotekobra.png"/>
+<img alt="Karte" src="{{ site.baseurl }}/assets/images/icons/lite/gallery/abenteuer/org/rotekobra.png"/>
 

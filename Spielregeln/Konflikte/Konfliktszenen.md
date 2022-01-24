@@ -24,7 +24,7 @@ Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jewe
 </div>
 
 <div class="card mb-3">
-    <div class="card-header bg-green text-light">Beispiel einer Konfliktszene</div>
+    <div class="card-header bg-orange text-light">Beispiel einer Konfliktszene</div>
     <div class="card-body">
         <p>James Montgomery und sein Kumpan Simon haben ein kleines Boot angeheuert, um einen gefährlichen Seitenarm des Amazonas hinaufzufahren. Dort gibt es heimtückische Stromschnellen, allesfressende Piranhas, giftige Schlangen und hungrige Krokodile. Eines der Krokodile greift das Boot der Charaktere an.</p>
     </div>
@@ -83,13 +83,13 @@ Sind alle Ziele klar formuliert, fasst der Spielleiter die einzelnen Charaktere 
     <div class="card-header bg-orange text-light">Beispiel zu siegreiche Partei ermitteln</div>
     <div class="card-body">
         <ol>
-        <li>James tritt den Konflikt mit seinem Pionier-Profil (4 Würfel) an, da er das Boot steuert.<br/>
-        Simon nutzt die Harpune (+1 Würfel, Effektivität 2) und somit sein Soldat-Profil (3 Würfel).</li>
-        <li>Simons Spieler gibt einen Gummipunkt aus (+2 Würfel).</li>
-        <li>James Spieler würfelt mit 4 Würfeln (<strong>2</strong> 5 <strong>6</strong> 7)=2 Erfolge.<br/>
-        Simons Spieler würfelt mit 6 Würfeln (1 <strong>2</strong> 7 <strong>6</strong> <strong>6</strong> 9)=3 Erfolge.<br/>
-        Der Spielleiter würfelt für das Krokodil (6 Würfel) und den reißenden Fluss (3 Würfel) (1 <strong>2</strong> 7 <strong>4</strong> <strong>6</strong> <strong>6</strong> <strong>8</strong> 9 <strong>0</strong>)=6 Erfolge</li>
-        <li>Simon und James erreichen zusammen 5 Erfolge, das Krokodil 6. Somit gewinnt das Krokodil die Konfliktszene.</li>
+            <li>James tritt den Konflikt mit seinem Pionier-Profil (4 Würfel) an, da er das Boot steuert.<br/>
+            Simon nutzt die Harpune (+1 Würfel, Effektivität 2) und somit sein Soldat-Profil (3 Würfel).</li>
+            <li>Simons Spieler gibt einen Gummipunkt aus (+2 Würfel).</li>
+            <li>James Spieler würfelt mit 4 Würfeln (<strong>2</strong> 5 <strong>6</strong> 7)=2 Erfolge.<br/>
+            Simons Spieler würfelt mit 6 Würfeln (1 <strong>2</strong> 7 <strong>6</strong> <strong>6</strong> 9)=3 Erfolge.<br/>
+            Der Spielleiter würfelt für das Krokodil (6 Würfel) und den reißenden Fluss (3 Würfel) (1 <strong>2</strong> 7 <strong>4</strong> <strong>6</strong> <strong>6</strong> <strong>8</strong> 9 <strong>0</strong>)=6 Erfolge</li>
+            <li>Simon und James erreichen zusammen 5 Erfolge, das Krokodil 6. Somit gewinnt das Krokodil die Konfliktszene.</li>
         </ol>
     </div>
 </div>
@@ -98,7 +98,7 @@ Sind alle Ziele klar formuliert, fasst der Spielleiter die einzelnen Charaktere 
 
 Nachdem der Sieger bestimmt ist, wird die Konfliktszene gemeinsam erzählt. Der Spielleiter bestimmt, in wieviel Runden sie abgehandelt wird.
 
-<img alt="Reihenfolge bei Konfliktszenen" height="299" src="{{ site.baseurl }}/assets/pics/grw/konfliktszenenreihenfolge-web.svg" width="300"/>
+<img alt="Reihenfolge bei Konfliktszenen" height="299" src="{{ site.baseurl }}/assets/images/konfliktszenenreihenfolge-web.svg" width="300"/>
 
 Der Spieler, nie der Spielleiter, mit den meisten geworfenen Würfeln beginnt. Bei Gleichstand beginnt der Spieler, der näher beim Spielleiter sitzt (entgegen dem Uhrzeigersinn). Er wählt einen oder mehrere seiner Würfel aus und schiebt sie in die Tischmitte:
 

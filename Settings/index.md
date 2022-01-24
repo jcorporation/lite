@@ -4,7 +4,7 @@ permalink: /Settings/index
 title: Settings
 ---
 
-<h1><img alt="Settings" src="{{ site.baseurl }}/assets/pics/settings.png"/>Settings</h1>
+<h1><img alt="Settings" src="{{ site.baseurl }}/assets/images/icons/settings.png"/>Settings</h1>
 
 Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abzunehmen. Jede dieser Adaptionen enthält zumindest eine kurze Beschreibung, Profilnamen, Archetypen, eine exemplarische Ausrüstungsliste und Magiekategorien, falls das Setting Magie unterstützt.
 
@@ -18,7 +18,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/80ies.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/80ies.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/80ies/">80ies</a>
@@ -28,7 +28,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/cyberpunk.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/cyberpunk.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Cyberpunk/">Cyberpunk</a>
@@ -38,7 +38,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/endzeit.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/endzeit.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Endzeit/">Endzeit</a>
@@ -48,7 +48,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/fantasy.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/fantasy.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Fantasy/">Fantasy</a>
@@ -58,7 +58,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/orient.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/orient.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Orient/">Orient</a>
@@ -68,7 +68,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/pulp.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/pulp.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Pulp/">Pulp</a>
@@ -78,7 +78,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/spaceopera.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/spaceopera.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/SpaceOpera/">SpaceOpera</a>
@@ -88,7 +88,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/steampunk.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/steampunk.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Steampunk/">Steampunk</a>
@@ -98,7 +98,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/supers.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/supers.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Supers/">Supers</a>
@@ -108,7 +108,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/western.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/western.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Western/">Western</a>
@@ -123,7 +123,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/small.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/small.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/small/">small</a>
@@ -133,7 +133,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/intheshadows.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/intheshadows.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/In_the_Shadows/">In the Shadows</a>
@@ -143,7 +143,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/easternaction.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/easternaction.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Eastern_Action/">Eastern Action</a>
@@ -158,7 +158,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/pulpquadrat.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/pulpquadrat.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Pulp_Quadrat/">Pulp Quadrat</a>
@@ -168,7 +168,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/robin.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/robin.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Robin/">Robin</a>
@@ -178,7 +178,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/robots.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/robots.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Robots/">Robots</a>
@@ -188,7 +188,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/spacecowboys.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/spacecowboys.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/SpaceCowboys/">SpaceCowboys</a>
@@ -198,7 +198,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/zombies.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/zombies.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Zombies/">Zombies</a>
@@ -213,7 +213,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/spacepirates.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/spacepirates.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/SpacePirates/">SpacePirates</a>
@@ -223,7 +223,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
     <div class="col">
         <div class="card bg-blue text-light h-100">
             <div class="card-body p-1 align-self-center">
-                <img src="{{ site.baseurl }}/assets/pics/dasweltenbuch.png" width="70" height="70">
+                <img src="{{ site.baseurl }}/assets/images/icons/dasweltenbuch.png" width="70" height="70">
             </div>
             <div class="card-footer text-center">
                 <a class="text-light" href="{{ site.baseurl }}/Settings/Das_Weltenbuch/">Das Weltenbuch</a>

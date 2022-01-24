@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_vorbereiten
 title: Abenteuer vorbereiten
 ---
 
-<h1><img alt="Vorbereiten" height="70" src="{{ site.baseurl }}/assets/pics/vorbereiten.png" width="70"/>Abenteuer vorbereiten</h1>
+<h1><img alt="Vorbereiten" height="70" src="{{ site.baseurl }}/assets/images/icons/vorbereiten.png" width="70"/>Abenteuer vorbereiten</h1>
 
 Für den Spielleiter beginnt das Spiel mit der Vorbereitung des Abenteuers. Dabei geht es nicht darum, es auswendig zu lernen, damit die Gruppe es Wort für Wort nachspielen kann. Das Abenteuer liefert vielmehr Schauplätze, Spielleitercharaktere und deren Motive sowie Ereignisse und einen Einstieg in das Abenteuer. Je besser du das Abenteuer vorbereitest, desto einfacher fällt es dir, das Abenteuer zu leiten und in seinem Rahmen zu improvisieren.
 

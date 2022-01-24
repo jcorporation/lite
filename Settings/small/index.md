@@ -4,7 +4,7 @@ permalink: /settings/small/index
 title: small
 ---
 
-<h1 class="titelimg"><img alt="intheshadows" src="{{ site.baseurl }}/assets/pics/small.png" />small</h1>
+<h1 class="titelimg"><img alt="intheshadows" src="{{ site.baseurl }}/assets/images/icons/small.png" />small</h1>
 small ist ein Setting für Lite im Stil von Serien und Jugendbücher wie die Littles, die Borger usw. Es geht also um ein kleines, humanoides Volk, das in unseren Wänden, alten Speichern und auch sonst überall unerkannt in der Stadt wohnt.
 
 ## Regeln

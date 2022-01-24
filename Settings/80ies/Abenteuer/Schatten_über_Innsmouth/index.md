@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/80ies/Abenteuer/Schatten_über_Innsmouth/index
+permalink: /Settings/80ies/Aebenteuer/Schatten_über_Innsmouth/index
 title: Schatten über Innsmouth
 ---
 
@@ -22,17 +22,13 @@ title: Schatten über Innsmouth
 
 ## Download
 
-<div class="card bg-blue text-light">
-    <div class="card-body">
-        <div class="row g-0">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img class="border border-white" src="{{ site.baseurl }}/assets/downthumbs/abenteuer_lite-80ies-innsmouth_2015-02-15_pdf.png" width="97" height="140">
-            </div>
-            <div class="col-sm-8">
-                <h5>80ies: Schatten über Innsmouth</h5>
-                <p>PDF A5<br/>
-                Version: 2015.02.15</p>
-            </div>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
+    <div class="card bg-blue text-light">
+        <div class="card-header">80ies: Schatten über Innsmouth</div>
+        <div class="card-body">
+            <img class="border border-white float-start me-2" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
+            <p>PDF A5<br/>
+            Version: 2015.02.15</p>
         </div>
     </div>
 </div>
