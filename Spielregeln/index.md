@@ -10,7 +10,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/wasistlite.png" width="70" height="70">
             </div>
@@ -20,7 +20,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/vordemspiel.png" width="70" height="70">
             </div>
@@ -30,7 +30,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/charaktere.png" width="70" height="70">
             </div>
@@ -40,7 +40,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/abenteuer.png" width="70" height="70">
             </div>
@@ -50,7 +50,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/konflikte.png" width="70" height="70">
             </div>
@@ -60,7 +60,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/vorbereiten.png" width="70" height="70">
             </div>
@@ -70,7 +70,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/erstellen.png" width="70" height="70">
             </div>
@@ -80,7 +80,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/anpassen.png" width="70" height="70">
             </div>
@@ -90,7 +90,7 @@ Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch al
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/settings.png" width="70" height="70">
             </div>

@@ -71,8 +71,8 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
             <div class="card-header">Lite Produkte</div>
             <div class="card-body pb-0">
                 <div class="row g-0">
-                    <div class="col-sm-4 d-flex p-3 justify-content-center align-items-center">
-                        <img src="{{ site.baseurl }}/assets/covers/grw-tn2.png" width="85" height="120" class="border border-white">
+                    <div class="col-sm-4 d-flex px-3 justify-content-center align-items-center">
+                        <img src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140" class="border border-white">
                     </div>
                     <div class="col-sm-8">
                         <p class="card-text">Du kannst Lite als kostenloses PDF herunterladen und auch als kostengünstiges Hardcover kaufen. Mit dem Kauf des Buches unterstützt du das Projekt direkt.</p>

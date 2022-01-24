@@ -16,7 +16,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/80ies.png" width="70" height="70">
             </div>
@@ -26,7 +26,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/cyberpunk.png" width="70" height="70">
             </div>
@@ -36,7 +36,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/endzeit.png" width="70" height="70">
             </div>
@@ -46,7 +46,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/fantasy.png" width="70" height="70">
             </div>
@@ -56,7 +56,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/orient.png" width="70" height="70">
             </div>
@@ -66,7 +66,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/pulp.png" width="70" height="70">
             </div>
@@ -76,7 +76,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/spaceopera.png" width="70" height="70">
             </div>
@@ -86,7 +86,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/steampunk.png" width="70" height="70">
             </div>
@@ -96,7 +96,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/supers.png" width="70" height="70">
             </div>
@@ -106,7 +106,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/western.png" width="70" height="70">
             </div>
@@ -121,7 +121,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/small.png" width="70" height="70">
             </div>
@@ -131,7 +131,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/intheshadows.png" width="70" height="70">
             </div>
@@ -141,7 +141,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/easternaction.png" width="70" height="70">
             </div>
@@ -156,7 +156,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/pulpquadrat.png" width="70" height="70">
             </div>
@@ -166,7 +166,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/robin.png" width="70" height="70">
             </div>
@@ -176,7 +176,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/robots.png" width="70" height="70">
             </div>
@@ -186,7 +186,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/spacecowboys.png" width="70" height="70">
             </div>
@@ -196,7 +196,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/zombies.png" width="70" height="70">
             </div>
@@ -211,7 +211,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4 mb-4">
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/spacepirates.png" width="70" height="70">
             </div>
@@ -221,7 +221,7 @@ Die Anpassungen (Regeln) für diese Settings sind im Lite Grundregelwerk enthalt
         </div>
     </div>
     <div class="col">
-        <div class="card bg-blue text-light h-100">
+        <div class="card bg-blue text-light h-100 clickable">
             <div class="card-body p-1 align-self-center">
                 <img src="{{ site.baseurl }}/assets/images/icons/dasweltenbuch.png" width="70" height="70">
             </div>
