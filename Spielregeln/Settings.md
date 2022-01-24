@@ -17,7 +17,7 @@ Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abz
 
 Weitere Details der Settings werden durch Lite nicht festgelegt. Dafür kannst du Settingbände aus anderen Rollenspielen verwenden oder Settings aus Filmen und Büchern adaptieren.
 
-Auf dieser Internetpräsenz gibt es aber auch weitere [Settings]({{ site.baseurl }}/settings/), die teilweise auch detaillierter ausgearbeitet sind und auch spielbereite Abenteuer bieten.
+Auf dieser Internetpräsenz gibt es aber auch weitere [Settings]({{ site.baseurl }}/Settings/), die teilweise auch detaillierter ausgearbeitet sind und auch spielbereite Abenteuer bieten.
 
 Falls du Lite nur spielen und nicht am Setting basteln willst, kannst du dir auch einfach &bdquo;[SpacePirates]({{ site.baseurl }}/Settings/SpacePirates/)&ldquo; oder &bdquo;[Das Weltenbuch]({{ site.baseurl }}/Settings/Das_Weltenbuch/)&ldquo; herunterladen, beide basieren auf Lite und bieten ein ausgearbeitetes Setting.
 
