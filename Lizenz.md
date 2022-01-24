@@ -18,7 +18,7 @@ Alle Inhalte dieser Webpräsenz stehen unter der Creative Commons Lizenz [Namens
 
 ### Zu den folgenden Bedingungen:
 
-- Du musst mich ([Jürgen Mang]({{ site.baseurl }}{{ site.baseurl }}/autor)) als Urheber nennen und einen Link auf [https://jcgames.de/](https://jcgames.de/) oder einer passenden Unterseite einbinden.
+- Du musst mich (Jürgen Mang) als Urheber nennen und einen Link auf [https://lite.jcgames.de/](https://lite.jcgames.de/) oder einer passenden Unterseite einbinden.
 - Abwandlungen des Werkes müssen unter der gleichen Lizenz veröffentlicht werden.
 
 ### Ausnahmen bilden:
