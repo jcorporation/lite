@@ -43,7 +43,7 @@ Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. 
 
 ### Magiekategorien
 
-Wenn das Setting [Magiekategorien]({{ site.baseurl }}/rollenspiel/anpassungen/magie) definiert, kann der Spieler 1 Punkt in eine Magiekategorie investieren und so einen magisch begabten Charakter erschaffen. Magie funktioniert nach den gleichen Regeln wie [Ausrüstung]({{ site.baseurl }}/rollenspiel/charaktere/ausruestung), die Punkte in der jeweiligen Magiekategorie gewähren also einen Bonus in allen Konflikten, in denen die Magie zum Tragen kommt.
+Wenn das Setting [Magiekategorien]({{ site.baseurl }}/Spielregeln/Lite_anpassen/Magie) definiert, kann der Spieler 1 Punkt in eine Magiekategorie investieren und so einen magisch begabten Charakter erschaffen. Magie funktioniert nach den gleichen Regeln wie [Ausrüstung]({{ site.baseurl }}/Spielregeln/Charaktere/Ausrüstung), die Punkte in der jeweiligen Magiekategorie gewähren also einen Bonus in allen Konflikten, in denen die Magie zum Tragen kommt.
 
 ### Rassen- oder Völkerboni
 
@@ -52,14 +52,14 @@ Wenn das Setting Rassen- oder Völkerboni festlegt, werden diese im Anschluss au
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Erschaffe keinen Fachidioten!</div>
     <div class="card-body">
-        Erschaffe einen Charakter, der alleine überleben kann! Keinen Fachidioten, der in einem Abenteuer nur in ein oder zwei Szenen etwas beiträgt. Denn du als Spieler musst mit deinem Charakter das Abenteuer voranbringen können und willst sicherlich nicht nur zugucken.
+        <p>Erschaffe einen Charakter, der alleine überleben kann! Keinen Fachidioten, der in einem Abenteuer nur in ein oder zwei Szenen etwas beiträgt. Denn du als Spieler musst mit deinem Charakter das Abenteuer voranbringen können und willst sicherlich nicht nur zugucken.</p>
     </div>
 </div>
 
 <div class="card mb-3">
     <div class="card-header bg-orange text-light">Beispiel zur Profilwerteverteilung</div>
     <div class="card-body">
-        Willi entscheidet sich, in Absprache mit der Gruppe, für einen intellektuellen Charakter, der aber auch in der Wildnis überleben kann. Bei Pulp gibt es die Profile Forscher, Pionier, Soldat und Gauner. Er verteilt daher seine 12 Punkte wie folgt: Forscher 5, Pionier 4, Soldat 2, Gauner 1.
+        <p>Willi entscheidet sich, in Absprache mit der Gruppe, für einen intellektuellen Charakter, der aber auch in der Wildnis überleben kann. Bei Pulp gibt es die Profile Forscher, Pionier, Soldat und Gauner. Er verteilt daher seine 12 Punkte wie folgt: Forscher 5, Pionier 4, Soldat 2, Gauner 1.</p>
     </div>
 </div>
 
@@ -84,7 +84,7 @@ Bei der Charaktererschaffung erhält jeder Charakter 5 Gummipunkte. Diese werden
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Gummipunkte</div>
     <div class="card-body">
-        Da Gummipunkte ständig ausgegeben und regeneriert werden, zählt man sie am besten mit irgendwelchen Spielsteinen.
+        <p>Da Gummipunkte ständig ausgegeben und regeneriert werden, zählt man sie am besten mit irgendwelchen Spielsteinen.</p>
     </div>
 </div>
 
