@@ -6,7 +6,7 @@ title: Magie
 
 # Magie
 
-Auch Magie, PSI-Kräfte und ähnliche übernatürliche Effekte lassen sich in das Lite-Regelwerk integrieren. Sie werden in Kategorien eingeteilt, die mit den gleichen Punkten wie Profile erlernt und gesteigert werden können. Im Spiel verhält sich eine Magiekategorie wie ein [Ausrüstungsgegenstand]({{ site.baseurl }}/rollenspiel/charaktere/ausruestung).
+Auch Magie, PSI-Kräfte und ähnliche übernatürliche Effekte lassen sich in das Lite-Regelwerk integrieren. Sie werden in Kategorien eingeteilt, die mit den gleichen Punkten wie Profile erlernt und gesteigert werden können. Im Spiel verhält sich eine Magiekategorie wie ein [Ausrüstungsgegenstand]({{ site.baseurl }}/Spielregeln/Charaktere/Ausrüstung).
 
 Vor dem Spiel müssen die gewünschten Magieeffekte in Kategorien aufgeteilt werden, wie z.B. Illusion, Elementarzauber, etc. Bei der Festlegung von Kategorien sollte man folgende Punkte beachten:
 
