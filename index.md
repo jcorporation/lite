@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /index
+permalink: /
 title: Ein einfaches und erzählerisches Rollenspiel
 ---
 
