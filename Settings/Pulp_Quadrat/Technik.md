@@ -6,7 +6,7 @@ title: Technik
 
 # Technik
 
-Die Technologie ist auf dem Stand von 1940. Besonders der kalte Krieg zwischen den Großmächten Nazi Deutschlands, der USA und der Sowjetunion treibt die Entwicklung voran. Wobei nicht nur in traditionellen Richtungen geforscht wird, den sogenannten [/Settings/Pulp_Quadrat/parawissenschaften.html[Parawissenschaften] wird zunehmend mehr Aufmerksamkeit gewidmet.
+Die Technologie ist auf dem Stand von 1940. Besonders der kalte Krieg zwischen den Großmächten Nazi Deutschlands, der USA und der Sowjetunion treibt die Entwicklung voran. Wobei nicht nur in traditionellen Richtungen geforscht wird, den sogenannten [Parawissenschaften]({{ site.baseurl }}/Settings/Pulp_Quadrat/Parawissenschaften) wird zunehmend mehr Aufmerksamkeit gewidmet.
 
 ## Militär
 

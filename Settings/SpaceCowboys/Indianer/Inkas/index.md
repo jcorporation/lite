@@ -14,5 +14,5 @@ Die Inka-Stämme werden von einem Hochkönig angeführt, der unter den Königen 
 
 ## Planeten
 
-- [/Settings/SpaceCowboys/indianer/inkas_inkarprime.html[Inkar Prime]
-- [/Settings/SpaceCowboys/indianer/inkas_eldorado.html[El Dorado]
+- [Inkar Prime]({{ site.baseurl }}/Settings/SpaceCowboys/Indianer/Inkas/Inkar_Prime)
+- [El Dorado]({{ site.baseurl }}/Settings/SpaceCowboys/Indianer/Inkas/El_Dorado)

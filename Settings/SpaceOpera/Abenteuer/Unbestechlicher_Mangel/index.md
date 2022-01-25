@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/index
-title: 
+title: Unbestechlicher Mangel
 ---
 
 # Unbestechlicher Mangel
@@ -10,11 +10,11 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 ## Inhalt
 
-- [New Wyoming]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/newwyoming)
-- [Verkauf der Setzlinge]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/verkauf)
-- [Interessengruppen]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/gruppen)
-- [Spielleitercharaktere]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc)
-- [Federal Space Exploration Company]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/fedspex) (FedSpex)
+- [New Wyoming]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/New_Wyoming)
+- [Verkauf der Setzlinge]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Verkauf_der_Setzlinge)
+- [Interessengruppen]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Interessengruppen)
+- [Spielleitercharaktere]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Spielleitercharaktere)
+- [Federal Space Exploration Company]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/FedSpex) (FedSpex)
 
 ## Download
 
@@ -22,4 +22,3 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 <hr/>
 Dieses Abenteuer wurde von [Onno Tasler](http://belchion.rsp-blogs.de/) ursprünglich für seinen SpacePirates-Ableger Deep Space Traders geschrieben.
-

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/reise
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise
+title: Reise
 ---
 
 # Reise
@@ -14,6 +14,5 @@ Die Nazis haben in Somalia einen kleinen Stützpunkt und machen sich von dort au
 
 
 <hr/>
-- <strong>Zurück:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/nachforschungen)
-- <strong>Weiter:</strong> [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/insel)
-
+- <strong>Zurück:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)
+- <strong>Weiter:</strong> [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel)

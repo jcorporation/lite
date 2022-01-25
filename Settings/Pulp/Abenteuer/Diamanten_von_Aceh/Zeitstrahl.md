@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/zeitstrahl
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl
+title: Zeitstrahl
 ---
 
 # Zeitstrahl
@@ -25,6 +25,5 @@ Hier die möglichen Ereignisse in zeitlicher Reihenfolge.
 </table>
 
 <hr/>
-- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/gegenspieler.html[Gegenspieler]
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/einstieg.html[Einstieg]
-
+- <strong>Zurück:</strong> [Gegenspieler]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Gegenspieler)
+- <strong>Weiter:</strong> [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Einstieg)

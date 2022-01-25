@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/pyramide
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Pyramide
+title: Pyramide
 ---
 
 # Pyramide
@@ -25,7 +25,6 @@ Der größte Raum in der Pyramide ist der Tempelraum, er ist 20x20 Meter groß u
 
 Ist Baron von Wartenburg schon hier, hat er sich einige Diamanten gekrallt und ist dadurch verrückt geworden. Die Diamanten üben einen unheimlichen Drang aus, seine eigenen Augen auszukratzen und durch sie zu ersetzen. Genau dies hat der Baron gemacht. Er ist verrückt geworden und trägt Diamanten in seinen Augen. Dadurch steig sein Soldat-Profil um 2 Punkte. Wenn die Charaktere die Diamanten an sich nehmen, müssen sie eine Gauner-Probe mit 4 Erfolgen bestehen, um nicht das gleiche Schicksal zu erleiden.
 
-
 <hr/>
-- <strong>Zurück:</strong> [Hohlwelt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/hohlwelt)
+- <strong>Zurück:</strong> [Hohlwelt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Hohlwelt)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/gegenspieler
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Gegenspieler
+title: Gegenspieler
 ---
 
 # Gegenspieler
@@ -21,6 +21,7 @@ Baron von Wartenburg ist der Expeditionsleiter der Nazitruppen und ein hochrangi
 <tr><th>Bewaffnung</th><td>Pistole</td></tr>
 </tbody>
 </table>
+
 ## Fritz Leibner - Obersturmführer
 
 Fritz Leibner ist ein übermotivierter Obersturmführer, der die Nazitruppen anführt, die Baron von Wartenburg begleiten. Er ist überkorrekt gekleidet und extrem steif in seinem Wesen. Fritz Leibner ist Mitte 20 und will sein erstes wichtiges Kommando nutzen, um möglichst schnell aufzusteigen. Daher unternimmt er alles, damit auch ja nichts schief geht. Offiziell ist er Baron von Wartenburg unterstellt, hat aber den Befehl, diesen aus dem Weg zu räumen, sobald er die Diamanten in Händen hält.
@@ -36,6 +37,7 @@ Fritz Leibner ist ein übermotivierter Obersturmführer, der die Nazitruppen anf
 <tr><th>Bewaffnung</th><td>Pistole</td></tr>
 </tbody>
 </table>
+
 ## Nazi Soldaten
 
 Die Nazi Soldaten sind pflichtbewusst und dumm und auf der Seite des Bösen&trade;. Sie sind alle Fritz Leibner unterstellt und führen seine Befehle ohne Widerworte aus um ihren Führer zu dienen.
@@ -50,5 +52,4 @@ Die Nazi Soldaten sind pflichtbewusst und dumm und auf der Seite des Bösen&trad
 </table>
 
 <hr/>
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/zeitstrahl.html[Zeitstrahl]
-
+- <strong>Weiter:</strong> [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc
-title: 
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Spielleitercharaktere
+title: Spielleitercharaktere
 ---
 
 # Spielleitercharaktere
@@ -20,6 +20,7 @@ Hat kein Interesse daran, dass die Händler die Setzlinge anliefern und wird Ihn
 <tr><th>Zähigkeit</th><td>6</td></tr>
 </tbody>
 </table>
+
 ## Thomas Oxbridge
 
 Wird als Vertreter der menschlichen Landwirte alles tun, um die Einfuhr der Setzlinge zu ermöglichen. Leider ist er nicht sonderlich klug und handelt nach Schema F, es wird ihm aus eigenem Antrieb daher nicht gelingen, seinen Vorgesetzten matt zu setzen. Er kann allerdings gut als Schachfigur genutzt werden.
@@ -34,6 +35,7 @@ Wird als Vertreter der menschlichen Landwirte alles tun, um die Einfuhr der Setz
 <tr><th>Zähigkeit</th><td>6</td></tr>
 </tbody>
 </table>
+
 ## Chester L. Oxbridge
 
 Chester L. Oxbridge, der Mafia-Boss von Old Wyoming. Er ist Thomas Onkel und hat ihm die Stelle als Vizegouverneur verschafft. Offiziell tritt er als Vertreter des Bauernverbands auf. Da er beständig schmuggelt, ist es ihm ein leichtes, einen Warenaustausch via Weltraumfahrstuhl zu ermöglichen.

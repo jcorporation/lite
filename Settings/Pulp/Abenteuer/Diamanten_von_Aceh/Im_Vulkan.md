@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/vulkan
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan
+title: Im Vulkan
 ---
 
 # Im Vulkan
@@ -20,6 +20,5 @@ Auf der anderen Seite der Schlucht führt ein Gang serpentinenartig hinunter. Na
 
 
 <hr/>
-- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/insel.html[Insel]
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/hohlwelt.html[Hohlwelt]
-
+- <strong>Zurück:</strong> [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel)
+- <strong>Weiter:</strong> [Hohlwelt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Hohlwelt)

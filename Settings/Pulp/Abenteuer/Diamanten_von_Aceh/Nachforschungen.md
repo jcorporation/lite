@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/nachforschungen
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen
+title: Nachforschungen
 ---
 
 # Nachforschungen
@@ -23,8 +23,6 @@ Die Nazis sind auch erst heute in Alexandria eingetroffen und außer den 5 Jeeps
 - <strong>2 Erfolge:</strong> Das Schiff am Hafen war die MS Deutschland, ein schneller Schlachtkreuzer, eines der modernsten Schlachtkreuzer der Nazis.
 - <strong>3 Erfolge:</strong> Es hat jemand Baron von Wartenburg erkannt, der am Flughafen war.
 
-
 <hr/>
-- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/einstieg.html[Einstieg]
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/reise.html[Reise]
-
+- <strong>Zurück:</strong> [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Einstieg)
+- <strong>Weiter:</strong> [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise)

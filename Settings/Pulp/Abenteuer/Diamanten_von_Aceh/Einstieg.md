@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/einstieg
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Einstieg
+title: Einstieg
 ---
 
 # Einstieg
@@ -30,6 +30,5 @@ Außerhalb des Raumes sind alle Sicherheitskräfte ausgeschaltet worden, die Naz
 
 
 <hr/>
-- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/zeitstrahl.html[Zeitstrahl]
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/nachforschungen.html[Nachforschungen]
-
+- <strong>Zurück:</strong> [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)
+- <strong>Weiter:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)

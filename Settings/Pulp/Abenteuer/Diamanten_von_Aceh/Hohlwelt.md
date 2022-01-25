@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/hohlwelt
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Hohlwelt
+title: Hohlwelt
 ---
 
 # Hohlwelt
@@ -35,6 +35,7 @@ Die Eingeborenen werden von Mayta Capac angeführt, der wie ein Medizinmann auss
 <tr><th>Bewaffnung</th><td>verschießt Licht&shy;blitze aus den Augen</td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr><th colspan="2">30 Eingeborene</th></tr>
@@ -49,6 +50,5 @@ Falls die Nazis vor den Charakteren die Pyramide erreichen sind diese in einen K
 
 
 <hr/>
-- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/vulkan.html[Im Vulkan]
-- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/pyramide.html[Pyramide]
-
+- <strong>Zurück:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)
+- <strong>Weiter:</strong> [Pyramide]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Pyramide)

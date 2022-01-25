@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/insel
-title: 
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel
+title: Insel
 ---
 
 # Insel
@@ -26,6 +26,5 @@ Eines der Lager scheint verlassen zu sein. Überall liegen tote Nazisoldaten mit
 
 
 <hr/>
-- <strong>Zurück:</strong> [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/reise)
-- <strong>Weiter:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/vulkan)
-
+- <strong>Zurück:</strong> [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise)
+- <strong>Weiter:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)

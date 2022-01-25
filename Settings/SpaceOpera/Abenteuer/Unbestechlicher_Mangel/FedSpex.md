@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/fedspex
-title: 
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/FedSpex
+title: FedSpex
 ---
 
 # Federal Space Exploration Company
@@ -13,4 +13,3 @@ Ursprünglich war die FedSpex lediglich ein Gemeinschaftsunternehmen der Westlic
 Aus dem ehemals behäbigen Staatsunternehmen wurde dabei ein aggressives Franchise, das sein Monopol auf jegliche Aktivitäten seiner Kolonien strikt kontrolliert. Den Großteil des Risikos tragen dabei die Franchisenehmer, die sich offiziell als FedSpex Agents ausgeben müssen, sämtliche Verantwortung für die ihnen zugänglichen Kolonien tragen, keine Verträge mit anderen Kolonialherren schließen dürfen, auf ihren Verlusten sitzen bleiben, aber einen Großteil des Gewinns als Franchisegebühr abführen müssen.
 
 Offiziell verfügt die FedSpex über keinerlei Streitkräfte, kann aber die Streitkräfte der Westlichen Föderation mehr oder weniger wie Söldner abrufen.
-
