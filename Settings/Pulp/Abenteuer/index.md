@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/index
+permalink: /Settings/Pulp/Abenteuer/index
 title: 
 ---
 
 # Abenteuer
 
-- [Diamanten von Aceh]({{ site.baseurl }}/settings/pulp/ab/diamantenvonaceh/)
-- [Fordlandia]({{ site.baseurl }}/settings/pulp/ab/fordlandia/) (in Arbeit)
-- [Die Jagd nach der roten Kobra]({{ site.baseurl }}/settings/pulp/ab/rotekobra/)
+- [Diamanten von Aceh]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/)
+- [Fordlandia]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/) (in Arbeit)
+- [Die Jagd nach der roten Kobra]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/)
 

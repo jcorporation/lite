@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/slc
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc
 title: 
 ---
 

@@ -6,7 +6,7 @@ title: Produkte
 
 # Produkte
 
-Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Produkte als PDF zum kostenlosen [Download]({{ site.baseurl }}/downloads).
+Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Produkte als PDF zum kostenlosen [Download]({{ site.baseurl }}/Downloads/).
 
 Die Produkte können direkt bei mir per Mail an [mail@jcgames. de](mailto:mail@jcgames. de) erstanden werden. 
 

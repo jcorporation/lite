@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/diamantenvonaceh/gegenspieler
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/gegenspieler
 title: 
 ---
 
@@ -50,5 +50,5 @@ Die Nazi Soldaten sind pflichtbewusst und dumm und auf der Seite des Bösen&trad
 </table>
 
 <hr/>
-- <strong>Weiter:</strong> [/settings/pulp/ab/diamantenvonaceh/zeitstrahl.html[Zeitstrahl]
+- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/zeitstrahl.html[Zeitstrahl]
 

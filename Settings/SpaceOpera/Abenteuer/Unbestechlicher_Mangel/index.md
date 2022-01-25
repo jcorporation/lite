@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/index
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/index
 title: 
 ---
 
@@ -10,11 +10,11 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 ## Inhalt
 
-- [New Wyoming]({{ site.baseurl }}/settings/spaceopera/ab/unbman/newwyoming)
-- [Verkauf der Setzlinge]({{ site.baseurl }}/settings/spaceopera/ab/unbman/verkauf)
-- [Interessengruppen]({{ site.baseurl }}/settings/spaceopera/ab/unbman/gruppen)
-- [Spielleitercharaktere]({{ site.baseurl }}/settings/spaceopera/ab/unbman/slc)
-- [Federal Space Exploration Company]({{ site.baseurl }}/settings/spaceopera/ab/unbman/fedspex) (FedSpex)
+- [New Wyoming]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/newwyoming)
+- [Verkauf der Setzlinge]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/verkauf)
+- [Interessengruppen]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/gruppen)
+- [Spielleitercharaktere]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc)
+- [Federal Space Exploration Company]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/fedspex) (FedSpex)
 
 ## Download
 

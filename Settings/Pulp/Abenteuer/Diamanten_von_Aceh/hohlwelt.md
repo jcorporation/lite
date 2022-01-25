@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/diamantenvonaceh/hohlwelt
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/hohlwelt
 title: 
 ---
 
@@ -49,6 +49,6 @@ Falls die Nazis vor den Charakteren die Pyramide erreichen sind diese in einen K
 
 
 <hr/>
-- <strong>Zurück:</strong> [/settings/pulp/ab/diamantenvonaceh/vulkan.html[Im Vulkan]
-- <strong>Weiter:</strong> [/settings/pulp/ab/diamantenvonaceh/pyramide.html[Pyramide]
+- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/vulkan.html[Im Vulkan]
+- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/pyramide.html[Pyramide]
 

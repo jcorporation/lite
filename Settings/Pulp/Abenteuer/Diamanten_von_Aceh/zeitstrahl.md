@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/diamantenvonaceh/zeitstrahl
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/zeitstrahl
 title: 
 ---
 
@@ -25,6 +25,6 @@ Hier die möglichen Ereignisse in zeitlicher Reihenfolge.
 </table>
 
 <hr/>
-- <strong>Zurück:</strong> [/settings/pulp/ab/diamantenvonaceh/gegenspieler.html[Gegenspieler]
-- <strong>Weiter:</strong> [/settings/pulp/ab/diamantenvonaceh/einstieg.html[Einstieg]
+- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/gegenspieler.html[Gegenspieler]
+- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/einstieg.html[Einstieg]
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/verkauf
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/verkauf
 title: 
 ---
 
@@ -11,6 +11,6 @@ title:
 
 Da die Charaktere keine Handelslizenz der FedSpex für New Wyoming besitzen, können Sie nicht regulär im Raumhafen andocken, ihre Ladung löschen, verkaufen und neue Fracht aufnehmen. Andererseits sind diverse Leute auf dem Mond an der Fracht interessiert.
 
-- [/settings/spaceopera/ab/unbman/gruppen.html[Interessierte Gruppen]
-- [/settings/spaceopera/ab/unbman/slc.html[Interessiere Charaktere]
+- [/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/gruppen.html[Interessierte Gruppen]
+- [/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc.html[Interessiere Charaktere]
 

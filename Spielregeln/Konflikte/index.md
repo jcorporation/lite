@@ -4,7 +4,7 @@ permalink: /Spielregeln/Konflikte/index
 title: Konflikte
 ---
 
-<h1 class="titelimg"><img alt="Konflikte" height="70" src="{{ site.baseurl }}/assets/images/icons/konflikte.png" width="70" />Konflikte</h1>
+<h1><img alt="Konflikte" height="70" src="{{ site.baseurl }}/assets/images/icons/konflikte.png" width="70" />Konflikte</h1>
 
 Bei Lite gibt es zwei Möglichkeiten Konflikte zu lösen. Dabei entscheidet der Spielleiter welche der beiden Regeln zum Einsatz kommt.
 

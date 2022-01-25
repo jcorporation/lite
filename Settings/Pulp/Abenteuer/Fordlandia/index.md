@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/fordlandia/index
-title: 
+permalink: /Settings/Pulp/Abenteuer/Fordlandia/index
+title: Fordlandia
 ---
 
 # Fordlandia
@@ -14,13 +14,13 @@ Die Abenteurer werden von Henry Ford angeheuert. Sie sollen herausfinden, warum 
 Dieser Text befindet sich noch in der Entwicklungsphase.
 
 </div>
-- [/settings/pulp/ab/fordlandia/einstieg.html[Einstieg]
-- [/settings/pulp/ab/fordlandia/reise.html[Reise]
-- [/settings/pulp/ab/fordlandia/fordlandia.html[Fordlandia]
-- [/settings/pulp/ab/fordlandia/dschungel.html[Dschungel]
-- [/settings/pulp/ab/fordlandia/indianertempel.html[Indianertempel]
+
+- [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/Einstieg)
+- [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/Reise)
+- [Fordlandia]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/Fordlandia)
+- [Dschungel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/Dschungel)
+- [Indianertempel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Fordlandia/Indianertempel)
 
 ## Download
 
 Leider noch nicht verfügbar.
-

@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /settings/robots/index
+permalink: /Settings/Robots/index
 title: Robots
 ---
 
-<h1 class="titelimg"><img alt="Robots" src="{{ site.baseurl }}/assets/images/icons/robots.png"/>Robots</h1>
+<h1><img alt="Robots" src="{{ site.baseurl }}/assets/images/icons/robots.png"/>Robots</h1>
+
 <aside>
 <div class="working">
 ## In Arbeit
@@ -19,22 +20,20 @@ In Robots sind die Charaktere menschengroße, intelligente Roboter mit Emotionsc
 
 ## Regeln
 
-- [Profile]({{ site.baseurl }}/settings/robots/profile)
-- [Archetypen]({{ site.baseurl }}/settings/robots/archetypen)
-- [Ausrüstung]({{ site.baseurl }}/settings/robots/ausruestung)
+- [Profile]({{ site.baseurl }}/Settings/Robots/Profile)
+- [Archetypen]({{ site.baseurl }}/Settings/Robots/Archetypen)
+- [Ausrüstung]({{ site.baseurl }}/Settings/Robots/Ausrüstung)
 
 ## Setting
 
-- [Hintergrund]({{ site.baseurl }}/settings/robots/hintergrund)
+- [Hintergrund]({{ site.baseurl }}/Settings/Robots/Hintergrund)
 - Silicon Valley
-<li>[Robopolis]({{ site.baseurl }}/settings/robots/robopolis/index)
-- [Karte]({{ site.baseurl }}/settings/robots/robopolis/karte)
-- Fruit-City (Applebots)
-- FB-Islands (Fbots)
-- Tesla Alto (Teslabots)
-- Go-Bot-View (Gobots)
-
-</li>
+- [Robopolis]({{ site.baseurl }}/Settings/Robots/Robopolis/)
+  - [Karte]({{ site.baseurl }}/Settings/Robots/Robopolis/Karte)
+  - Fruit-City (Applebots)
+  - FB-Islands (Fbots)
+  - Tesla Alto (Teslabots)
+  - Go-Bot-View (Gobots)
 
 ## Download
 

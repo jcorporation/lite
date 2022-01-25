@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/newwyoming
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/newwyoming
 title: 
 ---
 
@@ -15,9 +15,9 @@ New Wyoming, offiziell HD 10180 g VII, umkreist als siebter Mond (VII) den Plane
 - Weltraumfahrstühle: 2 (New Green River, New Laramie)
 - Kuriosa: Der &bdquo;Green River&ldquo; wirkt eher orange als grün.
 
-Ursprünglich wurde der Planet von [/settings/spaceopera/ab/unbman/gruppen.html#wagonischeaussteiger[wagonischen Aussteigern] besiedelt, die sich in kleinen, fliegenden Dörfern mit wenigen Hundert Einwohnern über den ganzen Planeten verteilten. Die Menschen siedeln in einem recht eng begrenztem Gebiet (dem eigentlichen New Wyoming) im Städtedreieck zwischen New Green River, New Laramie und New Gilette.
+Ursprünglich wurde der Planet von [/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/gruppen.html#wagonischeaussteiger[wagonischen Aussteigern] besiedelt, die sich in kleinen, fliegenden Dörfern mit wenigen Hundert Einwohnern über den ganzen Planeten verteilten. Die Menschen siedeln in einem recht eng begrenztem Gebiet (dem eigentlichen New Wyoming) im Städtedreieck zwischen New Green River, New Laramie und New Gilette.
 
-Die Federal Space Exploration Company nahm den Planet erst vor wenigen Jahren in Besitz, wobei sie der wagonischen Regierung aber zugestehen musste, stets einen [/settings/spaceopera/ab/unbman/slc.html[wagonischen Gouverneur] einzusetzen.
+Die Federal Space Exploration Company nahm den Planet erst vor wenigen Jahren in Besitz, wobei sie der wagonischen Regierung aber zugestehen musste, stets einen [/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc.html[wagonischen Gouverneur] einzusetzen.
 
 Seither kam es zu gelegentlichen Zusammenstößen zwischen menschlichen und wagonischen Siedlern, da beide entgegengesetze Ansichten zur Landwirtschaft haben: Während die Menschen auf intensive, industrialisierte Landwirtschaft setzen, bevorzugen die Wagonen extensiven ökologischen Anbau.
 

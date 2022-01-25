@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/diamantenvonaceh/pyramide
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/pyramide
 title: 
 ---
 
@@ -27,5 +27,5 @@ Ist Baron von Wartenburg schon hier, hat er sich einige Diamanten gekrallt und i
 
 
 <hr/>
-- <strong>Zurück:</strong> [Hohlwelt]({{ site.baseurl }}/settings/pulp/ab/diamantenvonaceh/hohlwelt)
+- <strong>Zurück:</strong> [Hohlwelt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/hohlwelt)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/easternaction/Profile
+permalink: /Settings/easternaction/Profile
 title: Profile
 ---
 

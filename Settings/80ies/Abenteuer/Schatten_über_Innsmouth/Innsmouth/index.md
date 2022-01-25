@@ -18,10 +18,10 @@ Für den gesamten zweiten Teil gilt: Fortbewegungsmittel von Fremden, die unbeau
 
 ## Die möglichen Schauplätze
 
-- [Die Tankstelle](/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Tankstelle.html): Einzige Einkaufsmöglichkeit und einziger scheinbar vernünftiger Mensch in der Stadt.
-- [Die Kirche](/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Kirche.html): Verfallener Ort voller Schatten und falscher Winkel. H.P. hätte eine wahre Freude daran.
-- [Das Hotel](/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Das_Hotel.html): Einzige Übernachtungsmöglichkeit und Schauplatz zahlreicher Verbrechen.
-- [Der Hafen](/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Der_Hafen.html): Eine Hafenkneipe, Schläger, ein geschwätziger Säufer und blutrünstige Rituale laden ein zum Verweilen.
+- [Die Tankstelle]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Tankstelle): Einzige Einkaufsmöglichkeit und einziger scheinbar vernünftiger Mensch in der Stadt.
+- [Die Kirche]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Kirche): Verfallener Ort voller Schatten und falscher Winkel. H.P. hätte eine wahre Freude daran.
+- [Das Hotel]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Das_Hotel): Einzige Übernachtungsmöglichkeit und Schauplatz zahlreicher Verbrechen.
+- [Der Hafen]({{ site.baseurl }}/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Der_Hafen): Eine Hafenkneipe, Schläger, ein geschwätziger Säufer und blutrünstige Rituale laden ein zum Verweilen.
 
 Natürlich steht es dem Spielleiter frei, dem Szenario beliebige weitere Schauplätze hinzuzufügen oder bei Bedarf zu improvisieren. Die Erfahrung in Testspielen zeigte allerdings, das keine Gruppe mehr als drei dieser vier Schauplätze benötigte, um den Showdown zu erreichen. Im ganz Innsmouth ist der Handy-Empfang ziemlich schlecht. Trotzdem können die Charaktere meistens telefonieren. Rufen sie die Polizei, so werden sie gebeten, die Anzeige persönlich auf der Wache in Freeport abzugeben. Melden sie einen Mord oder ähnlich schlimmes, versucht der Polizist am anderen Ende das ganze als einen Scherz abzutun. Nur wenn der Anrufer wirklich überzeugend ist, verspricht er, sofort einen Streifenwagen zu schicken, der allerdings einige Zeit brauchen wird. Auftauchen wird der Streifenwagen allerdings nicht, höchstens vielleicht beim Showdown, um den Charakteren zu einer spektakulären Flucht zu verhelfen.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/rotekobra/index
-title: 
+permalink: /Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/index
+title: Jagd nach der roten Kobra
 ---
 
 # Jagd nach der roten Kobra
@@ -10,20 +10,18 @@ title:
 
 Wenig erstaunlich also, dass Abenteurer und Großwildjäger aus aller Welt aufgetaucht sind, um für Ruhm und eine einzigartige Trophäe ihr Leben zu riskieren.
 
-- [Hintergrund]({{ site.baseurl }}/settings/pulp/ab/rotekobra/hintergrund)
-- [Zeitstrahl]({{ site.baseurl }}/settings/pulp/ab/rotekobra/zeitstrahl)
-- [Einstieg]({{ site.baseurl }}/settings/pulp/ab/rotekobra/einstieg)
-- [Floßfahrt]({{ site.baseurl }}/settings/pulp/ab/rotekobra/flossfahrt)
-- [Eingeborenendorf]({{ site.baseurl }}/settings/pulp/ab/rotekobra/eingeborenendorf)
-- [Insel]({{ site.baseurl }}/settings/pulp/ab/rotekobra/insel)
-- [Karte]({{ site.baseurl }}/settings/pulp/ab/rotekobra/karte)
-- [Tempel]({{ site.baseurl }}/settings/pulp/ab/rotekobra/tempel)
-- [Linker Tunnel]({{ site.baseurl }}/settings/pulp/ab/rotekobra/links)
-- [Rechter Tunnel]({{ site.baseurl }}/settings/pulp/ab/rotekobra/rechts)
-- [Verbindungstunnel]({{ site.baseurl }}/settings/pulp/ab/rotekobra/verbindung)
-- [Kaverne]({{ site.baseurl }}/settings/pulp/ab/rotekobra/kaverne)
-- [Unterirdische Stadt]({{ site.baseurl }}/settings/pulp/ab/rotekobra/stadt)
-- [Ende]({{ site.baseurl }}/settings/pulp/ab/rotekobra/ende)
+- [Hintergrund]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Hintergrund)
+- [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Zeitstrahl)
+- [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Einstieg)
+- [Floßfahrt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Floßfahrt)
+- [Eingeborenendorf]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Eingeborenendorf)
+- [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Insel)
+- [Karte]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Karte)
+- [Tempel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Tempel)
+- [Verbindungstunnel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Verbindungstunnel)
+- [Kaverne]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Kaverne)
+- [Unterirdische Stadt]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Unterirdische_Stadt)
+- [Ende]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/Ende)
 
 ## Download
 
@@ -31,4 +29,3 @@ Wenig erstaunlich also, dass Abenteurer und Großwildjäger aus aller Welt aufge
 
 <hr/>
 Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [W6 vs W12](http://w6vsw12.wordpress.com/2014/05/26/abenteuer-die-jagd-nach-der-roten-kobra-hex/) für HEX. Ich habe es deutlich gestrafft und umgestaltet.
-

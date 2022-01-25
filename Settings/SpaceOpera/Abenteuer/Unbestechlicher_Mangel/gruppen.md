@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/gruppen
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/gruppen
 title: 
 ---
 
@@ -29,5 +29,5 @@ Die Farmer benötigen dringend Setzlinge für die nächste Saison. Sie wären da
 
 ## Organisierte Kriminalität
 
-Wenn ein Geschäft durch bürokratische Regeln bedroht wird und einen hübschen Gewinn verspricht, ist die Organisierte Kriminalität gerne bereit, auszuhelfen. In diesem speziellen Fall handelt es sich dabei um die Bande von [/settings/spaceopera/ab/unbman/slc.html#chesterl.oxbridge[Chester L. Oxbridge], deren Macht vor allem auf der Unterwanderung des Bauernverbands beruht. Sie haben aber auch ausreichend Erfahrung im Schmuggel, um die Ware sicher und unauffällig entgegenzunehmen.
+Wenn ein Geschäft durch bürokratische Regeln bedroht wird und einen hübschen Gewinn verspricht, ist die Organisierte Kriminalität gerne bereit, auszuhelfen. In diesem speziellen Fall handelt es sich dabei um die Bande von [/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/slc.html#chesterl.oxbridge[Chester L. Oxbridge], deren Macht vor allem auf der Unterwanderung des Bauernverbands beruht. Sie haben aber auch ausreichend Erfahrung im Schmuggel, um die Ware sicher und unauffällig entgegenzunehmen.
 

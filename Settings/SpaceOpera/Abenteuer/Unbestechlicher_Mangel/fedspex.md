@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/spaceopera/ab/unbman/fedspex
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/fedspex
 title: 
 ---
 

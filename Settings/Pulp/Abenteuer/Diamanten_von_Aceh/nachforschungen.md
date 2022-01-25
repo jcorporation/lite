@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /settings/pulp/ab/diamantenvonaceh/nachforschungen
+permalink: /Settings/Pulp/Abenteuer/Diamanten_von_Aceh/nachforschungen
 title: 
 ---
 
@@ -25,6 +25,6 @@ Die Nazis sind auch erst heute in Alexandria eingetroffen und außer den 5 Jeeps
 
 
 <hr/>
-- <strong>Zurück:</strong> [/settings/pulp/ab/diamantenvonaceh/einstieg.html[Einstieg]
-- <strong>Weiter:</strong> [/settings/pulp/ab/diamantenvonaceh/reise.html[Reise]
+- <strong>Zurück:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/einstieg.html[Einstieg]
+- <strong>Weiter:</strong> [/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/reise.html[Reise]
 

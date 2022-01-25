@@ -13,7 +13,7 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
 - [Vor dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Vor_dem_Abenteuer)
 - [Gliederung des Abenteuers]({{ site.baseurl }}/Spielregeln/Abenteuer/Gliederung)
 - [Ablauf einer Szene]({{ site.baseurl }}/Spielregeln/Abenteuer/Ablauf_einer_Szene)
-- [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dema_Abenteuer)
+- [Nach dem Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/Nach_dem_Abenteuer)
 
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Aufgabe der Spieler ist es ...</div>
