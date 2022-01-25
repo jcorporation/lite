@@ -17,8 +17,8 @@ Vor dem Spiel müssen die gewünschten Magieeffekte in Kategorien aufgeteilt wer
 <div class="card mb-3">
     <div class="card-header bg-orange text-light">Beispielmagiekategorien</div>
     <div class="card-body">
-        <p><strong>Bewegung</strong> (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)<p>
-        <p><strong>Elemente </strong>(Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)</p>
+        <p><strong>Bewegung</strong> (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)</p>
+        <p><strong>Elemente</strong> (Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)</p>
     </div>
 </div>
 
