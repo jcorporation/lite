@@ -4,7 +4,7 @@
 
 Das ist das Repository für die Webpräsenz von Lite – dem freien Papier-und-Bleistift-Rollenspiel. 
 
-https://lite/jcgames.de
+https://lite.jcgames.de/
 
 ## Lizenz
 ![image](https://lite.jcgames.de/assets/images/ccbysa.svg)
