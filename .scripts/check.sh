@@ -5,6 +5,8 @@ check_permalink() {
     P=${F%.*} # remove extension
     PERMALINK="${P:1}" # remove first char
 
+    [ "$F" = "./index.md" ] && return
+
     if ! grep -q "^permalink: $PERMALINK" "$F"
     then
         echo "Invalid permalink: $F"
