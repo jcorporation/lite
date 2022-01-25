@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/Robin/Archetypen
-title: 
+title: Archetypen
 ---
 
 # Archetypen
@@ -33,4 +33,3 @@ Dieser Charakter ist eigentlich ein frommer Augustinermönch. Doch die Korruptio
 ## Wilderer
 
 Im Sherwood Forest ist es verboten zu jagen, ihm blieb aber nichts anderes übrig, da seine Familie hungerte. Er wird dabei von den Waldhütern des Sheriffs erwischt, er entkommt mit knapper Not vor den Waldhütern und rettet sich in den Sherwood Forest.
-

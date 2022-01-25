@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/SpaceCowboys/Ausrüstung
-title: 
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -23,6 +23,7 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Lasso</td><td>20</td></tr>
 </tbody>
 </table>
+
 ## Besondere Waffen
 
 <table>
@@ -37,6 +38,7 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Lassowerfer</td><td>400</td></tr>
 </tbody>
 </table>
+
 ## Immobile Waffen
 
 <table>
@@ -49,6 +51,7 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Maschinengewehr</td><td>6.000</td></tr>
 </tbody>
 </table>
+
 ## Fortbewegung
 
 <table>
@@ -71,6 +74,7 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Kanu</td><td>300</td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/Robin/Ausrüstung
-title: 
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -23,6 +23,7 @@ Die allgemeine Währungseinheit ist der silbernen Pence (SP).
 <tr><td>Kampfstab</td><td>300 SP</td></tr>
 </tbody>
 </table>
+
 ## Rüstungen
 
 Rüstungen geben einen Bonus auf die Zähigkeit.
@@ -37,6 +38,7 @@ Rüstungen geben einen Bonus auf die Zähigkeit.
 <tr><td>Lederrüstung</td><td>450 SP</td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>
@@ -52,5 +54,5 @@ Rüstungen geben einen Bonus auf die Zähigkeit.
 <tr><td>Verbandszeug</td><td>100 SP</td></tr>
 </tbody>
 </table>
-Das Wildnisset beinhaltet alles, was man in der Wildnis so benötigt: Feuerstein, Wasserschlauch, Messer, Seil, etc.
 
+Das Wildnisset beinhaltet alles, was man in der Wildnis so benötigt: Feuerstein, Wasserschlauch, Messer, Seil, etc.

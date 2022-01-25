@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /Settings/Robots/Profile
-title: 
+title: Profile
 ---
 
-
-# Überschrift
-
+# Profile
 
 Bei Robots besitzen die Charaktere die 4 Profile Militär, Analyse, Sozial und Technik.
 
@@ -25,6 +23,3 @@ Unter Sozial fallen alle sozialen Fertigkeiten. Interaktionsroboter besitzen oft
 ## Technik
 
 Unter Technik fallen alle technischen Fertigkeiten, wie den Bau und die Reparatur von Maschinen und natürlich auch Robotern. Weiterhin beinhaltet dieses Profil Computerkenntnisse und die Fähigkeit technische Dinge zu improvisieren.
-
-
-

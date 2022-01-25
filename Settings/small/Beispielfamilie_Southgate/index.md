@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/small/Beispielfamilie_Southgate
+permalink: /Settings/small/Beispielfamilie_Southgate/index
 title: Beispielfamilie Southgate
 ---
 

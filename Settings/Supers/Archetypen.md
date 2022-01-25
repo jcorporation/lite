@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/Supers/Archetypen
-title: 
+title: Archetypen
 ---
 
 # Archetypen
@@ -53,4 +53,3 @@ Sie ist die typische, extrem gut organisierte Hausfrau, die nicht nur ihren Haus
 Er ist ein Zoowärter und hat sein Hobby zum Beruf gemacht. Er liebt alle Tiere und kommt auch mit schwierigen Exemplaren erstaunlich gut klar. Vielleicht liegt es daran, dass er sich selber in eines verwandeln kann.
 
 <strong>Typische Superkraft:</strong> Tiermensch
-

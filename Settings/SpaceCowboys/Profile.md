@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/SpaceCowboys/Profile
-title: 
+title: Profile
 ---
 
 # Profile
@@ -21,4 +21,3 @@ Unter Revolverheld fallen alle Nah- und Fernkampffertigkeiten sowie viele körpe
 ## Händler
 
 Unter Händler fallen alle Handelsfertigkeiten und viele soziale Fertigkeiten. Sie verfügen meist über ausgeprägte soziale Fertigkeiten und sind der Führungstyp. Sie finden sich in den Städten gut zurecht und haben auch die ein oder andere nützliche Beziehung.
-

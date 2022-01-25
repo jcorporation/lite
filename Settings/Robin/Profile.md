@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/Robin/Profile
-title: 
+title: Profile
 ---
 
 # Profile
@@ -23,4 +23,3 @@ Unter Recke fallen alle Nah- und Fernkampffertigkeiten, wie Bogen schießen und 
 ## Weidmann
 
 Unter Weidmann fallen alle Fertigkeiten, die benötigt werden, um im Sherwood Forest zu überleben. Kenntnisse in der Jagd und über die Natur fallen genauso darunter wie auch Reiten, Feuer entzünden oder eine geeignete Furt finden.
-

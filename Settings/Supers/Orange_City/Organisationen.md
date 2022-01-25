@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/Orange_City/organisationen
+permalink: /Settings/Supers/Orange_City/Organisationen
 title: Organisationen
 ---
 

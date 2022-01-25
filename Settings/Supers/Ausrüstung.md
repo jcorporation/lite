@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/Supers/Ausrüstung
-title: 
+title: Ausrüstung
 ---
 
 # Ausrüstung

@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /Settings/small/Profile
-title: 
+title: Profile
 ---
 
 # Profile
 
-<div class="content browse">
 Die vier Profile für small sind.
 
 ## Knüppler
@@ -24,5 +23,3 @@ Die Behausungen der Familien liegen weit auseinander und Läufer wissen gut, wie
 ## Plapperer
 
 Wenn man einfach mal jemanden überzeugen oder ablenken muss. Ein nettes Lächeln, ein stechender Blick, ein Haufen Argumente usw.
-
-</div>

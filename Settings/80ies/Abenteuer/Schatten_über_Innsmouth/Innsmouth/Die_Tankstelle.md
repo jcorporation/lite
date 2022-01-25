@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Die_Tankstelle
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Die_Tankstelle
 title: Die Tankstelle
 ---
 

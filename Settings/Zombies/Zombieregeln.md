@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Zombies/zombieregeln
+permalink: /Settings/Zombies/Zombieregeln
 title: Zombieregeln
 ---
 

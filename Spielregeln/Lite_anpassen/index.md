@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink:  /Spielregeln/Lite_anpassen/index
+permalink: /Spielregeln/Lite_anpassen/index
 title: Lite anpassen
 ---
 

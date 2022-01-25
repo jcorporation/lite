@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/superkraefte
+permalink: /Settings/Supers/Superkräfte
 title: Superkräfte
 ---
 

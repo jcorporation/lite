@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Settings/small/Ausrüstung
-title: 
+title: Ausrüstung
 ---
 
 # Ausrüstung
@@ -27,6 +27,7 @@ Thumblinge kennen keine Währung wie wir. Stattdessen blüht unter ihnen der Tau
 <tr><td>Chinakracher</td><td>4</td></tr>
 </tbody>
 </table>
+
 ## Weitere Ausrüstung
 
 <table>
@@ -43,6 +44,7 @@ Thumblinge kennen keine Währung wie wir. Stattdessen blüht unter ihnen der Tau
 <tr><td>Verbände und Wundtinktur</td><td>1</td></tr>
 </tbody>
 </table>
+
 ## Fortbewegungsmittel
 
 <table>

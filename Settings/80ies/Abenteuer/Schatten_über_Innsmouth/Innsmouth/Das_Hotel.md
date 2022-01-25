@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Das_Hotel
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Das_Hotel
 title: Das Hotel
 ---
 

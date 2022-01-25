@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /Settings/Robots/Ausrüstung
-title: 
+title: Ausrüstung
 ---
 
-
 # Ausrüstung
-
 
 Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihre Währungseinheit ist die Bitcoin.
 
@@ -23,6 +21,7 @@ Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihr
 <tr><td>Pfeil mit Seil</td><td> </td></tr>
 </tbody>
 </table>
+
 ## Fortbewegung
 
 <table>
@@ -38,6 +37,7 @@ Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihr
 <tr><td>Amphibieneinheit</td><td> </td></tr>
 </tbody>
 </table>
+
 ## Sensoren
 
 <table>
@@ -53,6 +53,7 @@ Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihr
 <tr><td>Ultraschallfähiges Gehör</td><td> </td></tr>
 </tbody>
 </table>
+
 ## Diverses
 
 <table>
@@ -70,6 +71,7 @@ Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihr
 <tr><td>Werkzeugarm</td><td> </td></tr>
 </tbody>
 </table>
+
 Der <strong>zusätzliche Akku</strong> lässt den Roboter insgesamt 2 Wochen ohne aufladen mobil sein.
 
 Das <strong>Tarnmuster</strong> passt sich automatisch der Umgebung an und gibt daher P+2 auf verstecken oder schleichen.
@@ -90,5 +92,3 @@ Jeder Roboter besitzt eine Basiseinheit, die erweitert werden kann. Basisgefühl
 <tr><td>Coolnesserweiterung</td><td> </td></tr>
 </tbody>
 </table>
-
-

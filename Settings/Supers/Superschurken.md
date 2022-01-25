@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/superschurken
+permalink: /Settings/Supers/Superschurken
 title: Superschurken
 ---
 

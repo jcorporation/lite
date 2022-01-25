@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /Settings/Robots/Archetypen
-title: 
+title: Archetypen
 ---
 
-
 # Archetypen
-
 
 ## Roboter
 
@@ -16,10 +14,4 @@ Jeder Roboter besitzt auch eine Emotionseinheit, die ihn einzigartig macht und i
 
 Bei Robots entsprechen die Merkmale der Grundprogrammierung des Roboters. Emotionserweiterungen des Roboters können diese beeinflussen.
 
-
-
 ## Typische Roboter
-
-
-
-

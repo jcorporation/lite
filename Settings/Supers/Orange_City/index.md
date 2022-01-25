@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/orangecity
+permalink: /Settings/Supers/Orange_City/index
 title: Orange City
 ---
 

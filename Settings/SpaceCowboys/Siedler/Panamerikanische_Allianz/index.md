@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Siedler/Panamerikanische_Allianz
+permalink: /Settings/SpaceCowboys/Siedler/Panamerikanische_Allianz/index
 title: Panamerikanische Allianz
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Der_Hafen
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/Innsmouth/Der_Hafen
 title: Der Hafen 
 ---
 

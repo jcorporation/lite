@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Settings/Supers/Abenteuer/Pflanzen_an_die_Macht/entfuehrung
-title: 
+permalink: /Settings/Supers/Abenteuer/Pflanzen_an_die_Macht/Entführung
+title: Entführung 
 ---
 
 # Entführung von Rebeca Miller
@@ -23,6 +23,7 @@ Rebeca Miller arbeitet bei Orange Daily und ist eine hübsche und intelligente R
 <tr><th>Bewaffnung</th><td>keine</td></tr>
 </tbody>
 </table>
+
 ## Kamerateam
 
 Bei Rebeca Miller ist nur ein vierköpfiges Kamerateam, das natürlich keine Chance gegen Treeman und seine zwei Bäume hat. Dabei haben sie einen Sendewagen, da die Reportage live, zu den Abendnachrichten, gesendet wird. Andere Autos sind im Park nicht erlaubt.
