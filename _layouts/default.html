@@ -33,16 +33,20 @@
       </nav>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
-      <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
-        <main class="col col-xl-8">
-          {{ content }}
-        </main>
-        {% if page.aside %}
+      {% if page.aside %}
+        <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
+          <main class="col col-xl-8">
+            {{ content }}
+          </main>
           <aside class="col col-xl-4 pe-0">
             {% include_relative {{ page.aside }} %}
           </aside>
-        {% endif %}
-      </div>
+        </div>
+      {% else %}
+        <main>
+            {{ content }}
+        </main>
+      {% endif %}
     </div>
     <footer class="footer-bottom bg-light">
       <nav class="container-xxl">
