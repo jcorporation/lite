@@ -4,7 +4,7 @@ permalink: /Settings/Supers/index
 title: Supers
 ---
 
-<h1><img alt="Pulp" src="{{ site.baseurl }}/assets/images/icons/supers.png"/>Supers</h1>
+{% include pictitle title=page.title image="/icons/supers.png" %}
 
 Supers ist ein Setting für typische Comic-Superhelden. Es spielt in einer fröhlichen, bunten und mitttelgroßen Stadt, die aus unbekannten Gründen ständig von genial-verrückten [Superschurken]({{ site.baseurl }}/Settings/Supers/Superschurken) bedroht wird. Polizei und Bürgermeister sind damit natürlich total überfordert, da bleiben nur die Superhelden, um den Superschurken das Handwerk zu legen.
 
@@ -29,7 +29,8 @@ Die Charaktere bilden eine Superheldengruppe. Jeder Charakter besitzt eine [Supe
 
 ## Downloads
 
-[downbox[settings/lite-supers-orangecity_]
+{% include downboxrow title="Orange City" image="/thumbnails/orangecity.png" body="PDF A5
+Version: 2017.06.13" link="/Downloads/Settings/lite-supers-orangecity_2017-06-13.pdf" %}
 
 ## Abenteuer
 
