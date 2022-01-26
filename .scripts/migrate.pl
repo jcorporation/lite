@@ -71,9 +71,9 @@ while (<$in>) {
     s|^</ul>$||;
     s|^\s+$||;
     s|<strong>([^<]+)</strong>|**$1**|g;
+    s|<em>([^<]+)</em>|*$1*|g;
     s|<hr/>|***|g;
     if (m/^<ul>/) {
-        print "i";
         next;
     }
     print $out $_."\n";
