@@ -1,0 +1,4 @@
+<h1>
+  <img width="70" height="70" src="{{ site.baseurl }}{{ include.image }}"/>
+  {{ include.title }}
+</h1>
