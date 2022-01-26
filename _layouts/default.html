@@ -35,7 +35,7 @@
     <main class="container-xxl py-2">
       {{ content }}
     </main>
-    {% if page.aside != "" %}
+    {% if page.aside %}
       <aside>
         {% include_relative {{ page.aside }} %}
       </aside>
