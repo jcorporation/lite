@@ -4,7 +4,7 @@ permalink: /Settings/Robots/index
 title: Robots
 aside: index_aside.md
 ---
-{% include pictitle title=page.title image="/icons/robots.png" %}
+{% include pictitle.md title=page.title image="/icons/robots.png" %}
 
 Das Setting spielt auf der Erde des 25. Jahrhunderts. Die Roboter haben sich von den Menschen emanzipiert und leben in eigenen Städten. Zwischen den Menschen und Robotern herrscht ein brüchiger Frieden, der immer wieder durch den Kampf um Ressourcen und Vormachtstellungen bedroht wird.
 

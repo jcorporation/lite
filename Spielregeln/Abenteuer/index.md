@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer/index
 title: Abenteuer
 ---
 
-{% include pictitle title=page.title image="/icons/abenteuer.png" %}
+{% include pictitle.md title=page.title image="/icons/abenteuer.png" %}
 
 Nachdem jeder Spieler einen Charakter erschaffen und der Spielleiter ein Abenteuer vorbereitet hat, beginnt das eigentliche Spiel. Ein Abenteuer besteht aus Schauplätzen, Spielleitercharakteren und (möglicherweise) eintretenden Ereignissen, die stark miteinander verknüpft sind. Im Endeffekt ist ein Abenteuer ein grober Rahmen, in dem die Charaktere handeln, wie er auch in Büchern und Filmen vorkommt, nur mit offenem Ausgang.
 
@@ -23,7 +23,7 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
     <li>die Regeln des Spiels zu kennen und seine Erzählrechte zu nutzen, um das Abenteuer mitzugestalten.</li>
 </ul>
 {% endcapture %}
-{% include hinweis title="Aufgabe der Spieler ist es ..." body=include_body %}
+{% include hinweis.md title="Aufgabe der Spieler ist es ..." body=include_body %}
 
 {% capture include_body %}
 <ul>
@@ -35,4 +35,4 @@ Die Charaktere werden in einem Abenteuer mit einem Problem konfrontiert, das es 
     <li>das Abenteuer voranzutreiben und den Spielern aus Sackgassen zu helfen, wenn sie sich verzettelt haben.</li>
 </ul>
 {% endcapture %}
-{% include hinweis title="Aufgabe des Spielleiters ist es ..." body=include_body %}
+{% include hinweis.md title="Aufgabe des Spielleiters ist es ..." body=include_body %}

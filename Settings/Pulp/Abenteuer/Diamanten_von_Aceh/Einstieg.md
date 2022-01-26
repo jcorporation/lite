@@ -11,7 +11,7 @@ Die Helden sind auf einem Vortrag im Museum in Alexandria, wo ein Linguist, vor 
 {% capture include_body %}
 <p>Edward Edison ist im Rentenalter aber dennoch bei allen wichtigen Funden von Ausgrabungen involviert. Er ist Experte in alten ägyptischen Schriften. Er besitzt wirre graue Haare und trägt einen etwas altmodischen und nicht ganz so gut sitzenden Anzug.</p>
 {% endcapture %}
-{% include hinweis title="Linguist: Edward Edison" body=include_body %}
+{% include hinweis.md title="Linguist: Edward Edison" body=include_body %}
 
 Die Schriftrolle wurde in einem, eigentlich unbedeutend Nebenbau, der großen Cheopspyramide eher zufällig entdeckt. Sie spricht von mächtigen Diamanten, in denen das Licht der Sonne gebunden ist. Es soll aber auch ein Fluch auf den Diamanten liegen und jedem, der sie an sich nimmt den schnellen Tod bringen.
 

@@ -13,7 +13,7 @@ Direkt vor den Toren der Stadt befindet sich ein großer Stausee und ein stillge
 {% capture include_body %}
 <p>Das alte Wasserkraftwerk ist ein idealer Stützpunkt für einen Superschurken. Der Superschurke könnte aber auch, durch die Sprengung des Stausees die Stadt bedrohen.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Atomkraftwerk
 
@@ -30,7 +30,7 @@ Nördlich von Orange City befindet sich eine Bergkette, der höchste Berg ist ei
 {% capture include_body %}
 <p>Der Krater des erloschenen Vulkans ist natürlich auch ein ideale Basis für einen Superschurken. Von hier aus lassen sich z.B. Raketen starten oder in den Höllen könnte man eine Superarmee züchten.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Indianerreservat
 

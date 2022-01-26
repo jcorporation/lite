@@ -58,7 +58,7 @@ Zubehör kostet immer ein 1 + Bonuspunkte &times; Effektivität.
 {% capture include_body %}
 <p>Was es für Zubehör überhaupt gibt und wie schnell ein FTL-Antrieb (1) ist, liegt im Ermessen der Runde.</p>
 {% endcapture %}
-{% include hinweis title="Zubehör" body=include_body %}
+{% include hinweis.md title="Zubehör" body=include_body %}
 
 - <strong>Waffen:</strong> Typische Raumschiffwaffen sind Laserkanonen, Plasmakanonen oder Torpedos
 - <strong>Schilde:</strong> Schilde erhöhen die Zähigkeit des Raumschiffs, regenerieren aber automatisch.
@@ -82,4 +82,4 @@ Laserkanone: 3.000 Credits<br/>
 FTL-Antrieb: 3.000 Credits</p>
 Im Abenteuer würde das Raumschiff also (50.000 + 12.000 + 6.000 + 9.000) 77.000 Credits kosten.
 {% endcapture %}
-{% include beispiel title="Beispielraumschiff" body=include_body %}
+{% include beispiel.md title="Beispielraumschiff" body=include_body %}

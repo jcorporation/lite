@@ -13,7 +13,7 @@ Zum Glück für die Superhelden ist es noch eine sehr kleine Bewegung die nicht 
 {% capture include_body %}
 <p>Julien Brown ist ein reicher, rüstiger Renter, einer der größten Gegner von Superhelden jediglicher Art. Er ist Gründungsmitglied und der Vorsitzende der &bdquo;Bewegung zum Verbot von Superhelden&ldquo; kurz BzVvS. Julien hat aber auch immer das Pech, das jedesmal genau sein Haus oder Auto oder sonst etwas von ihm zerstört wird, wenn die Superhelden mal wieder einen Superschurken bekämpfen müssen.</p>
 {% endcapture %}
-{% include hinweis title="Julien Brown" body=include_body %}
+{% include hinweis.md title="Julien Brown" body=include_body %}
 
 ## Be Orange, Be Green (Bobg)
 
@@ -22,7 +22,7 @@ Sie ist die größte Umweltbewegung des Counties und der größte Feind der ans�
 {% capture include_body %}
 <p>Emily Stark ist die Gründerin und Vorsitzende der Bobg-Bewegung. Sie hat einen sehr guten Draht zum Bürgermeister, der Anlass zu Spekulationen gibt. Sie ist eine wunderschöne Frau in den besten Jahren, strahlt aber immer einen nicht ganz so sexy Ökotouch aus.</p>
 {% endcapture %}
-{% include hinweis title="Emily Stark" body=include_body %}
+{% include hinweis.md title="Emily Stark" body=include_body %}
 
 ## Superfanclub
 

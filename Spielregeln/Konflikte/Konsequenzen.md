@@ -13,17 +13,17 @@ Konsequenzen werden dauerhaft auf dem Charakterbogen notiert und können nur dur
 {% capture include_body %}
 <p>Die Zähigkeit des Pionier-Profils von James beträgt am Ende des Konflikts null, daher erhält er eine Konsequenz. James Spieler wählt, passend zur Szene, eine ernsthafte Beinverletzung und notiert &bdquo;humpelt dauerhaft&ldquo;. Dadurch regeneriert die Zähigkeit seines Pionier-Profils auf die vollen sechs Punkte.</p>
 {% endcapture %}
-{% include beispiel title="Konsequenzbeispiel" body=include_body %}
+{% include beispiel.md title="Konsequenzbeispiel" body=include_body %}
 
 {% capture include_body %}
 <p>Natürlich kann der Spieler immer einen Gummipunkt ausgeben, um die Zähigkeit um drei Punkte zu regenerieren und dadurch eine Konsequenz vermeiden.</p>
 {% endcapture %}
-{% include hinweis title="Konsequenz vermeiden" body=include_body %}
+{% include hinweis.md title="Konsequenz vermeiden" body=include_body %}
 
 {% capture include_body %}
 <p>Es gibt bei Lite keine Regel, die den Tod eines Charakters herbeiführt. Charaktere sterben nur, wenn sich dies durch die Spielweltlogik ergibt oder der Spieler explizit einen Tod für seinen Charakter inszeniert. Ein Charakter sollte nie nur aus Zufall sterben.</p>
 {% endcapture %}
-{% include hinweis title="Tod eines Charakters" body=include_body %}
+{% include hinweis.md title="Tod eines Charakters" body=include_body %}
 
 {% capture include_body %}
 ##### Körperliche Konsequenzen
@@ -45,4 +45,4 @@ Konsequenzen werden dauerhaft auf dem Charakterbogen notiert und können nur dur
 
 - der Charakter verliert einen wichtigen Gegenstand
 {% endcapture %}
-{% include beispiel title="Beispiele für Konsequenzen" body=include_body %}
+{% include beispiel.md title="Beispiele für Konsequenzen" body=include_body %}

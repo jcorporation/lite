@@ -4,7 +4,7 @@ permalink: /Spielregeln/Settings
 title: Settings
 ---
 
-{% include pictitle title=page.title image="/icons/settings.png" %}
+{% include pictitle.md title=page.title image="/icons/settings.png" %}
 
 Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abzunehmen. Diese Anpassungen sind immer nach dem gleichen Schema aufgebaut:
 

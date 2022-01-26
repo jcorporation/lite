@@ -4,7 +4,7 @@ permalink: /Spielregeln/Konflikte/index
 title: Konflikte
 ---
 
-{% include pictitle title=page.title image="/icons/konflikte.png" %}
+{% include pictitle.md title=page.title image="/icons/konflikte.png" %}
 
 Bei Lite gibt es zwei Möglichkeiten Konflikte zu lösen. Dabei entscheidet der Spielleiter welche der beiden Regeln zum Einsatz kommt.
 
@@ -18,4 +18,4 @@ Konfliktszenen sollten für dramatische und wichtige Szenen im Abenteuer genutzt
 {% capture include_body %}
 <p>An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.</p>
 {% endcapture %}
-{% include hinweis title="Teilnehmer" body=include_body %}
+{% include hinweis.md title="Teilnehmer" body=include_body %}

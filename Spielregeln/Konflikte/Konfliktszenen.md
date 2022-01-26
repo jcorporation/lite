@@ -17,12 +17,12 @@ Sobald in einer Szene klar ist, wer die einzelnen Parteien sind und was das jewe
 - Einbruch
 - Sturm auf einem Schiff
 {% endcapture %}
-{% include hinweis title="Typische Konfliktszenen" body=include_body %}
+{% include hinweis.md title="Typische Konfliktszenen" body=include_body %}
 
 {% capture include_body %}
 James Montgomery und sein Kumpan Simon haben ein kleines Boot angeheuert, um einen gefährlichen Seitenarm des Amazonas hinaufzufahren. Dort gibt es heimtückische Stromschnellen, allesfressende Piranhas, giftige Schlangen und hungrige Krokodile. Eines der Krokodile greift das Boot der Charaktere an.
 {% endcapture %}
-{% include beispiel title="Beispiel einer Konfliktszene" body=include_body %}
+{% include beispiel.md title="Beispiel einer Konfliktszene" body=include_body %}
 
 ## Parteien und Ziele
 
@@ -37,12 +37,12 @@ Die Ziele sind klar, das Krokodil will einen Happen zu fressen und die beiden Ch
 
 Es gibt also zwei Parteien: Das Krokodil, den reißenden Fluss und die beiden Charaktere.
 {% endcapture %}
-{% include beispiel title="Beispiel zu Parteien und Ziele" body=include_body %}
+{% include beispiel.md title="Beispiel zu Parteien und Ziele" body=include_body %}
 
 {% capture include_body %}
 Passive Hindernisse besitzen wie Spielleitercharaktere einen Profilwert und eine Zähigkeit. Typische passive Hindernisse sind: eine Felsklippe, die erklommen werden muss, oder ein reißender Fluss. Also alles, was dem Erfolg der Spielercharaktere entgegensteht.
 {% endcapture %}
-{% include hinweis title="Passive Hindernisse" body=include_body %}
+{% include hinweis.md title="Passive Hindernisse" body=include_body %}
 
 ## Siegreiche Partei ermitteln
 
@@ -58,14 +58,14 @@ Andere Boni, z.B. durch günstige Umstände, vergibt der Spielleiter. Würde ein
 
 Mali gibt es bei Lite nicht. Statt einer Partei Mali zu geben, erhält die gegnerische Partei einen Bonus. Ausrüstungsgegenstände und Konsequenzen bilden eine Ausnahme, sie können durchaus Mali geben.
 {% endcapture %}
-{% include hinweis title="Boni" body=include_body %}
+{% include hinweis.md title="Boni" body=include_body %}
 
 {% capture include_body %}
 Bei Lite können beliebige Würfel mit einer geraden Seitenzahl verwendet werden.
 
 Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, zeigt er eine gerade Zahl, dann ist dieser Würfel ein Erfolg.
 {% endcapture %}
-{% include hinweis title="Würfel und Erfolge" body=include_body %}
+{% include hinweis.md title="Würfel und Erfolge" body=include_body %}
 
 {% capture include_body %}
 1. James tritt den Konflikt mit seinem Pionier-Profil (4 Würfel) an, da er das Boot steuert.<br/>Simon nutzt die Harpune (+1 Würfel, Effektivität 2) und somit sein Soldat-Profil (3 Würfel).
@@ -73,7 +73,7 @@ Zeigt der Würfel eine ungerade Zahl, so handelt es sich um einen Misserfolg, ze
 3. James Spieler würfelt mit 4 Würfeln (<strong>2</strong> 5 <strong>6</strong> 7)=2 Erfolge.<br/>Simons Spieler würfelt mit 6 Würfeln (1 <strong>2</strong> 7 <strong>6</strong> <strong>6</strong> 9)=3 Erfolge.<br/>Der Spielleiter würfelt für das Krokodil (6 Würfel) und den reißenden Fluss (3 Würfel) (1 <strong>2</strong> 7 <strong>4</strong> <strong>6</strong> <strong>6</strong> <strong>8</strong> 9 <strong>0</strong>)=6 Erfolge
 4. Simon und James erreichen zusammen 5 Erfolge, das Krokodil 6. Somit gewinnt das Krokodil die Konfliktszene.
 {% endcapture %}
-{% include beispiel title="Beispiel zu siegreiche Partei ermitteln" body=include_body %}
+{% include beispiel.md title="Beispiel zu siegreiche Partei ermitteln" body=include_body %}
 
 ## Was genau ist geschehen?
 
@@ -103,14 +103,14 @@ Bei einer Niederlage ist es sinnvoll, die Misserfolgswürfel am Ende auszugeben,
 
 Jeder Spieler sollte versuchen, einen Spannungsbogen aufzubauen und wenn möglich auf die Aktionen der anderen Charaktere einzugehen.
 {% endcapture %}
-{% include hinweis title="Aufteilung der Würfel" body=include_body %}
+{% include hinweis.md title="Aufteilung der Würfel" body=include_body %}
 
 {% capture include_body %}
 Nur weil eine Konfliktszene für die Spieler verloren geht, muss das nicht nur negative Folgen haben. Durch den geschickten Einsatz der Erfolgswürfel können wichtige Teilerfolge erzielt werden, die im Abenteuer noch wichtig werden können.
 
 Einen wichtigen Konflikt zu verlieren gehört einfach zum Spiel dazu, wenn ihr also einen Konflikt verliert, dann scheitert grandios und episch. Lasst eure Charaktere wagemutig und heldenhaft an einer gigantischen Übermacht oder unüberwindlichen Hindernissen scheitern. Sie hatten diesmal keine Chance, aber sie geben nicht auf, sondern warten nur auf die nächste Gelegenheit.
 {% endcapture %}
-{% include hinweis title="Grandios scheitern" body=include_body %}
+{% include hinweis.md title="Grandios scheitern" body=include_body %}
 
 {% capture include_body %}
 Der Spielleiter bestimmt, dass die Konfliktszene in 3 Runden auserzählt werden soll.
@@ -123,7 +123,7 @@ Jetzt ist James Spieler an der Reihe. Er nimmt einen Misserfolgswürfel und besc
 
 Nun ist der Spielleiter wieder an der Reihe und so geht es 3 Runden lang.
 {% endcapture %}
-{% include beispiel title="Beispiel zur Konfliktszenenbeschreibung" body=include_body %}
+{% include beispiel.md title="Beispiel zur Konfliktszenenbeschreibung" body=include_body %}
 
 {% capture include_body %}
 ##### Erfolgswürfel
@@ -139,4 +139,4 @@ Nun ist der Spielleiter wieder an der Reihe und so geht es 3 Runden lang.
 - In einer Actionszene versteckt sich der Charakter hinter einer Säule, lehnt sich dagegen und betätigt dabei einen Schalter, der die Flutlichtanlage einschaltet und den Charakter nun in grelles Licht taucht.
 
 {% endcapture %}
-{% include hinweis title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}
+{% include hinweis.md title="Tipps für den Einsatz von Erfolgs- und Misserfolgswürfeln" body=include_body %}

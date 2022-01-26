@@ -17,7 +17,7 @@ Dieses große Industrieunternehmen stellt vor allem schwere Baugeräte, wie Krä
 {% capture include_body %}
 <p>Ein Superschurke könnte die schweren Geräte mit einer bösartigen KI beleben und unter seiner Kontrolle bringen um mit ihnen die Stadt zu bedrohen.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## International Robotics
 
@@ -30,7 +30,7 @@ Orange City Applied Technologies ist ein gigantischer Elektronikkonzern. Neben e
 {% capture include_body %}
 <p>Ein Superschurke könnte die Mensch-Maschinen-Interfaces nutzen um die Bevölkerung von Orange City heimlich zu kontrollieren.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Orange Bank
 
@@ -43,7 +43,7 @@ Orange Daily ist ein großer Medienkonzern, der nicht nur die gleichnamige Zeitu
 {% capture include_body %}
 <p>Adam Anton Anderson ist der Chefredakteur der örtlichen Tageszeitung. Er ist stets im korrekten Anzug gekleidet und vom ersten Blick an ein durch und durch unsympathischer Mensch, dazu ist er noch ein Choleriker. Er kann Superhelden nicht ausstehen, besonders nicht, wenn sie in seiner Stadt leben. Für Enthüllungsfotos und -stories gibt er auch mal etwas mehr aus, ist aber sonst ein geiziger Mensch, der seine freien Reporter nur schlecht bezahlt. Er ist in der ganzen Redaktion unbeliebt, kann sich aber durch gute Beziehungen zu seinen Investoren an der Verlagsspitze halten.</p>
 {% endcapture %}
-{% include hinweis title="A. A. Anderson" body=include_body %}
+{% include hinweis.md title="A. A. Anderson" body=include_body %}
 
 ## Orange Grid
 
@@ -56,7 +56,7 @@ Orbital Labs ist ein Weltraumkonzern, der sich auf Experimente im erdnahen Orbit
 {% capture include_body %}
 <p>Ein Superschurke könnte die Kontrollstation übernehmen und mit gigantischen Lasern auf Satelliten die Stadt bedrohen.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Splice Genetics
 

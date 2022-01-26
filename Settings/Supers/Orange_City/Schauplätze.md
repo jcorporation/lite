@@ -19,7 +19,7 @@ Orange City verfügt über einen historischen und zentrumsnahen Bahnhof an dem a
 {% capture include_body %}
 <p>Mike ist ein Midvierziger und weder besonders erfolgreich noch besonders adrett, dafür aber unglaublich unterhaltsam und gesellig. Er betreibt einen kleinen Kiosk in Bahnhofsnähe und kommt, dank seiner Stammkunden, damit einigermaßen über die Runden. Mike ist eine hervorragende Informationsquelle, er ist ungewöhnlich gut informiert, über alles was in der Stadt geschieht. Woher er die ganzen Informationen hat sagt er natürlich nicht. Aber man muss schon etwas bei ihm kaufen, damit er ein paar Informationshäppchen verrät, auch wenn man ein Superheld ist.</p>
 {% endcapture %}
-{% include hinweis title="Mike Pondsmith" body=include_body %}
+{% include hinweis.md title="Mike Pondsmith" body=include_body %}
 
 ## City Mall
 
@@ -28,7 +28,7 @@ Die City Mall, das größte Einkaufszentrum der Stadt, ist schon fast eine Stadt
 {% capture include_body %}
 <p>Wild Billy ist der typische coole Teenager einer Kleinstadt. Er ist pickelig, trägt seine Baseball-Kappe falsch herum und beherrscht mit seinem Skateboard alle möglichen Tricks. Wie einige seiner Kumpels schwänzt er ab und an die Schule und treibt sich gerne am Bahnhof oder in der City Mall herum. Wild Billy hat die Begabung immer da rumzuhängen, wo plötzlich ein Superschurke auftaucht. Aber er ist immer nur in der Beobachterrolle, ihm ist dabei noch nie etwas passiert. Natürlich findet er die Superhelden supercool und hilft ihnen gerne weiter, wenn sie ihm ein Bier oder Zigaretten besorgen.</p>
 {% endcapture %}
-{% include hinweis title="Wild Billy" body=include_body %}
+{% include hinweis.md title="Wild Billy" body=include_body %}
 
 ## Country Club
 
@@ -41,7 +41,7 @@ Dieses Museum hat seinen Fokus auf die nordamerikanische Geschichte, von der Urz
 {% capture include_body %}
 <p>Schurken könnten z.B. planen die ausgestellten Dinosaurier wiederzubeleben und auf die Stadt loszulassen.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Hafen
 
@@ -66,7 +66,7 @@ Luigies ist das beste Restaurant der Stadt und von VIPs überlaufen. Normalsterb
 {% capture include_body %}
 <p>Don Luigie ist der Patron der örtlichen Mafia. Er ist ein typischer, aalglatter Italiener mit zurückgegeelten Haaren, modischem Anzug und stark italienischem Akzent. Für einen Mafiaboss ist er ziemlich jung und dynamisch. Neben den üblichen schmutzigen Geschäften wie Schutzgelderpressungen, Drogendeals und Geldwäsche unterstützt die Mafia auch immer wieder irgendwelche Superschurken oder verkauft ihnen zumindest Bestandteile für ihre Weltzerstörungsmaschinen. Natürlich hat die Mafia bezahlte Informanten in der örtlichen Polizei und Regierung.</p>
 {% endcapture %}
-{% include hinweis title="Don Luigie" body=include_body %}
+{% include hinweis.md title="Don Luigie" body=include_body %}
 
 ## Memorial Hospital
 
@@ -83,7 +83,7 @@ Das große Footballstadion der Stadt ist komplett überdacht und erst kürzlich 
 {% capture include_body %}
 <p>Für Schurken ist ein Spiel der Orange Panters eine gute Gelegenheit ihre Macht der Öffentlichkeit zu präsentieren und Forderungen zu stellen, da dies maximale Aufmerksamkeit erfährt.</p>
 {% endcapture %}
-{% include beispiel title="Superschurkenplan" body=include_body %}
+{% include beispiel.md title="Superschurkenplan" body=include_body %}
 
 ## Polizeipräsidium
 
@@ -92,7 +92,7 @@ Das niegelnagelneue Polizeipräsidium befindet sich in der Innenstadt von Orange
 {% capture include_body %}
 <p>Ruth Rogers ist die Polizeicheffin. Sie ist eine sehr attraktive Frau im besten Alter und immer überkorrekt gekleidet, sie macht aber auch in einer Standardpolizeiuniform eine gute Figur. Sie versteht sich gut mit dem Oberstaatsanwalt, ist aber gegenüber den Superhelden etwas skeptischer als er eingestellt. Sie behält die Superhelden immer im Auge, hilft ihnen aber auch falls sie mal in der Klemme stecken und es zum Wohle der Stadt ist. Ihre Arbeit lässt nichts zu wünschen übrig, aber in Orange City ist im Normalfall auch nicht arg viel los..</p>
 {% endcapture %}
-{% include hinweis title="Polizeicheffin &ndash; Ruth Rogers" body=include_body %}
+{% include hinweis.md title="Polizeicheffin &ndash; Ruth Rogers" body=include_body %}
 
 ## Stadtpark
 

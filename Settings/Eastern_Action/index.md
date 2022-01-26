@@ -4,7 +4,7 @@ permalink: /Settings/Eastern_Action/index
 title: Eastern Action
 ---
 
-{% include pictitle title=page.title image="/icons/easternaction.png" %}
+{% include pictitle.md title=page.title image="/icons/easternaction.png" %}
 
 Dieses Setting orientiert sich an den Filmen aus Asien. Menschen mit schier übernatürlichen Fähigkeiten kämpfen für das Gute, um sich zu rächen oder himmelschreiendes Unrecht zu sühnen.
 
@@ -18,7 +18,7 @@ Schwertmeister, Martial Artists und moderne Samurai bewegen sich mit unglaublich
 
 ## Download
 
-{% include downboxrow title="Eastern Action" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.10.06" link="/Downloads/Fansettings/lite-easternaction-2015-10-06.pdf" %}
+{% include downboxrow.md title="Eastern Action" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.10.06" link="/Downloads/Fansettings/lite-easternaction-2015-10-06.pdf" %}
 
 ***
 Autor: Günther Schollmayer

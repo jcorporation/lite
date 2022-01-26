@@ -5,7 +5,7 @@ title: SpaceCowboys
 aside: index_aside.md
 ---
 
-{% include pictitle title=page.title image="/icons/spacecowboys.png" %}
+{% include pictitle.md title=page.title image="/icons/spacecowboys.png" %}
 
 SpaceCowboys spielt im Colt-Frontier-Nebel, es ist eine Steampunk-Spacewestern-Sandbox. Es gibt verschiedene Indianerstämme als Ureinwohner und Siedler die vor ein paar Generationen mit Raumschiffen abgestürzt sind. Zwischen den Planeten sind Reisen mit primitiven Mitteln möglich, da der Nebel quasi eine große Luft- und Wärmeblase ist.
 

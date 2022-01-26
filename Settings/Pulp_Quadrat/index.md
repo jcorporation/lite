@@ -5,7 +5,7 @@ title: Pulp Quadrat
 aside: index_aside.md
 ---
 
-{% include pictitle title=page.title image="/icons/pulpquadrat.png" %}
+{% include pictitle.md title=page.title image="/icons/pulpquadrat.png" %}
 
 Pulp Quadrat ist eine Erweiterung des [Pulp-Basis-Settings]({{ site.baseurl }}/Settings/Pulp/). Es spielt auf einer alternativen Erde im Jahre 1940, auf der sich die Macht der [USA]({{ site.baseurl }}/Settings/Pulp_Quadrat/USA), [Nazi Deutschlands]({{ site.baseurl }}/Settings/Pulp_Quadrat/Nazi_Deutschland) und der [Sowjetunion]({{ site.baseurl }}/Settings/Pulp_Quadrat/Sowjetunion) die Waage halten. Zudem sind einige der alten Mythen wahr geworden und alte Hochkulturen haben sich wieder erhoben. [Parawissenschaften]({{ site.baseurl }}/Settings/Pulp_Quadrat/Parawissenschaften) sind der neueste Schrei und jede Partei versucht sich damit einen Vorsprung zu sichern. Auch die großen [Geheimgesellschaften]({{ site.baseurl }}/Settings/Pulp_Quadrat/Geheimgesellschaften) werden immer mächtiger.
 

@@ -37,7 +37,7 @@ Im Lager befinden sich insgesamt 11 Nazisoldaten und Friedrich Hermann, ein hoch
 {% capture include_body %}
 <p>Friedrich Hermann ist etwas über 40 und trägt ausschließlich schwarze Klamotten und eine Brille. Er ist leicht dickleibig und die Hitze macht ihm zu schaffen. Er ist mit Leib und Seele Nazi und wird nichts unversucht lassen seinen Auftrag auszuführen: Das Zepter der roten Kobra nach Berlin zu bringen.</p>
 {% endcapture %}
-{% include hinweis title="Friedrich Hermann" body=include_body %}
+{% include hinweis.md title="Friedrich Hermann" body=include_body %}
 
 <table>
 <thead>

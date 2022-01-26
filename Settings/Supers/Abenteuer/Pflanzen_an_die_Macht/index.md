@@ -18,5 +18,5 @@ In &bdquo;Pflanzen an die Macht&ldquo; verwandelt der Superschurke Treeman Verbr
 
 ## Download
 
-{% include downboxrow title="Pflanzen an die Macht" image="/thumbnails/supers-pflanzenandiemacht.png" body="PDF A5
+{% include downboxrow.md title="Pflanzen an die Macht" image="/thumbnails/supers-pflanzenandiemacht.png" body="PDF A5
 Version: 2017.07.02" link="/Downloads/Abenteuer/lite-supers-pflanzen_2017-07-02.pdf" %}

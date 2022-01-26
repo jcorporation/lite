@@ -13,7 +13,7 @@ Zum Start der Szene beschreibt der Spielleiter den Ort, die anwesenden Personen,
 {% capture include_body %}
 <p>James und seine Gruppe landeten in einer kleinen Hafenstadt mitten im Dschungel. Der Spielleiter beschreibt den Trubel im Hafen, die verschiedenen fremdartigen Gerüche und ein auffälliges Schiff, das eilig und nicht besonders sauber umlackiert wurde.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel eines Szenenstarts" body=include_body %}
+{% include beispiel.md title="Beispiel eines Szenenstarts" body=include_body %}
 
 ## Die Szene
 
@@ -24,14 +24,14 @@ Der Spielleiter kann dasselbe natürlich für seine Spielleitercharaktere machen
 {% capture include_body %}
 <p>Sage &bdquo;Ja&ldquo; zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter, wenn du &bdquo;Nein&ldquo; sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch &bdquo;Ja, aber &hellip;&ldquo; sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.</p>
 {% endcapture %}
-{% include hinweis title="Sag Ja" body=include_body %}
+{% include hinweis.md title="Sag Ja" body=include_body %}
 
 Neben diesem freien Spiel greifen in einer Szene auch die im Folgenden vorgestellten Regelelemente. Im Spiel entscheidet der Spielleiter, wann welche Regel angewandt wird. Die Spieler beschreiben immer nur die Aktionen ihrer Charaktere.
 
 {% capture include_body %}
 <p>Willi beschreibt, wie sein (neugieriger) Charakter James versucht, unauffällig einen Blick auf das auffällige Schiff zu werfen. Das klappt im Trubel problemlos, daher beschreibt der Spielleiter das Schiff genauer, ohne dass Willi würfeln müsste. Die restliche Gruppe folgt James und die Spieler beratschlagen, wie sie weiter vorgehen sollen.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel einer Szene" body=include_body %}
+{% include beispiel.md title="Beispiel einer Szene" body=include_body %}
 
 ### Gummipunkte verdienen
 
@@ -46,7 +46,7 @@ Grundsätzlich sollte der Spielleiter die Gummipunkte freigiebig verteilen. Das 
 {% capture include_body %}
 <p>James wird von seiner Neugierde übermannt und der Diskutiererei überdrüssig. Daher beschließt er, einfach mal den Typen anzusprechen, der die Beladung des Schiffs beaufsichtigt. Die anderen Charaktere schütteln nur den Kopf über James Naivität, da diese Aktion die Schiffsbesatzung auf die Charaktere aufmerksam macht. Für diese Aktion vergibt der Spielleiter einen Gummipunkt an James Spieler, da er seinen Charakter ausspielte und dabei gleichzeitig das Abenteuer verkomplizierte.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zu Gummipunkt verdienen" body=include_body %}
+{% include beispiel.md title="Beispiel zu Gummipunkt verdienen" body=include_body %}
 
 ### Ausrüstung kaufen
 
@@ -57,13 +57,13 @@ Wenn die Charaktere Ausrüstung benötigen, muss diese ganz normal gekauft werde
 {% capture include_body %}
 <p>Kleinigkeiten müssen bei Lite nicht bezahlt werden, also weder das Bier an der Eckkneipe noch der Reiseproviant.</p>
 {% endcapture %}
-{% include hinweis title="Kleinigkeiten" body=include_body %}
+{% include hinweis.md title="Kleinigkeiten" body=include_body %}
 
 {% capture include_body %}
 <p>Die Charaktere schauen bei einem Waffenhändler vorbei und erwerben Macheten für je 200 Dollar. Willi will für James eine gute Machete mit einem Bonus von 1 und muss daher 400 Dollar zahlen.</p>
 <p>Der Einkauf von Proviant wird nicht ausgespielt, da es niemanden wirklich interessiert. Proviant fällt unter Kleinigkeiten und kostet daher auch nichts.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zu Ausrüstung kaufen" body=include_body %}
+{% include beispiel.md title="Beispiel zu Ausrüstung kaufen" body=include_body %}
 
 ### Fakten hinzufügen
 
@@ -81,13 +81,13 @@ Wichtige Fakten kosten einen Gummipunkt pro Fakt. Der Spielleiter entscheidet, w
 {% capture include_body %}
 <p>Wichtige Fakten beeinflussen eine Szene maßgeblich. Während eines Kampfes gegen ein Eismonster wäre z.B. ein ausbrechender Geysir ein wichtiger Fakt, weil das warme Wasser eine hervorragende Waffe gegen das Eismonster darstellt. Ein ausbrechender Geysir als Hintergrund einer Verhandlung wäre hingegen nebensächlich.</p>
 {% endcapture %}
-{% include hinweis title="Wichtige Fakten" body=include_body %}
+{% include hinweis.md title="Wichtige Fakten" body=include_body %}
 
 {% capture include_body %}
 <p>Willi möchte seinen Charakter James dem seltsamen Schiff unauffällig nähern. Er beschreibt daher, wie James augenscheinlich an der Kaje entlangbummelt und dabei die Auslagen eines kleinen Standes direkt neben dem Schiff betrachtet. Dies passt zur Szene, bringt den Spielern aber keinen weiteren Vorteil. Daher kostet der Fakt &raquo;Stand am Ankerplatz&laquo; keinen Gummipunkt.</p>
 <p>Weiterhin beschreibt Willi, wie einer der Hafenarbeiter, die das Schiff beladen, stolpert. Dabei fällt eine Kiste herunter und zerbricht. Der Spielleiter beschreibt, wie Waffen mit okkulten Symbolen herauspurzeln. Das Stolpern ist daher ein wichtiger Fakt und kostet Willi einen Gummipunkt.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zu Fakt hinzufügen" body=include_body %}
+{% include beispiel.md title="Beispiel zu Fakt hinzufügen" body=include_body %}
 
 ### Konflikte auflösen
 
@@ -100,7 +100,7 @@ Kommt es zu einem Konflikt, endet das freie Spiel und die Gruppe verwendet die K
 {% capture include_body %}
 <p>Eine Niederlage darf nicht in eine Sackgasse führen. Auch ein verlorener Konflikt muss interessante Folgen haben, damit das Abenteuer nicht durch einen schlechten Würfelwurf ins Stocken gerät.</p>
 {% endcapture %}
-{% include hinweis title="Verlorene Konflikte" body=include_body %}
+{% include hinweis.md title="Verlorene Konflikte" body=include_body %}
 
 ### Magie wirken
 
@@ -109,7 +109,7 @@ Falls der Charaktere eine Magiekategorie gelernt hat, kann er auch zu jeder Zeit
 {% capture include_body %}
 <p>Merlin gerät mit seiner Gruppe in einen Hinterhalt. Während alle anderen ihre Schwerter zücken, konzentriert sich Merlin auf seine Zauberfähigkeiten. Er will mit Feuerbällen um sich werfen. Er hat die passende Magiekategorie Elemente auf zwei und das Soldaten-Profil auf 4. Somit darf er in der Konfliktszene 6 Würfel nutzen.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zu Magie wirken" body=include_body %}
+{% include beispiel.md title="Beispiel zu Magie wirken" body=include_body %}
 
 ### Zähigkeit regenerieren
 
@@ -120,12 +120,12 @@ Alternativ kann auch zu passender Zeit versucht werden das Profil zu heilen oder
 {% capture include_body %}
 <p>Passende Ausrüstungsgegenstände um körperliche Profile zu regenerieren sind z.B. ein Verbandsset oder ein Heiltrank. Für Ausrüstung wären es ein Werkzeugkasten oder ähnliches.</p>
 {% endcapture %}
-{% include hinweis title="Passende Ausrüstung" body=include_body %}
+{% include hinweis.md title="Passende Ausrüstung" body=include_body %}
 
 {% capture include_body %}
 <p>Die Gruppe hat in einer Verfolgungsjagd ihr Auto ziemlich ruiniert. Es hat seine komplette Zähigkeit von zwei verloren und wird nun von Einschusslöchern und Beulen verziert. Der Schrauber der Gruppe will es reparieren und nimmt seinen Werkzeugkasten. Wenn ihm im Konflikt gegen die Schäden am Auto zwei Erfolge gelingen, so ist das Auto wieder in einem tadellosen Zustand.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zu Ausrüstung reparieren" body=include_body %}
+{% include beispiel.md title="Beispiel zu Ausrüstung reparieren" body=include_body %}
 
 ## Szenenende
 

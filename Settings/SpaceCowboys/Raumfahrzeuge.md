@@ -44,4 +44,4 @@ Größe: 4</p>
 Enterhaken: 1</p>
 <strong>Summe: 18</strong>
 {% endcapture %}
-{% include beispiel title="Beispielraumfahrzeug" body=include_body %}
+{% include beispiel.md title="Beispielraumfahrzeug" body=include_body %}

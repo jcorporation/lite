@@ -3,7 +3,7 @@ layout: page
 permalink: /Settings/Robin/index
 title: Robin
 ---
-{% include pictitle title=page.title image="/icons/robin.png" %}
+{% include pictitle.md title=page.title image="/icons/robin.png" %}
 
 Wie der Name schon sagt, ist dieses Setting eine Robin Hood Adaption. Dieses Setting basiert auf dem [Robin Hood Rollenspiel von Ludus Leonis](http://ludus-leonis.com/Robin/) und enthält daher auch nur die nötigen Regeln für Lite.
 
@@ -21,4 +21,4 @@ Die Charaktere sind nicht die Hauptdarsteller Robin Hood oder seine aus Literatu
 
 ## Download
 
-{% include downboxrow title="Robin" image="/thumbnails/robin.png" body="PDF A5<br/>Version: 2016.09.23" link="/Downloads/Settings/lite-robin_2016.09.23.pdf" %}
+{% include downboxrow.md title="Robin" image="/thumbnails/robin.png" body="PDF A5<br/>Version: 2016.09.23" link="/Downloads/Settings/lite-robin_2016.09.23.pdf" %}

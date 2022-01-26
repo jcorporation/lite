@@ -15,7 +15,7 @@ Wenn die Gruppe nach Spuren sucht (Pionier-Probe mit 2 Erfolgen), kann sie viele
 {% capture include_body %}
 <p>Während die Gruppe in der Höhle ist entdecken die Nazisoldaten von einem anderen Lager, das verlassene Lager und betreten auch die Höhle. Diese 5 Soldaten holen die Gruppe ein, falls diese zu arg trödelt.</p>
 {% endcapture %}
-{% include hinweis title="Nazis" body=include_body %}
+{% include hinweis.md title="Nazis" body=include_body %}
 
 Auf der anderen Seite der Schlucht führt ein Gang serpentinenartig hinunter. Nach einer Weile scheint von unten Licht zu kommen und auf einmal befinden sich die Charaktere nicht mehr in einer Höhle sondern auf dem Gipfel eines Berges. Sie blicken auf einen Dschungel herunter. Weiter hinten können sie eine Stufenpyramide sehen und Flugsaurier kreisen über den Wipfeln der gigantischen Bäume.
 

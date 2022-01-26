@@ -15,7 +15,7 @@ Wenn die vorige Vorgehensweise für einen Konflikt zu aufwendig erscheint und di
     <li>Herausfinden, ob der Charakter etwas bestimmtes weiß.</li>
 </ul>
 {% endcapture %}
-{% include hinweis title="Typische einfache Konflikte" body=include_body %}
+{% include hinweis.md title="Typische einfache Konflikte" body=include_body %}
 
 Ein einfacher Konflikt wird wie eine Konfliktszene behandelt, nur der Punkt &bdquo;Was genau ist geschehen?&ldquo; wird übersprungen. Die siegreiche Partei fügt der Gegenpartei als Zähigkeitsverlust die Differenz der Erfolge multipliziert mit der Effektivität des eingesetzten Ausrüstungsgegenstandes zu.
 
@@ -35,4 +35,4 @@ Der Zähigkeitsverlust bei einem verlorenen Konflikt wird dabei gleichmäßig au
 <p>James hat in einem alten Indianertempel im Amazonas ein altes Artefakt gefunden und will das Alter einschätzen. Er nutzt dazu sein Forscher-Profil (5) und sein Archäologenset (+1).</p>
 <p>Der Spielleiter legt fest, dass dies schwer ist und James 3 Erfolge benötigt. James Spieler würfelt (2 7 4 6 6 8)=5 Erfolge. Der Konflikt ist gewonnen und der Spielleiter teilt mit, was er für Erkenntnisse über das Artefakt gewonnen hat.</p>
 {% endcapture %}
-{% include hinweis title="Beispiel eines einfachen Konflikts" body=include_body %}
+{% include hinweis.md title="Beispiel eines einfachen Konflikts" body=include_body %}

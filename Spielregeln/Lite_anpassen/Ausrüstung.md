@@ -11,7 +11,7 @@ Ausrüstung spielt bei Lite nur eine untergeordnete Rolle, daher benötigt es ke
 {% capture include_body %}
 <p>Es sollte für jedes Profil passende Ausrüstungsgegenstände erschaffen werden, damit Techniker praktische Werkzeuge, Zauberer geheimnisvolle Zauberstäbe und Kämpfer mächtige Waffen kaufen können.</p>
 {% endcapture %}
-{% include hinweis title="Aufteilung" body=include_body %}
+{% include hinweis.md title="Aufteilung" body=include_body %}
 
 ## Ausrüstungsliste erstellen
 
@@ -55,4 +55,4 @@ Flugzeug: 2.000 WE<br/>
 Bordkanone: 400 WE</p>
 <p>Im Abenteuer würde das Flugzeug also (16.000 + 800) 16.800 WE kosten.</p>
 {% endcapture %}
-{% include beispiel title="Flugzeug" body=include_body %}
+{% include beispiel.md title="Flugzeug" body=include_body %}

@@ -11,7 +11,7 @@ Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung 
 {% capture include_body %}
 <p>Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele Erfahrungspunkte.</p>
 {% endcapture %}
-{% include hinweis title="Erfahrungspunkte" body=include_body %}
+{% include hinweis.md title="Erfahrungspunkte" body=include_body %}
 
 ## Steigerung
 
@@ -41,4 +41,4 @@ Zusätzlich darf beim Stufenaufstieg eine beliebige Konsequenz gestrichen werden
 <p>Willi vergibt jeweils einen Punkt auf Forscher und Soldat. Somit hat er jetzt Forscher auf 6 und Soldat auf 3.</p>
 <p>Durch den Aufstieg darf er auch eine Konsequenz streichen und streicht &bdquo;humpelt dauerhaft&ldquo;. Seine Verletzung ist durch genügend Ruhe von selber abgeklungen.</p>
 {% endcapture %}
-{% include beispiel title="Beispiel zur Steigerung" body=include_body %}
+{% include beispiel.md title="Beispiel zur Steigerung" body=include_body %}
