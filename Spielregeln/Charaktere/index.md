@@ -4,7 +4,7 @@ permalink: /Spielregeln/Charaktere/index
 title: Charaktere
 ---
 
-<h1><img alt="Charaktere" height="70" src="{{ site.baseurl }}/assets/images/icons/charaktere.png" width="70" />Charaktere</h1>
+{% include pictitle.md title=page.title image="/icons/charaktere.png" %}
 
 Mit ihrem Charakter beeinflussen und gestalten die Spieler das Setting und insbesondere das Abenteuer. Jeder Spieler führt seinen Charakter durch das Abenteuer, beschreibt seine Handlungen und spricht für ihn.
 

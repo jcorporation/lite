@@ -14,32 +14,28 @@ Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten di
 
 Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. Jedem Profil muss mindestens 1 Punkt zugeordnet werden, kein Profil darf um mehr als 2 Punkte vom nächsthöheren oder nächstniedrigeren Profil abweichen.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Mögliche Profilwerte</div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col">
-                <strong>Normal</strong>
-                <ul>
-                    <li>1, 2, 4, 5</li>
-                    <li>1, 3, 3, 5</li>
-                    <li>2, 2, 3, 5</li>
-                    <li>2, 2, 4, 4</li>
-                    <li>3, 3, 3, 3</li>
-                </ul>
-            </div>
-            <div class="col">
-                <strong>Magiebegabt</strong>
-                <ul>
-                    <li>1, 2, 4, 4</li>
-                    <li>1, 3, 3, 4</li>
-                    <li>2, 2, 3, 4</li>
-                    <li>2, 3, 3, 3</li>
-                </ul>
-            </div>
-        </div>
+{% capture include_body %}
+<div class="row">
+    <div class="col">
+**Normal**
+
+- 1, 2, 4, 5
+- 1, 3, 3, 5
+- 2, 2, 3, 5
+- 2, 2, 4, 4
+- 3, 3, 3, 3
+    </div>
+    <div class="col">
+**Magiebegabt**
+
+- 1, 2, 4, 4
+- 1, 3, 3, 4
+- 2, 2, 3, 4
+- 2, 3, 3, 3
     </div>
 </div>
+{% endcapture %}
+{% include hinweis.md title="Mögliche Profilwerte" body=include_body %}
 
 ### Magiekategorien
 
@@ -49,19 +45,15 @@ Wenn das Setting [Magiekategorien]({{ site.baseurl }}/Spielregeln/Lite_anpassen/
 
 Wenn das Setting Rassen- oder Völkerboni festlegt, werden diese im Anschluss auf die Profilwerte addiert. Dadurch kann der Abstand zum nächstniedrigeren Profil auf 3 Punkte ansteigen.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Erschaffe keinen Fachidioten!</div>
-    <div class="card-body">
-        <p>Erschaffe einen Charakter, der alleine überleben kann! Keinen Fachidioten, der in einem Abenteuer nur in ein oder zwei Szenen etwas beiträgt. Denn du als Spieler musst mit deinem Charakter das Abenteuer voranbringen können und willst sicherlich nicht nur zugucken.</p>
-    </div>
-</div>
+{% capture include_body %}
+Erschaffe einen Charakter, der alleine überleben kann! Keinen Fachidioten, der in einem Abenteuer nur in ein oder zwei Szenen etwas beiträgt. Denn du als Spieler musst mit deinem Charakter das Abenteuer voranbringen können und willst sicherlich nicht nur zugucken.
+{% endcapture %}
+{% include hinweis.md title="Erschaffe keinen Fachidioten!" body=include_body %}
 
-<div class="card mb-3">
-    <div class="card-header bg-orange text-light">Beispiel zur Profilwerteverteilung</div>
-    <div class="card-body">
-        <p>Willi entscheidet sich, in Absprache mit der Gruppe, für einen intellektuellen Charakter, der aber auch in der Wildnis überleben kann. Bei Pulp gibt es die Profile Forscher, Pionier, Soldat und Gauner. Er verteilt daher seine 12 Punkte wie folgt: Forscher 5, Pionier 4, Soldat 2, Gauner 1.</p>
-    </div>
-</div>
+{% capture include_body %}
+Willi entscheidet sich, in Absprache mit der Gruppe, für einen intellektuellen Charakter, der aber auch in der Wildnis überleben kann. Bei Pulp gibt es die Profile Forscher, Pionier, Soldat und Gauner. Er verteilt daher seine 12 Punkte wie folgt: Forscher 5, Pionier 4, Soldat 2, Gauner 1.
+{% endcapture %}
+{% include beispiel.md title="Beispiel zur Profilwerteverteilung" body=include_body %}
 
 ## Zähigkeit
 
@@ -81,12 +73,10 @@ Gummipunkte sind Ressourcen, die der Spieler jederzeit ausgeben kann. Mit Gummip
 
 Bei der Charaktererschaffung erhält jeder Charakter 5 Gummipunkte. Diese werden zu Beginn jedes Abenteuers vollständig regeneriert. Während des Abenteuers vergibt der Spielleiter für gelungene Charakterszenen frische Gummipunkte.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Gummipunkte</div>
-    <div class="card-body">
-        <p>Da Gummipunkte ständig ausgegeben und regeneriert werden, zählt man sie am besten mit irgendwelchen Spielsteinen.</p>
-    </div>
-</div>
+{% capture include_body %}
+Da Gummipunkte ständig ausgegeben und regeneriert werden, zählt man sie am besten mit irgendwelchen Spielsteinen.
+{% endcapture %}
+{% include beispiel.md title="Gummipunkte" body=include_body %}
 
 ## Erfahrungspunkte
 

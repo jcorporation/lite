@@ -18,23 +18,21 @@ Nachdem man die Ausrüstungsgegenstände ausgewählt hat, werden diese noch mit 
 
 Man darf 2 Punkte verteilen. Jeder Punkt gibt entweder +1 auf den Profilwert oder +1 Zähigkeit (z. B. bei Panzerungen). Alternativ kann man auch die Effektivität eines Ausrüstungsgegenstandes auf 2 erhöhen, was aber beide Punkte kostet. Effektivere Gegenstände verursachen einen höheren Zähigkeitsverlust in Konflikten.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Notation der Ausrüstungswerte</div>
-    <div class="card-body">
-        <p>Die Ausrüstungswerte werden direkt hinter dem Gegenstand notiert.</p>
-        <p><strong>P</strong> steht dabei für den Profilbonus<br/>
-        <strong>Z</strong> für den Zähigkeitsbonus<br/>
-        <strong>E</strong> für die Effektivität</p>
-    </div>
-</div>
+{% capture include_body %}
+Die Ausrüstungswerte werden direkt hinter dem Gegenstand notiert.
 
-<div class="card mb-3">
-    <div class="card-header bg-orange text-light">Beispiel zu Ausrüstung</div>
-    <div class="card-body">
-        <p>Willi schaut sich die Ausrüstungsliste von Pulp an und sucht sich eine Schrotflinte und ein Überlebensset aus. Er generiert sich mit der Archäologenausrüstung auch noch einen eigenen Ausrüstungsgenstand.</p>
-        <p>Die zwei Bonuspunkte verteilt er wie folgt: Schrotflinte P+1, Z+0, E 1; Überlebensset P+1,Z+0, E 1</p>
-    </div>
-</div>
+- **P** steht dabei für den Profilbonus
+- **Z** für den Zähigkeitsbonus
+- **E** für die Effektivität
+{% endcapture %}
+{% include hinwei.md title="Notation der Ausrüstungswerte" body=include_body %}
+
+{% capture include_body %}
+Willi schaut sich die Ausrüstungsliste von Pulp an und sucht sich eine Schrotflinte und ein Überlebensset aus. Er generiert sich mit der Archäologenausrüstung auch noch einen eigenen Ausrüstungsgenstand.
+
+Die zwei Bonuspunkte verteilt er wie folgt: Schrotflinte P+1, Z+0, E 1; Überlebensset P+1,Z+0, E 1
+{% endcapture %}
+{% include beispiel.md title="Beispiel zu Ausrüstung" body=include_body %}
 
 ### Startgeld
 

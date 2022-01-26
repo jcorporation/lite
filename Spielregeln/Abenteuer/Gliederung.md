@@ -9,7 +9,7 @@ title: Gliederung des Abenteuers
 Ein Abenteuer untergliedert sich in Szenen. Eine Szene umfasst dabei alle Handlungen und Ereignisse an einem bestimmten Schauplatz. Wechselt der Schauplatz, beginnt eine neue Szene. Im Mittelpunkt einer Szene stehen oft auch ein großer Konflikt oder mehrere kleinere Konflikte.
 
 {% capture include_body %}
-<p>Unwichtige Szenen, in denen nichts Abenteuerrelevantes geschieht und in denen kein Spieler etwas mit seinem Charakter unternehmen will, sollten mit ein paar Sätzen zusammengefasst werden. Eine lange Reise oder ein umfangreicher Einkauf sollte nur ausgespielt werden, wenn dabei etwas Besonderes geschieht oder alle Spieler daran Spaß haben.</p>
+Unwichtige Szenen, in denen nichts Abenteuerrelevantes geschieht und in denen kein Spieler etwas mit seinem Charakter unternehmen will, sollten mit ein paar Sätzen zusammengefasst werden. Eine lange Reise oder ein umfangreicher Einkauf sollte nur ausgespielt werden, wenn dabei etwas Besonderes geschieht oder alle Spieler daran Spaß haben.
 {% endcapture %}
 {% include hinweis.md title="Für das Abenteuer unwichtige Szenen" body=include_body %}
 
