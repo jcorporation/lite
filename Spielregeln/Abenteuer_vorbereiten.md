@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_vorbereiten
 title: Abenteuer vorbereiten
 ---
 
-{% include pictitle.html title=page.title image="/assets/images/icons/vorbereiten.png" %}
+{% include pictitle title=page.title image="/assets/images/icons/vorbereiten.png" %}
 
 Für den Spielleiter beginnt das Spiel mit der Vorbereitung des Abenteuers. Dabei geht es nicht darum, es auswendig zu lernen, damit die Gruppe es Wort für Wort nachspielen kann. Das Abenteuer liefert vielmehr Schauplätze, Spielleitercharaktere und deren Motive sowie Ereignisse und einen Einstieg in das Abenteuer. Je besser du das Abenteuer vorbereitest, desto einfacher fällt es dir, das Abenteuer zu leiten und in seinem Rahmen zu improvisieren.
 
@@ -17,7 +17,7 @@ Spielleitercharaktere sind eines der wichtigsten Mittel des Spielleiters um den 
 {% capture hinweis_body %}
 <p>Um Spielleitercharaktere glaubhaft darstellen zu können und sie unterscheidbar zu machen, ist es sinnvoll, den wichtigen Charakteren typische Klischees und auffällige Merkmale zu verpassen.</p>
 {% endcapture %}
-{% include hinweis.html title="Darstellung von Spielleitercharakteren" body=hinweis_body %}
+{% include hinweis title="Darstellung von Spielleitercharakteren" body=hinweis_body %}
 
 ## Schauplätze und Szenen
 
