@@ -3,7 +3,6 @@
         <div class="card bg-blue text-light">
             <div class="card-header">{{ include.title }}</div>
             <div class="card-body">
-                {{ include.image }}
                 <img class="border border-white float-start me-4" src="{{ site.baseurl }}{{ include.image }}" width="100" height="140">
                 <p>{{ include.body }}</p>
                 <p>&raquo; <a class="text-light" href="{{ site.baseurl }}{{ include.link }}">Herunterladen</a></p>
