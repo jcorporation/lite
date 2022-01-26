@@ -2,7 +2,7 @@
 layout: page
 permalink: /Settings/Robots/index
 title: Robots
-aside: index_aside
+aside: index_aside.md
 ---
 {% include pictitle title=page.title image="/icons/robots.png" %}
 
