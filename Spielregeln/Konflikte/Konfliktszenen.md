@@ -123,7 +123,7 @@ Jetzt ist James Spieler an der Reihe. Er nimmt einen Misserfolgswürfel und besc
 
 Nun ist der Spielleiter wieder an der Reihe und so geht es 3 Runden lang.
 {% endcapture %}
-{% include orange title="Beispiel zur Konfliktszenenbeschreibung" body=include_body %}
+{% include beispiel title="Beispiel zur Konfliktszenenbeschreibung" body=include_body %}
 
 {% capture include_body %}
 ##### Erfolgswürfel
