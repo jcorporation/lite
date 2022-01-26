@@ -25,7 +25,7 @@ Die Ausrüstungswerte werden direkt hinter dem Gegenstand notiert.
 - **Z** für den Zähigkeitsbonus
 - **E** für die Effektivität
 {% endcapture %}
-{% include hinwei.md title="Notation der Ausrüstungswerte" body=include_body %}
+{% include hinweis.md title="Notation der Ausrüstungswerte" body=include_body %}
 
 {% capture include_body %}
 Willi schaut sich die Ausrüstungsliste von Pulp an und sucht sich eine Schrotflinte und ein Überlebensset aus. Er generiert sich mit der Archäologenausrüstung auch noch einen eigenen Ausrüstungsgenstand.
