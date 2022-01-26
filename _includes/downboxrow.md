@@ -4,7 +4,7 @@
             <div class="card-header">{{ include.title }}</div>
             <div class="card-body">
                 <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images{{ include.image }}" width="100" height="140">
-                <p>{{ include.body }}</p>
+                <p>{{ include.body | markdownify }}</p>
                 <p>&raquo; <a class="text-light" href="{{ site.baseurl }}{{ include.link }}">Herunterladen</a></p>
             </div>
         </div>
