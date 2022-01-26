@@ -37,6 +37,6 @@ Insgesamt befinden sich zwanzig Rhabarbermänner (plus die Gefangenen in den Pod
 </table>
 </div>
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Verfolgungsjagd, das UFO, Turbulenzen]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Verfolgungsjagd)
 - <strong>Weiter:</strong> [Die Space-Aubergine]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Die_Space-Aubergine)

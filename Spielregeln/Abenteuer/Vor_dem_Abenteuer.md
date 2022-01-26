@@ -24,9 +24,7 @@ Wenn das Abenteuer deutlich länger als 4&ndash;5 Stunden dauert, ist es ratsam,
 
 Der Spielleiter erhält ebenfalls Gummipunkte, und zwar pro Abenteuer &bdquo;Anzahl Spieler&ldquo; + &bdquo;durchschnittliche Stufe der Charaktere&ldquo;.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Spielleiter-Gummipunkte</div>
-    <div class="card-body">
-        <p>Die Spielleiter-Gummipunkte dienen dazu, um in spannenden Momenten noch mehr Dramatik in das Geschehen zu bringen, etwa wichtigen Gegenspielern der Charaktere kurzzeitig höheres Können zu verleihen oder Hindernisse schwieriger zu gestalten. Aber Vorsicht, durch den Einsatz der Gummipunkte sollten die Charakterleistungen nicht geschmälert werden!</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>Die Spielleiter-Gummipunkte dienen dazu, um in spannenden Momenten noch mehr Dramatik in das Geschehen zu bringen, etwa wichtigen Gegenspielern der Charaktere kurzzeitig höheres Können zu verleihen oder Hindernisse schwieriger zu gestalten. Aber Vorsicht, durch den Einsatz der Gummipunkte sollten die Charakterleistungen nicht geschmälert werden!</p>
+{% endcapture %}
+{% include hinweis title="Spielleiter-Gummipunkte" body=include_body %}

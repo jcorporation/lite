@@ -12,5 +12,5 @@ Die Aktivierung verursacht schwere Zugunglücke im und am Südbahnhof. Die Helde
 
 Auf dem Raumschiff ist ihnen Dr. Trognon hilflos ausgeliefert und ergibt sich.
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Das Geheimlabor]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Das_Geheimlabor)

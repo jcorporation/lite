@@ -14,17 +14,13 @@ Vor dem Spiel müssen die gewünschten Magieeffekte in Kategorien aufgeteilt wer
 - Was mit Magie möglich ist, und was für Voraussetzungen vorhanden sein müssen um sie zu wirken, wird aus dem Setting abgeleitet. Ein paar Stichworte hinter der Kategorie sollten ausreichen um das zu definieren.
 - Umso grober und umfassender die Kategorien gewählt werden, umso mächtiger ist die Magie im Setting.
 
-<div class="card mb-3">
-    <div class="card-header bg-orange text-light">Beispielmagiekategorien</div>
-    <div class="card-body">
-        <p><strong>Bewegung</strong> (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)</p>
-        <p><strong>Elemente</strong> (Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)</p>
-    </div>
-</div>
+{% capture include_body %}
+<p><strong>Bewegung</strong> (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)</p>
+<p><strong>Elemente</strong> (Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)</p>
+{% endcapture %}
+{% include beispiel title="Beispielmagiekategorien" body=include_body %}
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Magiewirkung beschränken</div>
-    <div class="card-body">
-        <p>Bei Lite wird das Wirken von Magie nicht durch Regeln wie Manapunkte oder Ähnlichem beschränkt. Was möglich ist, gibt das Setting vor, an dem sich Spieler und Spielleiter orientieren sollten. Welchen Einfluss ein Zauberspruch hat, wird bei einem einfachen Konflikt durch die Schwierigkeit festgelegt. Bei einer Konfliktszene ergibt sich der Einfluss allein durch die Beschreibung aller Beteiligten. Das aber ein Anfängercharakter nicht gerade einen Berg versetzten kann, sollte jedem klar sein.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>Bei Lite wird das Wirken von Magie nicht durch Regeln wie Manapunkte oder Ähnlichem beschränkt. Was möglich ist, gibt das Setting vor, an dem sich Spieler und Spielleiter orientieren sollten. Welchen Einfluss ein Zauberspruch hat, wird bei einem einfachen Konflikt durch die Schwierigkeit festgelegt. Bei einer Konfliktszene ergibt sich der Einfluss allein durch die Beschreibung aller Beteiligten. Das aber ein Anfängercharakter nicht gerade einen Berg versetzten kann, sollte jedem klar sein.</p>
+{% endcapture %}
+{% include hinweis title="Magiewirkung beschränken" body=include_body %}

@@ -70,6 +70,7 @@ while (<$in>) {
     s|<p>(.*)</p>|$1\n|g;
     s|^</ul>$||;
     s|^\s+$||;
+    s|<hr/>|***|g;
     if (m/^<ul>/) {
         print "i";
         next;

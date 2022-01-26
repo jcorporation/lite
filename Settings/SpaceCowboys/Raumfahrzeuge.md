@@ -20,6 +20,7 @@ Es gibt hier keine umfangreiche Raumfahrzeugliste, vielmehr können die Spieler 
 <tr><td>Kleiner Indianersegler</td></tr>
 </tbody>
 </table>
+
 ## Grundwerte
 
 - <strong>Trapperbonus:</strong> Beschreibt die Wendigkeit des Raumfahrzeugs.
@@ -34,9 +35,7 @@ Zubehör kostet immer ein 1 + Bonuspunkte.
 - <strong>Waffen:</strong> Typische Raumfahrzeugwaffen sind herkömmliche Kanonen, Fronterietkanonen oder Maschinengewehre
 - <strong>Sonstiges:</strong> Bordfeuer, Enterhaken
 
-<div class="beispiel">
-#### Beispielraumfahrzeug
-
+{% capture include_body %}
 <p>Trapperbonus: 1<br/>
 Tüftlerbonus: 1<br/>
 Zähigkeit: 9<br/>
@@ -44,5 +43,5 @@ Größe: 4</p>
 <p>Fronterietkanone: 2<br/>
 Enterhaken: 1</p>
 <strong>Summe: 18</strong>
-
-</div>
+{% endcapture %}
+{% include beispiel title="Beispielraumfahrzeug" body=include_body %}

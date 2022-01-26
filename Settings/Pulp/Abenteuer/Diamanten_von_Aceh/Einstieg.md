@@ -8,12 +8,11 @@ title: Einstieg
 
 Die Helden sind auf einem Vortrag im Museum in Alexandria, wo ein Linguist, vor einem exklusiven Publikum, über einen neuen Ausgrabungsfund, eine uralte Schriftrolle, referiert. Die Helden sind vom Club der Entdecker hergeschickt worden, damit sie herausfinden, ob die Schriftrolle wirklich von den uralten Diamanten von Aceh handelt.
 
-<div class="hinweis">
-#### Linguist: Edward Edison
+{% capture include_body %}
+<p>Edward Edison ist im Rentenalter aber dennoch bei allen wichtigen Funden von Ausgrabungen involviert. Er ist Experte in alten ägyptischen Schriften. Er besitzt wirre graue Haare und trägt einen etwas altmodischen und nicht ganz so gut sitzenden Anzug.</p>
+{% endcapture %}
+{% include hinweis title="Linguist: Edward Edison" body=include_body %}
 
-Edward Edison ist im Rentenalter aber dennoch bei allen wichtigen Funden von Ausgrabungen involviert. Er ist Experte in alten ägyptischen Schriften. Er besitzt wirre graue Haare und trägt einen etwas altmodischen und nicht ganz so gut sitzenden Anzug.
-
-</div>
 Die Schriftrolle wurde in einem, eigentlich unbedeutend Nebenbau, der großen Cheopspyramide eher zufällig entdeckt. Sie spricht von mächtigen Diamanten, in denen das Licht der Sonne gebunden ist. Es soll aber auch ein Fluch auf den Diamanten liegen und jedem, der sie an sich nimmt den schnellen Tod bringen.
 
 Während des Vortrags stürmt eine Nazieinsatztruppe, unter der Führung von Obersturmführer Fritz Leibner, den Saal und setzt die Helden und die anderen 10 Zuhörer festsetzt. Ihr Ziel ist natürlich die Schriftrolle, die neben dem Rednerpult ausgestellt ist.
@@ -28,7 +27,6 @@ Edward Edison ist natürlich bestürzt und völlig durcheinander. Er nimmt natü
 
 Außerhalb des Raumes sind alle Sicherheitskräfte ausgeschaltet worden, die Nazis scheinen auf nichts und niemanden Rücksicht genommen zu haben. 10 Minuten nach dem die Nazis weg sind kommt auch die örtliche Polizei und Krankenwagen zum Tatort. Natürlich hat sich bis dahin schon eine Menschentraube mit Gaffern gebildet.
 
-
-<hr/>
+***
 - <strong>Zurück:</strong> [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)
 - <strong>Weiter:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)

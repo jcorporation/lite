@@ -13,5 +13,5 @@ Es liegt an den Spielern, ob sie Nacht und Unwetter ignorieren und durch das Gew
 
 Zurück in Southgate kann Evan ordentlich versorgt werden. Er bedankt sich wiederholt für die Rettung und versichert, in Greattree vom beherzten Eingreifen Southgates zu berichten. Evan ist übriges der Neffe des Familienvorstandes, was den Spielercharakteren ein gewisses Wohlwollen in der Wohnstatt im Stadtpark zuteilwerden lässt. Falls die Spieler die Oldchurchzuflucht gefunden haben, bietet auch das Möglichkeiten für weitere Nachforschungen. Der Rat hat sicherlich Interesse an einem geheimen Ort, der sich innerhalb der Stadt befinden soll.
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Flucht von Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Flucht_von_Oldchurch)

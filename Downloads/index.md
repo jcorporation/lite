@@ -43,7 +43,7 @@ Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ sit
     </div>
 </div>
 
-<hr/>
+***
 
 ## Fan-Settings
 

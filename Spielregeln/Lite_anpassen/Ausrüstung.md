@@ -8,12 +8,10 @@ title: Ausrüstung
 
 Ausrüstung spielt bei Lite nur eine untergeordnete Rolle, daher benötigt es keine umfangreichen Ausrüstungslisten. Bei der Charaktererschaffung und auch im Spiel kann jeder Spieler selber Ausrüstungsgegenstände erschaffen und ihnen Boni zuweisen. Es ist aber trotzdem sinnvoll eine kurze Basisausrüstungsliste zu generieren, damit nicht jeder Spieler das Rad neu erfinden muss.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Aufteilung</div>
-    <div class="card-body">
-        <p>Es sollte für jedes Profil passende Ausrüstungsgegenstände erschaffen werden, damit Techniker praktische Werkzeuge, Zauberer geheimnisvolle Zauberstäbe und Kämpfer mächtige Waffen kaufen können.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>Es sollte für jedes Profil passende Ausrüstungsgegenstände erschaffen werden, damit Techniker praktische Werkzeuge, Zauberer geheimnisvolle Zauberstäbe und Kämpfer mächtige Waffen kaufen können.</p>
+{% endcapture %}
+{% include hinweis title="Aufteilung" body=include_body %}
 
 ## Ausrüstungsliste erstellen
 
@@ -44,19 +42,17 @@ Sollen die Charaktere so etwas beim Start des Abenteuers besitzen, können folge
 5. Der Gegenstand kostet die Summe aller Boni, seiner Zähigkeit und den Zubehörkosten. Wie bei normaler Ausrüstung werden die Boni beim Kauf von den Spielern festgelegt.
 6. Wenn während des Spiels solch ein Gegenstand gekauft werden soll, muss auch noch der Basispreis des Gegenstands und des Zubehörs festgelegt werden.
 
-<div class="card mb-3">
-    <div class="card-header bg-orange text-light">Flugzeug</div>
-    <div class="card-body">
-        <p><strong>Grundwerte</strong><br/>
-        Pionierbonus: 1<br/>
-        Forscherbonus: 1<br/>
-        Zähigkeit: 6</p>
-        <p><strong>Zubehör</strong><br/>
-        Bordkanone: P+1, E 1</p>
-        <strong>Summe Kosten: 10</strong>
-        <p><strong>Basispreise</strong><br/>
-        Flugzeug: 2.000 WE<br/>
-        Bordkanone: 400 WE</p>
-        <p>Im Abenteuer würde das Flugzeug also (16.000 + 800) 16.800 WE kosten.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p><strong>Grundwerte</strong><br/>
+Pionierbonus: 1<br/>
+Forscherbonus: 1<br/>
+Zähigkeit: 6</p>
+<p><strong>Zubehör</strong><br/>
+Bordkanone: P+1, E 1</p>
+<strong>Summe Kosten: 10</strong>
+<p><strong>Basispreise</strong><br/>
+Flugzeug: 2.000 WE<br/>
+Bordkanone: 400 WE</p>
+<p>Im Abenteuer würde das Flugzeug also (16.000 + 800) 16.800 WE kosten.</p>
+{% endcapture %}
+{% include beispiel title="Flugzeug" body=include_body %}

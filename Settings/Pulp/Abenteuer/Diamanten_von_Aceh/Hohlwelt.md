@@ -49,6 +49,6 @@ Die Eingeborenen sind die Wächter von Aceh und wollen jeden Eindringling daran 
 Falls die Nazis vor den Charakteren die Pyramide erreichen sind diese in einen Kampf mit den Eingeborenen verwickelt und Baron von Wartenburg ist bereits auf der Pyramide um den Eingang zu öffnen. Sind die Charaktere wesentlich später dran, finden sie den Baron im Tempelraum der Pyramide.
 
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)
 - <strong>Weiter:</strong> [Pyramide]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Pyramide)

@@ -8,15 +8,12 @@ title: Rund um Orange City
 
 ## Altes Wasserkraftwerk / Stausee
 
-<aside>
-<div class="beispiel">
-## Superschurkenplan
-
-Das alte Wasserkraftwerk ist ein idealer Stützpunkt für einen Superschurken. Der Superschurke könnte aber auch, durch die Sprengung des Stausees die Stadt bedrohen.
-
-</div>
-</aside>
 Direkt vor den Toren der Stadt befindet sich ein großer Stausee und ein stillgelegtes Wasserkraftwerk. Gebändigt davon fließt der Orange-Creek gemächlich durch die Stadt und schließlich ins Meer. Das Wasserkraftwerk ist im Besitz der Stadt. Die Turbinen sind längst außer Betrieb und fast schon als historisch zu betrachten, daher finden hier ab und an auch Führungen statt. Der Staudamm wird natürlich noch regelmäßig gewartet und erneuert, da er wie das Wasserkraftwerk in die Jahre gekommen ist. Der Stausee ist zugleich auch die größte Trinkwasserquelle von Orange City. Im Stadtrat wird regelmäßig diskutiert, ob das Wasserkraftwerk abgerissen oder renoviert werden soll.
+
+{% capture include_body %}
+<p>Das alte Wasserkraftwerk ist ein idealer Stützpunkt für einen Superschurken. Der Superschurke könnte aber auch, durch die Sprengung des Stausees die Stadt bedrohen.</p>
+{% endcapture %}
+{% include beispiel title="Superschurkenplan" body=include_body %}
 
 ## Atomkraftwerk
 
@@ -28,15 +25,12 @@ Fort Orange ist ein kleiner Stützpunkt der U.S. Airforce. Er liegt ein paar Mei
 
 ## Great Mountain
 
-<aside>
-<div class="beispiel">
-## Superschurkenplan
-
-Der Krater des erloschenen Vulkans ist natürlich auch ein ideale Basis für einen Superschurken. Von hier aus lassen sich z.B. Raketen starten oder in den Höllen könnte man eine Superarmee züchten.
-
-</div>
-</aside>
 Nördlich von Orange City befindet sich eine Bergkette, der höchste Berg ist ein fast erloschener Vulkan. Der Krater ist offen und ganz tief unten brodelt noch etwas Magma vor sich hin, der letzte Ausbruch ist aber schon Tausende von Jahren her, weshalb sich an den Vulkanflanken schon längst wieder Pflanzen angesiedelt haben und der Great Mountain ein beliebtes Ausflugsziel ist.
+
+{% capture include_body %}
+<p>Der Krater des erloschenen Vulkans ist natürlich auch ein ideale Basis für einen Superschurken. Von hier aus lassen sich z.B. Raketen starten oder in den Höllen könnte man eine Superarmee züchten.</p>
+{% endcapture %}
+{% include beispiel title="Superschurkenplan" body=include_body %}
 
 ## Indianerreservat
 

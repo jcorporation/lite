@@ -27,5 +27,5 @@ Wenig erstaunlich also, dass Abenteurer und Großwildjäger aus aller Welt aufge
 
 [downbox[abenteuer/lite-pulp-rotekobra*]
 
-<hr/>
+***
 Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [W6 vs W12](http://w6vsw12.wordpress.com/2014/05/26/abenteuer-die-jagd-nach-der-roten-kobra-hex/) für HEX. Ich habe es deutlich gestrafft und umgestaltet.

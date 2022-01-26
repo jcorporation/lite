@@ -28,6 +28,7 @@ Als Hilfe für die Festlegung der Profile können folgende Beispiele dienen, wie
         <tr><th>Anderer</th><td>Stuntman</td><td>Waldläufer</td><td>Pionier</td><td>Pilot</td></tr>
     </tbody>
 </table>
+
 ## Zähigkeit
 
 Bei Lite hat jedes Profil eine Zähigkeit von sechs Punkten. Soll das Setting etwas gefährlicher wirken, kann die Zähigkeit auch auf vier Punkte gesenkt werden.

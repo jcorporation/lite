@@ -13,6 +13,6 @@ Wenn sich die Charaktere an den Club der Forscher wenden, bekommen sie ein Flugz
 Die Nazis haben in Somalia einen kleinen Stützpunkt und machen sich von dort aus mit einem Schlachtschiff unmittelbar auf den Weg zu den Amiranten und brauchen mit allen Vorbereitungen 2 Tage um auf die Insel zu gelangen. Baron von Wartenburg ist von Alexandria mit einem Wasserflugzeug aufgebrochen und kommt 2 Tage nach den ersten Nazis an.
 
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)
 - <strong>Weiter:</strong> [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel)

@@ -30,6 +30,6 @@ Vermutlich werden die Charaktere versuchen, dem Thumbling zu helfen und die Ratt
 
 Die Falltür führt einen halben Meter unter die Erde, wo sie dann als gegrabener Tunnel in Richtung Kirche führt. Bald darauf wird der Tunnel zum Inneren eines Kabelrohres, wobei die Kabel den Weg nicht behindern. Eine weitere Öffnung und eine weitere Leiter später finden sich die Spielercharaktere in der Kirche wieder, genauer gesagt unter dem Boden der Sakristei und nah an der Außenmauer. Von innen zeigt sich hier eine gut getarnte Tür, die nach draußen führt. Die Gruppe hat soeben die verlassene Oldchurchwohnstatt gefunden. Die Wohnstatt ist recht klein, die Familie Oldchurch bestand schon früher nur aus weniger als einem Dutzend Mitgliedern. Im Inneren der Behausung ist alles spinnwebenverhangen, staubig und düster. Die Möbel sind angeschimmelt und holzwurmzerfressen. Auf dem Tisch in der Mitte des Wohnraumes steht ein verschlossenes mit einer dort sicher verwahrten Botschaft. Sie besagt, dass die Oldchurchs sich an &bdquo;den geheimen Ort in der Stadt&ldquo; zurückziehen, weil &bdquo;die Situation es erfordere&ldquo;. Mehr ist nicht zu finden, wobei einige Gebrauchsgegenstände durchaus intakt und evtl. tauschbar sind.
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Vor den Toren Coppertons]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Vor_den_Toren_Coppertons)
 - <strong>Weiter:</strong> [Flucht von Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Flucht_von_Oldchurch)

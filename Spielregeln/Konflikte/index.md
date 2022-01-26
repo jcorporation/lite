@@ -4,7 +4,7 @@ permalink: /Spielregeln/Konflikte/index
 title: Konflikte
 ---
 
-<h1><img alt="Konflikte" height="70" src="{{ site.baseurl }}/assets/images/icons/konflikte.png" width="70" />Konflikte</h1>
+{% include pictitle title=page.title image="/icons/konflikte.png" %}
 
 Bei Lite gibt es zwei Möglichkeiten Konflikte zu lösen. Dabei entscheidet der Spielleiter welche der beiden Regeln zum Einsatz kommt.
 
@@ -15,9 +15,7 @@ Konfliktszenen sollten für dramatische und wichtige Szenen im Abenteuer genutzt
 
 - [Konsequenzen]({{ site.baseurl }}/Spielregeln/Konflikte/Konsequenzen)
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Teilnehmer</div>
-    <div class="card-body">
-        <p>An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>An einem Konflikt können nur Charaktere teilnehmen, deren Zähigkeit des eingesetzten Profils mindestens 1 beträgt.</p>
+{% endcapture %}
+{% include hinweis title="Teilnehmer" body=include_body %}

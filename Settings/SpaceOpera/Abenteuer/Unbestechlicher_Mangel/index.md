@@ -20,5 +20,5 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 [downbox[abenteuer/lite-spaceopera-unbestechlichermangel_]
 
-<hr/>
+***
 Dieses Abenteuer wurde von [Onno Tasler](http://belchion.rsp-blogs.de/) ursprünglich für seinen SpacePirates-Ableger Deep Space Traders geschrieben.

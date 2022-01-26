@@ -8,12 +8,10 @@ title: Nach dem Abenteuer
 
 Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung an. Das wird durch Erfahrungspunkte symbolisiert. Pro bestandenem Abenteuer erhält jeder teilnehmende Charakter zwei Erfahrungspunkte.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Erfahrungspunkte</div>
-    <div class="card-body">
-        <p>Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele Erfahrungspunkte.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele Erfahrungspunkte.</p>
+{% endcapture %}
+{% include hinweis title="Erfahrungspunkte" body=include_body %}
 
 ## Steigerung
 
@@ -38,11 +36,9 @@ Zusätzlich darf beim Stufenaufstieg eine beliebige Konsequenz gestrichen werden
 | 2 | 2 |
 | 1 | 0 |
 
-<div class="card mb-3">
-    <div class="card-header bg-orange text-light">Beispiel zur Steigerung</div>
-    <div class="card-body">
-        <p>James Montgomery hat das erste Abenteuer bestanden und erhält zwei Erfahrungspunkte, dadurch steigt er eine Stufe auf.</p>
-        <p>Willi vergibt jeweils einen Punkt auf Forscher und Soldat. Somit hat er jetzt Forscher auf 6 und Soldat auf 3.</p>
-        <p>Durch den Aufstieg darf er auch eine Konsequenz streichen und streicht &bdquo;humpelt dauerhaft&ldquo;. Seine Verletzung ist durch genügend Ruhe von selber abgeklungen.</p>
-    </div>
-</div>
+{% capture include_body %}
+<p>James Montgomery hat das erste Abenteuer bestanden und erhält zwei Erfahrungspunkte, dadurch steigt er eine Stufe auf.</p>
+<p>Willi vergibt jeweils einen Punkt auf Forscher und Soldat. Somit hat er jetzt Forscher auf 6 und Soldat auf 3.</p>
+<p>Durch den Aufstieg darf er auch eine Konsequenz streichen und streicht &bdquo;humpelt dauerhaft&ldquo;. Seine Verletzung ist durch genügend Ruhe von selber abgeklungen.</p>
+{% endcapture %}
+{% include beispiel title="Beispiel zur Steigerung" body=include_body %}

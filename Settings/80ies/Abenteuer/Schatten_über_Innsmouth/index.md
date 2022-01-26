@@ -36,6 +36,6 @@ title: Schatten über Innsmouth
     </div>
 </div>
 
-<hr/>
+***
 
 Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [Tobias Deißler](http://randpatrouille.de/Abenteuer.xhtml). Es steht unter der Lizenz [CreativeCommons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).

@@ -48,6 +48,6 @@ Danach erhält der Spielleiter Tipps, wie er Abenteuer vorbereitet und eigene sc
 
 Zum Abschluss werden 10 [Settings]({{ site.baseurl }}/Spielregeln/Settings) vorgestellt, um schnell losspielen zu können.
 
-<hr/>
+***
 
 - [Was wird zum Spielen benötigt?]({{ site.baseurl }}/Spielregeln/Spielmaterial)

@@ -16,6 +16,6 @@ Die Eule wird den Charakteren hinterherjagen, ebenso mögliche verbliebene Ratte
 </tbody>
 </table>
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Oldchurch)
 - <strong>Weiter:</strong> [Abschlussszene: Rückkehr nach Copperton]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Rückker_nach_Copperton

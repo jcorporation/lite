@@ -25,6 +25,6 @@ Ab dem 4. Tag haben die Nazis rund um den Vulkan Lager eingerichtet. Insgesamt s
 Eines der Lager scheint verlassen zu sein. Überall liegen tote Nazisoldaten mit ausgebrannten Augen. Aus einer Höhle in der Nähe des Lagers scheinen Lichter.
 
 
-<hr/>
+***
 - <strong>Zurück:</strong> [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise)
 - <strong>Weiter:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)

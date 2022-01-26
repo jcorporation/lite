@@ -4,7 +4,7 @@ permalink: /Spielregeln/Vor_dem_Spiel
 title: Vor dem Spiel
 ---
 
-<h1><img alt="Vor dem Spiel" height="70" src="{{ site.baseurl }}/assets/images/icons/vordemspiel.png" width="70" />Vor dem Spiel</h1>
+{% include pictitle title=page.title image="/icons/vordemspiel.png" %}
 
 Vor dem Spiel legt die Gruppe das Setting fest oder erstellt es, die Spieler erschaffen Charaktere und der Spielleiter bereitet das Abenteuer vor. Wenn ein Fortsetzungsabenteuer ansteht, sind natürlich die ersten beiden Punkte schon abgehakt und der Spielleiter muss nur noch das Abenteuer vorbereiten, bevor es weitergehen kann.
 
@@ -21,4 +21,3 @@ Stehen Setting und Abenteuerart fest, erschafft jeder Spieler seinen Charakter. 
 ## 3. Abenteuer vorbereiten oder erstellen
 
 Dieser Teil liegt vollständig in der Verantwortung des Spielleiters. Er nimmt entweder ein fertiges Abenteuer oder schreibt ein eigenes. Hinweise, wie man dies am besten tut, finden sich im Kapitel &bdquo;[Abenteuer]({{ site.baseurl }}/Spielregeln/Abenteuer/)&ldquo; weiter hinten im Buch.
-

@@ -23,7 +23,7 @@ Bei Gebrauch einer Superkraft wird die normale Physik aufgehoben, wie man es aus
 
 Wenn ein Charakter eine Superkraft einsetzt, würfelt er einfach auf das passende Profil mit der Stufe der Superkraft als Bonuswürfel.
 
-<hr/>
+***
 
 ## Beispielhafte Superkräfte
 
