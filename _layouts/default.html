@@ -35,6 +35,11 @@
     <main class="container-xxl py-2">
       {{ content }}
     </main>
+    {% if page.aside != "" %}
+      <aside>
+        {% include_relative {{ page.aside }} %}
+      </aside>
+    {% endif %}
     <footer class="footer-bottom bg-light">
       <nav class="container-xxl">
         <a class="p-2" href="https://jcgames.de/">
