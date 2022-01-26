@@ -27,18 +27,18 @@
         </div>
       </nav>
     </header>
-    <header class="navbar navbar-expand-md bg-light py-2">
+    <header class="navbar navbar-expand-md bg-light py-2 mb-2">
       <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
         {% include breadcrumbs %}
       </nav>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
-      <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3">
-        <main class="col col-xl-8 ps-0">
+      <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
+        <main class="col col-xl-8">
           {{ content }}
         </main>
         {% if page.aside %}
-          <aside class="col col-xl-4 px-0">
+          <aside class="col col-xl-4 pe-0">
             {% include_relative {{ page.aside }} %}
           </aside>
         {% endif %}
