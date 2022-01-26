@@ -22,4 +22,4 @@ Natürlich haben es aber auch die Nazis auf die Diamanten abgesehen, da in ihnen
 
 ## Download
 
-[downbox[abenteuer/lite-pulp-diamantenvonaceh*]
+{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/pulp-diamantenvonaceh.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Abenteuer/lite-pulp-diamantenvonaceh_2015-02-09.pdf" %}

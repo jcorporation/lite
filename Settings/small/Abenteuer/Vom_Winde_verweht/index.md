@@ -16,4 +16,4 @@ Dieses Abenteuer führt die Charaktere nach Oldchurch, wo sie einen Thumbling au
 
 ## Download
 
-[downbox[abenteuer/lite-small-vomwindeverweht]
+{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/small-vomwindeverweht.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Abenteuer/lite-small-vomwindeverweht_2015-02-09.pdf" %}
