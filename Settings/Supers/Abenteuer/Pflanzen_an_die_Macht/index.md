@@ -8,6 +8,8 @@ title: Pflanzen an die Macht
 
 In &bdquo;Pflanzen an die Macht&ldquo; verwandelt der Superschurke Treeman Verbrecher zu lebenden Bäume um zuerst den Untergrund von Orange City zu beherrschen um dann alle Menschen in Orange City zu lebenden Bäumen zu verwandeln.
 
+{% include working %}
+
 ## Inhalt
 
 - [Treeman]({{ site.baseurl }}/Settings/Supers/Abenteuer/Pflanzen_an_die_Macht/Treeman) (Superschurke)
@@ -17,13 +19,5 @@ In &bdquo;Pflanzen an die Macht&ldquo; verwandelt der Superschurke Treeman Verbr
 
 ## Download
 
-[downbox[abenteuer/lite-supers-pflanzen_]
-
-<aside>
-<div class="working">
-#### In Arbeit
-
-Dieser Text befindet sich noch in der Entwicklungsphase.
-
-</div>
-</aside>
+{% include downboxrow title="Pflanzen an die Macht" image="/thumbnails/supers-pflanzenandiemacht.png" body="PDF A5
+Version: 2017.07.02" link="/Downloads/Abenteuer/lite-supers-pflanzen_2017-07-02.pdf" %}
