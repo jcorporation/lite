@@ -22,8 +22,8 @@ Wichtige Charaktere sind die Vertrauten der Hauptcharaktere, aber auch Kontakte 
 
 Handlanger sind z.B. einfache Soldaten, die in einer Patrouille mitfliegen, oder der Bote, der nur kurz einen Chip mit Informationen übergibt. Kurz gesagt: unwichtige Charaktere, die keine eigenen Motive besitzen und auch über keine ausgestaltete Persönlichkeit verfügen. Sie besitzen nur die nötigsten Werte und eine grobe Beschreibung. Handlanger besitzen nur ein allgemeines Profil mit einer Zähigkeit von eins.
 
-- <strong>Profilwert:</strong> 2+&bdquo;Mittelwert der Stufe der Charaktere&ldquo;
-- <strong>Zähigkeit:</strong> 1
+- **Profilwert:** 2+„Mittelwert der Stufe der Charaktere“
+- **Zähigkeit:** 1
 
 Sollen die Handlanger etwas anspruchsvoller sein, können Zähigkeit und Profilwert um 1 erhöht werden.
 

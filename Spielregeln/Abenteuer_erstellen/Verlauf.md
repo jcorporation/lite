@@ -19,7 +19,9 @@ Szenen umfassen immer einen bestimmten Schauplatz und Spielleitercharaktere, die
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Zeitleiste</div>
     <div class="card-body">
-        <p>Wenn Ereignisse unabhängig von bestimmten Aktionen eintreten, ist es sinnvoll, diese in einer kleinen Zeitleiste festzuhalten. In die Zeitleiste können auch geplante Aktionen der gegnerischen Parteien eingetragen werden. Wichtig ist nur, dass man während des Abenteuers bedenkt, dass sich manche Geschehnisse durch Aktionen der Spielercharaktere verschieben können. Damit hat man als Spielleiter während des Abenteuers einen guten Überblick.</p>
+        
+Wenn Ereignisse unabhängig von bestimmten Aktionen eintreten, ist es sinnvoll, diese in einer kleinen Zeitleiste festzuhalten. In die Zeitleiste können auch geplante Aktionen der gegnerischen Parteien eingetragen werden. Wichtig ist nur, dass man während des Abenteuers bedenkt, dass sich manche Geschehnisse durch Aktionen der Spielercharaktere verschieben können. Damit hat man als Spielleiter während des Abenteuers einen guten Überblick.
+
     </div>
 </div>
 

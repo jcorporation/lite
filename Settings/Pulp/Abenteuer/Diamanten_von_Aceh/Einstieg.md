@@ -9,7 +9,9 @@ title: Einstieg
 Die Helden sind auf einem Vortrag im Museum in Alexandria, wo ein Linguist, vor einem exklusiven Publikum, über einen neuen Ausgrabungsfund, eine uralte Schriftrolle, referiert. Die Helden sind vom Club der Entdecker hergeschickt worden, damit sie herausfinden, ob die Schriftrolle wirklich von den uralten Diamanten von Aceh handelt.
 
 {% capture include_body %}
-<p>Edward Edison ist im Rentenalter aber dennoch bei allen wichtigen Funden von Ausgrabungen involviert. Er ist Experte in alten ägyptischen Schriften. Er besitzt wirre graue Haare und trägt einen etwas altmodischen und nicht ganz so gut sitzenden Anzug.</p>
+
+Edward Edison ist im Rentenalter aber dennoch bei allen wichtigen Funden von Ausgrabungen involviert. Er ist Experte in alten ägyptischen Schriften. Er besitzt wirre graue Haare und trägt einen etwas altmodischen und nicht ganz so gut sitzenden Anzug.
+
 {% endcapture %}
 {% include hinweis.md title="Linguist: Edward Edison" body=include_body %}
 
@@ -28,5 +30,5 @@ Edward Edison ist natürlich bestürzt und völlig durcheinander. Er nimmt natü
 Außerhalb des Raumes sind alle Sicherheitskräfte ausgeschaltet worden, die Nazis scheinen auf nichts und niemanden Rücksicht genommen zu haben. 10 Minuten nach dem die Nazis weg sind kommt auch die örtliche Polizei und Krankenwagen zum Tatort. Natürlich hat sich bis dahin schon eine Menschentraube mit Gaffern gebildet.
 
 ***
-- <strong>Zurück:</strong> [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)
-- <strong>Weiter:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)
+- **Zurück:** [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)
+- **Weiter:** [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)

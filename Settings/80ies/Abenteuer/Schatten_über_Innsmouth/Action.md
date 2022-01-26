@@ -26,7 +26,9 @@ Sie sind erst aggressiv, aber falls sie zu verlieren drohen fliehen sie. Wenn je
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Jugendliche Schläger</div>
     <div class="card-body">
-        <p>Alle jugendlichen Schläger sehen irgendwie ähnlich aus, fast wie verwandt. Sie sind eher gedrungen gebaut, haben breite, faltige Hälse, kleine Augen und Ohren und wenige, strähnige, blonde Haare.</p>
+        
+Alle jugendlichen Schläger sehen irgendwie ähnlich aus, fast wie verwandt. Sie sind eher gedrungen gebaut, haben breite, faltige Hälse, kleine Augen und Ohren und wenige, strähnige, blonde Haare.
+
     </div>
 </div>
 
@@ -56,7 +58,9 @@ Falls sich irgend jemand die Muße nimmt, von einem hohen Punkt aus die Gegend z
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Fischmenschen</div>
     <div class="card-body">
-        <p>Die Fischmenschen sehen aus wie eine Mischung aus Mensch und Fisch. Sie gehen aufrecht, besitzen bläulich schimmernde Schuppen und einen fischförmigen Kopf. Am Hals befinden sich Kiemen, sie können aber auch Luft atmen.</p>
+        
+Die Fischmenschen sehen aus wie eine Mischung aus Mensch und Fisch. Sie gehen aufrecht, besitzen bläulich schimmernde Schuppen und einen fischförmigen Kopf. Am Hals befinden sich Kiemen, sie können aber auch Luft atmen.
+
     </div>
 </div>
 

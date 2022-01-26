@@ -7,7 +7,7 @@ aside: index_aside.md
 
 # Pflanzen an die Macht
 
-In &bdquo;Pflanzen an die Macht&ldquo; verwandelt der Superschurke Treeman Verbrecher zu lebenden Bäume um zuerst den Untergrund von Orange City zu beherrschen um dann alle Menschen in Orange City zu lebenden Bäumen zu verwandeln.
+In „Pflanzen an die Macht“ verwandelt der Superschurke Treeman Verbrecher zu lebenden Bäume um zuerst den Untergrund von Orange City zu beherrschen um dann alle Menschen in Orange City zu lebenden Bäumen zu verwandeln.
 
 ## Inhalt
 

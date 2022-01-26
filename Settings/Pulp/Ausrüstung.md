@@ -27,7 +27,7 @@ Die allgemeine Währungseinheit ist bei Pulp der Dollar.
 <tr><td>Schrotflinte</td><td>1.000</td></tr>
 </tbody>
 </table>
-- <strong>Dynamit</strong> verursacht pro Stange 1W6 Schaden in der unmittelbaren Umgebung.
+- **Dynamit** verursacht pro Stange 1W6 Schaden in der unmittelbaren Umgebung.
 
 ## Diverses
 
@@ -49,7 +49,7 @@ Die allgemeine Währungseinheit ist bei Pulp der Dollar.
 <tr><td>Werkzeugset</td><td>1.000</td></tr>
 </tbody>
 </table>
-- Das <strong>Überlebensset</strong> besteht aus: Magnesiumfackeln, Seil, Schlafsack, kleine Schaufel
+- Das **Überlebensset** besteht aus: Magnesiumfackeln, Seil, Schlafsack, kleine Schaufel
 
 ## Fahrzeuge
 

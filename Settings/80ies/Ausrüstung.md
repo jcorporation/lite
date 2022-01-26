@@ -23,7 +23,7 @@ Die allgemeine Währungseinheit bei 80ies ist der Dollar.
 <tr><td>Scharfschützengewehr</td><td>5.000</td></tr>
 </tbody>
 </table>
-- <strong>Dynamit</strong> verursacht pro Stange 1W6 Schaden in der unmittelbaren Umge&shy;bung.
+- **Dynamit** verursacht pro Stange 1W6 Schaden in der unmittelbaren Umge&shy;bung.
 
 ## Diverses
 

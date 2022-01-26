@@ -6,7 +6,7 @@ title: Unbestechlicher Mangel
 
 # Unbestechlicher Mangel
 
-Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabei aber über den Tisch gezogen: Die Setzlinge stammen von der Federal Space Exploration Company und sind genetisch manipuliert. Sie verderben, wenn sie nicht innerhalb einer gewissen Zeit auf einem von FedSpex vorbereiteten Planeten ausgesät werden. Zwar würde die naheliegende FedSpex-Kolonie HD 10180 g VII &bdquo;New Wyoming&ldquo; das Saatgut dringend brauchen und es auch nutzen können, aber Kolonialplaneten ist der Handel mit Freihändlern strikt verboten. Andererseits: Die nächste Ratenzahlung fürs Raumschiff steht kurz vor der Tür, die Charaktere brauchen also dringend Geld. Sie können es sich einfach nicht leisten, die Fracht aufzugeben.
+Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabei aber über den Tisch gezogen: Die Setzlinge stammen von der Federal Space Exploration Company und sind genetisch manipuliert. Sie verderben, wenn sie nicht innerhalb einer gewissen Zeit auf einem von FedSpex vorbereiteten Planeten ausgesät werden. Zwar würde die naheliegende FedSpex-Kolonie HD 10180 g VII „New Wyoming“ das Saatgut dringend brauchen und es auch nutzen können, aber Kolonialplaneten ist der Handel mit Freihändlern strikt verboten. Andererseits: Die nächste Ratenzahlung fürs Raumschiff steht kurz vor der Tür, die Charaktere brauchen also dringend Geld. Sie können es sich einfach nicht leisten, die Fracht aufzugeben.
 
 ## Inhalt
 

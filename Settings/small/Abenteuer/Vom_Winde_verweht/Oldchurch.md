@@ -14,7 +14,7 @@ Das alte Kirchengelände ist von einer riesigen (ca. 1 Meter) Mauer umgeben, dur
 
 <table>
 <tbody>
-<tr><th colspan="2"><strong>Evan Greatree</strong></th></tr>
+<tr><th colspan="2">**Evan Greatree**</th></tr>
 <tr><th>Knüppler</th><td>3</td></tr>
 <tr><th>Tüftler</th><td>1</td></tr>
 <tr><th>Plapperer</th><td>3</td></tr>
@@ -28,8 +28,8 @@ Vermutlich werden die Charaktere versuchen, dem Thumbling zu helfen und die Ratt
 
 ## Unter Oldchurch
 
-Die Falltür führt einen halben Meter unter die Erde, wo sie dann als gegrabener Tunnel in Richtung Kirche führt. Bald darauf wird der Tunnel zum Inneren eines Kabelrohres, wobei die Kabel den Weg nicht behindern. Eine weitere Öffnung und eine weitere Leiter später finden sich die Spielercharaktere in der Kirche wieder, genauer gesagt unter dem Boden der Sakristei und nah an der Außenmauer. Von innen zeigt sich hier eine gut getarnte Tür, die nach draußen führt. Die Gruppe hat soeben die verlassene Oldchurchwohnstatt gefunden. Die Wohnstatt ist recht klein, die Familie Oldchurch bestand schon früher nur aus weniger als einem Dutzend Mitgliedern. Im Inneren der Behausung ist alles spinnwebenverhangen, staubig und düster. Die Möbel sind angeschimmelt und holzwurmzerfressen. Auf dem Tisch in der Mitte des Wohnraumes steht ein verschlossenes mit einer dort sicher verwahrten Botschaft. Sie besagt, dass die Oldchurchs sich an &bdquo;den geheimen Ort in der Stadt&ldquo; zurückziehen, weil &bdquo;die Situation es erfordere&ldquo;. Mehr ist nicht zu finden, wobei einige Gebrauchsgegenstände durchaus intakt und evtl. tauschbar sind.
+Die Falltür führt einen halben Meter unter die Erde, wo sie dann als gegrabener Tunnel in Richtung Kirche führt. Bald darauf wird der Tunnel zum Inneren eines Kabelrohres, wobei die Kabel den Weg nicht behindern. Eine weitere Öffnung und eine weitere Leiter später finden sich die Spielercharaktere in der Kirche wieder, genauer gesagt unter dem Boden der Sakristei und nah an der Außenmauer. Von innen zeigt sich hier eine gut getarnte Tür, die nach draußen führt. Die Gruppe hat soeben die verlassene Oldchurchwohnstatt gefunden. Die Wohnstatt ist recht klein, die Familie Oldchurch bestand schon früher nur aus weniger als einem Dutzend Mitgliedern. Im Inneren der Behausung ist alles spinnwebenverhangen, staubig und düster. Die Möbel sind angeschimmelt und holzwurmzerfressen. Auf dem Tisch in der Mitte des Wohnraumes steht ein verschlossenes mit einer dort sicher verwahrten Botschaft. Sie besagt, dass die Oldchurchs sich an „den geheimen Ort in der Stadt“ zurückziehen, weil „die Situation es erfordere“. Mehr ist nicht zu finden, wobei einige Gebrauchsgegenstände durchaus intakt und evtl. tauschbar sind.
 
 ***
-- <strong>Zurück:</strong> [Vor den Toren Coppertons]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Vor_den_Toren_Coppertons)
-- <strong>Weiter:</strong> [Flucht von Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Flucht_von_Oldchurch)
+- **Zurück:** [Vor den Toren Coppertons]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Vor_den_Toren_Coppertons)
+- **Weiter:** [Flucht von Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Flucht_von_Oldchurch)

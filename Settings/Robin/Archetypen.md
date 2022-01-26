@@ -12,7 +12,7 @@ Ein sächsischer Bauer der von seinem Boden vertrieben wurde. Sein ganzes Bauern
 
 ## Enteigneter Adeliger
 
-Er ist das heimatlose Kind eines angelsächsischen Barons, seine Eltern kamen bei der &bdquo;Säuberung&ldquo; durch die Normannen um und der gesamte Besitz der Familie wurde gepfändet. Der Hass auf alles Normannische lässt ihn sich den Merry Men anschließen.
+Er ist das heimatlose Kind eines angelsächsischen Barons, seine Eltern kamen bei der „Säuberung“ durch die Normannen um und der gesamte Besitz der Familie wurde gepfändet. Der Hass auf alles Normannische lässt ihn sich den Merry Men anschließen.
 
 ## Diener oder Magd
 

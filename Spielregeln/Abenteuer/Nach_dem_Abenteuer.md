@@ -9,7 +9,9 @@ title: Nach dem Abenteuer
 Durch das Erleben des Abenteuers sammeln die Charaktere in jedem Fall Erfahrung an. Das wird durch Erfahrungspunkte symbolisiert. Pro bestandenem Abenteuer erhält jeder teilnehmende Charakter zwei Erfahrungspunkte.
 
 {% capture include_body %}
-<p>Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele Erfahrungspunkte.</p>
+
+Erfahrungspunkte dienen nicht dazu, Spieler zu erziehen oder zu belohnen. Daher erhalten alle beteiligten Charaktere am Ende des Abenteuers gleich viele Erfahrungspunkte.
+
 {% endcapture %}
 {% include hinweis.md title="Erfahrungspunkte" body=include_body %}
 
@@ -37,8 +39,14 @@ Zusätzlich darf beim Stufenaufstieg eine beliebige Konsequenz gestrichen werden
 | 1 | 0 |
 
 {% capture include_body %}
-<p>James Montgomery hat das erste Abenteuer bestanden und erhält zwei Erfahrungspunkte, dadurch steigt er eine Stufe auf.</p>
-<p>Willi vergibt jeweils einen Punkt auf Forscher und Soldat. Somit hat er jetzt Forscher auf 6 und Soldat auf 3.</p>
-<p>Durch den Aufstieg darf er auch eine Konsequenz streichen und streicht &bdquo;humpelt dauerhaft&ldquo;. Seine Verletzung ist durch genügend Ruhe von selber abgeklungen.</p>
+
+James Montgomery hat das erste Abenteuer bestanden und erhält zwei Erfahrungspunkte, dadurch steigt er eine Stufe auf.
+
+
+Willi vergibt jeweils einen Punkt auf Forscher und Soldat. Somit hat er jetzt Forscher auf 6 und Soldat auf 3.
+
+
+Durch den Aufstieg darf er auch eine Konsequenz streichen und streicht „humpelt dauerhaft“. Seine Verletzung ist durch genügend Ruhe von selber abgeklungen.
+
 {% endcapture %}
 {% include beispiel.md title="Beispiel zur Steigerung" body=include_body %}

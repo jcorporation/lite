@@ -50,5 +50,5 @@ Falls die Nazis vor den Charakteren die Pyramide erreichen sind diese in einen K
 
 
 ***
-- <strong>Zurück:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)
-- <strong>Weiter:</strong> [Pyramide]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Pyramide)
+- **Zurück:** [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)
+- **Weiter:** [Pyramide]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Pyramide)

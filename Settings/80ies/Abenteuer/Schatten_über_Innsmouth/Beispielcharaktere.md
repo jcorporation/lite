@@ -24,7 +24,7 @@ Baseball-Schläger<br/>
 3 Stangen Dynamit (zum Fischen) P+1, Z+0</td></tr>
 <tr><th>Beschreibung</th><td>Endlich mal raus! Raus aus dem versifften Vorort, weg von der nervenden Frau, den nölenden Kindern, dem langweiligen Job. Du hast lange mit deiner Frau gekämpft, aber du hast dich durchgesetzt. Zwei Wochen Urlaub mit deinem Kumpel Frank, nichts als Angeln, Bier trinken, dreckige Witze reißen, rülpsen, furzen ohne schlechtes Gewissen.<br/>
 <br/>
-Warum du in Innsmouth bleibst: &bdquo;Das ist mein Urlaub, Mann! Den lass ich mir von nichts und niemandem vermiesen!&ldquo;<br/>
+Warum du in Innsmouth bleibst: „Das ist mein Urlaub, Mann! Den lass ich mir von nichts und niemandem vermiesen!“<br/>
 <br/>
 Aussehen: groß - dick - muskulös</td></tr>
 </tbody>
@@ -44,7 +44,7 @@ Langweiler</td></tr>
 Angelset P+1, Z+0</td></tr>
 <tr><th>Beschreibung</th><td>Endlich mal raus! Raus aus dem versifften Vorort, weg von der nervenden Frau, den nölenden Kindern, dem langweiligen Job. Du hast lange mit deiner Frau gekämpft, aber du hast dich durchgesetzt. Zwei Wochen Urlaub mit deinem Kumpel Butch, nichts als Angeln, Bier trinken, dreckige Witze reißen, rülpsen, furzen ohne schlechtes Gewissen.<br/>
 <br/>
-Warum du in Innsmouth bleibst: &bdquo;Das ist mein Urlaub, Mann! Den lass ich mir von nichts und niemandem vermiesen!&ldquo;<br/>
+Warum du in Innsmouth bleibst: „Das ist mein Urlaub, Mann! Den lass ich mir von nichts und niemandem vermiesen!“<br/>
 <br/>
 Aussehen: klein - drahtig - breites Grinsen</td></tr>
 </tbody>

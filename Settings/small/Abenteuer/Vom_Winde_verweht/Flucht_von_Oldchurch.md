@@ -10,12 +10,12 @@ Die Eule wird den Charakteren hinterherjagen, ebenso mögliche verbliebene Ratte
 
 <table>
 <tbody>
-<tr><th colspan="2"><strong>Eule</strong></th></tr>
+<tr><th colspan="2">**Eule**</th></tr>
 <tr><th>Profilwert</th><td>5</td></tr>
 <tr><th>Zähigkeit</th><td>5</td></tr>
 </tbody>
 </table>
 
 ***
-- <strong>Zurück:</strong> [Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Oldchurch)
-- <strong>Weiter:</strong> [Abschlussszene: Rückkehr nach Copperton]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Rückker_nach_Copperton
+- **Zurück:** [Oldchurch]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Oldchurch)
+- **Weiter:** [Abschlussszene: Rückkehr nach Copperton]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/Rückker_nach_Copperton

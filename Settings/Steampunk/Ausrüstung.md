@@ -43,7 +43,7 @@ Die allgemeine Währungseinheit ist das englische Pfund.
 </tbody>
 </table>
 
-- Das <strong>Überlebensset</strong> besteht aus: Laterne, Seil, Schlafsack, kleine Schaufel.
+- Das **Überlebensset** besteht aus: Laterne, Seil, Schlafsack, kleine Schaufel.
 
 ## Fahrzeuge
 

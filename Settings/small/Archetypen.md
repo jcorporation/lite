@@ -32,5 +32,5 @@ Mauern beengen und wo andere Thumblinge ihren Schutz genießen, sucht der Wildni
 
 ## Menschenforscher
 
-Menschen sind ein wichtiger Teil im Leben aller Thumblinge, auch wenn &bdquo;die Großen&ldquo; sie nicht entdecken sollen. Menschenforscher versuchen, möglichst viel über menschliche Kultur und Gepflogenheiten zu lernen, einige sollen sogar insgeheim Kontakt zu einzelnen Menschen haben. Das wurde allerdings nie bestätigt.
+Menschen sind ein wichtiger Teil im Leben aller Thumblinge, auch wenn „die Großen“ sie nicht entdecken sollen. Menschenforscher versuchen, möglichst viel über menschliche Kultur und Gepflogenheiten zu lernen, einige sollen sogar insgeheim Kontakt zu einzelnen Menschen haben. Das wurde allerdings nie bestätigt.
 

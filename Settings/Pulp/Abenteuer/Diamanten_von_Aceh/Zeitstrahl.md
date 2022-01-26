@@ -25,5 +25,5 @@ Hier die möglichen Ereignisse in zeitlicher Reihenfolge.
 </table>
 
 ***
-- <strong>Zurück:</strong> [Gegenspieler]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Gegenspieler)
-- <strong>Weiter:</strong> [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Einstieg)
+- **Zurück:** [Gegenspieler]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Gegenspieler)
+- **Weiter:** [Einstieg]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Einstieg)

@@ -67,7 +67,7 @@ Rüstungen geben einen Bonus auf die Zähigkeit.
 <tr><td>Zauberstab</td><td>800 S</td></tr>
 </tbody>
 </table>
-Der <strong>Schleier der Fata Morgana</strong> gibt einen Bonus auf Verstecken und Schleichen.
+Der **Schleier der Fata Morgana** gibt einen Bonus auf Verstecken und Schleichen.
 
 ## Tränke
 
@@ -80,5 +80,5 @@ Der <strong>Schleier der Fata Morgana</strong> gibt einen Bonus auf Verstecken u
 <tr><td>Magisches Wasser</td><td>200 S</td></tr>
 </tbody>
 </table>
-Tränke geben eine Szene lang einen Bonus auf das passende Profil. Jede Phiole enthält 5 Einheiten des Elixiers. Das <strong>Lebenselixier</strong> gibt einen Bonus beim Heilen, das <strong>magische Wasser</strong> stärkt einen bei einer langen Reise durch die Wüste.
+Tränke geben eine Szene lang einen Bonus auf das passende Profil. Jede Phiole enthält 5 Einheiten des Elixiers. Das **Lebenselixier** gibt einen Bonus beim Heilen, das **magische Wasser** stärkt einen bei einer langen Reise durch die Wüste.
 

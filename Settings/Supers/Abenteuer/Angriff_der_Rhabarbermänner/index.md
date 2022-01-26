@@ -22,4 +22,4 @@ Zunächst versuchte er, Orange Citys großen Superhelden das Grüne Gespenst unt
 {% include downboxrow.md title="Angriff der Rhabarbermänner" image="/thumbnails/supers-rhabarbermänner.png" body="PDF A5<br/>Version: 2017.07.02" link="/Downloads/Abenteuer/lite-supers-rhabarbermaenner_2017-07-02.pdf" %}
 
 ***
-<strong>Autor:</strong> Onno Tasler
+**Autor:** Onno Tasler

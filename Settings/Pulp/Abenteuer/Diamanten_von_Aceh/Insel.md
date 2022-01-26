@@ -26,5 +26,5 @@ Eines der Lager scheint verlassen zu sein. Überall liegen tote Nazisoldaten mit
 
 
 ***
-- <strong>Zurück:</strong> [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise)
-- <strong>Weiter:</strong> [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)
+- **Zurück:** [Reise]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Reise)
+- **Weiter:** [Im Vulkan]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Im_Vulkan)

@@ -24,8 +24,8 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Schwarzpulver (100 g)</td><td>800</td></tr>
 </tbody>
 </table>
-- <strong>Dynamit</strong> verursacht pro Stange 1W6 Schaden in der unmittelbaren Umgebung.
-- <strong>Schwarzpulver</strong> verursacht pro Stange 1W4 Schaden in der unmittelbaren Umgebung.
+- **Dynamit** verursacht pro Stange 1W6 Schaden in der unmittelbaren Umgebung.
+- **Schwarzpulver** verursacht pro Stange 1W4 Schaden in der unmittelbaren Umgebung.
 
 ## Diverses
 
@@ -41,8 +41,8 @@ Die allgemeine Währungseinheit ist der Dollar.
 <tr><td>Wundertinktur</td><td>200</td></tr>
 </tbody>
 </table>
-- Das <strong>Wildnisset</strong> besteht aus: Schlafsack, Laterne, Seil und Taschenmesser.
-- Die <strong>Wundertinktur</strong> heilt Knochenbrüche, Schussverletzungen, etc.
+- Das **Wildnisset** besteht aus: Schlafsack, Laterne, Seil und Taschenmesser.
+- Die **Wundertinktur** heilt Knochenbrüche, Schussverletzungen, etc.
 
 ## Transportmittel
 

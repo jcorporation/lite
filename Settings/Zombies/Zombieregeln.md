@@ -27,6 +27,8 @@ Zombies sind, je nach ihrem Körperzustand, unterschiedlich gefährlich, aber we
 <div class="card mb-3">
     <div class="card-header bg-green text-light">Konfliktbeispiel</div>
     <div class="card-body">
-        <p>Ist ein Charakter in einen Konflikt mit 3 schwache Zombies und 2 mittlere Zombies verwickelt, würfelt der Spielleiter mit insgesamt 5W10. Er muss vorher festlegen, welche Würfel für die schwachen und welche für die mittleren Zombies sind, am besten durch unterschiedliche Farben. Bei den Würfeln für die schwachen Zombies ist jeder Würfel, der eine 1 zeigt ein Erfolg. Bei den Würfeln für die mittleren Zombies ist jeder Würfel, der eine 1 oder 2 zeigt ein Erfolg.</p>
+        
+Ist ein Charakter in einen Konflikt mit 3 schwache Zombies und 2 mittlere Zombies verwickelt, würfelt der Spielleiter mit insgesamt 5W10. Er muss vorher festlegen, welche Würfel für die schwachen und welche für die mittleren Zombies sind, am besten durch unterschiedliche Farben. Bei den Würfeln für die schwachen Zombies ist jeder Würfel, der eine 1 zeigt ein Erfolg. Bei den Würfeln für die mittleren Zombies ist jeder Würfel, der eine 1 oder 2 zeigt ein Erfolg.
+
     </div>
 </div>

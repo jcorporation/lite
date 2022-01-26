@@ -6,7 +6,7 @@ title: Schatten über Innsmouth
 
 # Schatten über Innsmouth
 
-&bdquo;Schatten über Innsmouth, Texas&ldquo; basiert auf der Lovecraft-Geschichte &bdquo;Schatten über Innsmouth&ldquo;. Die Handlung wurde von Neuengland der 20er nach Texas in die 80er verlagert. Das heißt, wir haben &bdquo;Redneck-Cthulhu&ldquo; mit großen Pickups, Schrotflinten, Südstaaten-Flaggen und Bier-Sixpacks.
+„Schatten über Innsmouth, Texas“ basiert auf der Lovecraft-Geschichte „Schatten über Innsmouth“. Die Handlung wurde von Neuengland der 20er nach Texas in die 80er verlagert. Das heißt, wir haben „Redneck-Cthulhu“ mit großen Pickups, Schrotflinten, Südstaaten-Flaggen und Bier-Sixpacks.
 
 ## Inhalt
 
@@ -28,9 +28,13 @@ title: Schatten über Innsmouth
             <div class="card-header">80ies: Schatten über Innsmouth</div>
             <div class="card-body">
                 <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/80ies-innsmouth.png" width="100" height="140">
-                <p>PDF A5<br/>
-                Version: 2015.02.15</p>
-                <p>&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a></p>
+                
+PDF A5<br/>
+                Version: 2015.02.15
+
+                
+&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a>
+
             </div>
         </div>
     </div>

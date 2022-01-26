@@ -15,7 +15,9 @@ Wenn du ein Abenteuer vorbereitest, frage dich immer, ob es zu den Spielercharak
 Spielleitercharaktere sind eines der wichtigsten Mittel des Spielleiters um den Verlauf des Abenteuers zu beeinflussen. Also präge dir die wichtigsten ein oder mache dir kurze Notizen, vor allem zu ihrem Aussehen und ihren Eigenheiten und Verhaltensweisen. So kannst du im Spiel mit ihnen agieren und auf die Aktionen der Spielercharaktere konsistent und logisch reagieren, damit sie für die Spieler glaubhaft und berechenbar werden. Abenteuer für Lite bringen immer ein Konflikt- oder Beziehungsnetz mit, um dies zu visualisieren. Falls du ein Abenteuer vorbereitest, das keins mitbringt, kannst du es selber erstellen. Im Kapitel [Abenteuer erstellen]({{ site.baseurl }}/Spielregeln/Abenteuer_erstellen/) steht, wie das funktioniert und wie man solche Netze benutzt.
 
 {% capture hinweis_body %}
-<p>Um Spielleitercharaktere glaubhaft darstellen zu können und sie unterscheidbar zu machen, ist es sinnvoll, den wichtigen Charakteren typische Klischees und auffällige Merkmale zu verpassen.</p>
+
+Um Spielleitercharaktere glaubhaft darstellen zu können und sie unterscheidbar zu machen, ist es sinnvoll, den wichtigen Charakteren typische Klischees und auffällige Merkmale zu verpassen.
+
 {% endcapture %}
 {% include hinweis.md title="Darstellung von Spielleitercharakteren" body=hinweis_body %}
 

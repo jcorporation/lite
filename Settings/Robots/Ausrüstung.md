@@ -72,9 +72,9 @@ Roboter können sie sich mit beliebig vielen Ersatzteilen selber aufrüsten. Ihr
 </tbody>
 </table>
 
-Der <strong>zusätzliche Akku</strong> lässt den Roboter insgesamt 2 Wochen ohne aufladen mobil sein.
+Der **zusätzliche Akku** lässt den Roboter insgesamt 2 Wochen ohne aufladen mobil sein.
 
-Das <strong>Tarnmuster</strong> passt sich automatisch der Umgebung an und gibt daher P+2 auf verstecken oder schleichen.
+Das **Tarnmuster** passt sich automatisch der Umgebung an und gibt daher P+2 auf verstecken oder schleichen.
 
 ## Emotionseinheiten
 

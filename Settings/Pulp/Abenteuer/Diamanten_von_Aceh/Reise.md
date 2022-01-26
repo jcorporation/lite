@@ -14,5 +14,5 @@ Die Nazis haben in Somalia einen kleinen Stützpunkt und machen sich von dort au
 
 
 ***
-- <strong>Zurück:</strong> [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)
-- <strong>Weiter:</strong> [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel)
+- **Zurück:** [Nachforschungen]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Nachforschungen)
+- **Weiter:** [Insel]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Insel)

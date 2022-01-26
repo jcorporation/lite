@@ -31,5 +31,5 @@ Falls die Gruppe sämtliche andere Spuren verloren hat, erfahren sie über Medie
 - Pflanzen greifen Menschen und Tiere an
 
 ***
-- <strong>Zurück:</strong> [Böses Gemüse]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Böses_Gemüse)
-- <strong>Weiter:</strong> [Das Geheimlabor]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Das_Geheimlabor)
+- **Zurück:** [Böses Gemüse]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Böses_Gemüse)
+- **Weiter:** [Das Geheimlabor]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Das_Geheimlabor)

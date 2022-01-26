@@ -13,9 +13,9 @@ Die Kirche ist in diesem Abenteuer der lovecraftigste Ort, mit allem, was dazuge
 - Schatten, die sich genau außerhalb des Lichtkegels der Taschenlampe bewegen.
 - Charaktere, die plötzlich ihre Position zueinander verändern. Wer eben noch rechts hinter einem stand, taucht plötzlich links vorne auf. (subtil dosieren! Nur in Situationen verwenden, wenn es prinzipiell möglich wäre, dass sich die Charaktere unbemerkt voneinander entfernt hätten; nicht, wenn sie händchenhaltend durch die Kirche spazieren)
 
-<em>Der Dorfplatz ist eine staubige, gepflasterte Fläche, über der eine brütende Hitze und ein ebenso brütender Fischgestank lastet. Am Rande stehen einige verkrüppelte, vertrocknete Bäume, ansonsten ist kein Lebewesen zu sehen.</em>
+*Der Dorfplatz ist eine staubige, gepflasterte Fläche, über der eine brütende Hitze und ein ebenso brütender Fischgestank lastet. Am Rande stehen einige verkrüppelte, vertrocknete Bäume, ansonsten ist kein Lebewesen zu sehen.*
 
-<em>Am Ende des Dorfplatzes steht, durch einige Stufen über den Rest des Platzes erhoben, eine gewaltige Lehmkathedrale, deren wuchtiger Turm in den strahlend blauen Himmel ragt.</em>
+*Am Ende des Dorfplatzes steht, durch einige Stufen über den Rest des Platzes erhoben, eine gewaltige Lehmkathedrale, deren wuchtiger Turm in den strahlend blauen Himmel ragt.*
 
 Den Platz zu überqueren kommt den Charaktere verhältnismäßig lange vor. Die Kirche scheint kaum näherzukommen, bis man plötzlich direkt vor ihr steht.
 
@@ -69,7 +69,7 @@ Was man noch alles finden kann:
 - kleine Heiligenfigürchen
 - ein kleiner Tresor, aufgebrochen, leer
 
-Der Keller stinkt ekelerregend nach Moder und Fäulnis. Hier unten ist es stockdunkel. Der Boden ist übersät mit Staub, abgenagte Knochen von kleinen Tieren (hauptsächlich Ratten und Katzen), vermoderten Kleiderbündeln und zertrümmertem Mobiliar. Die Winkel wirken &bdquo;falsch&ldquo;, und am Rande des Lichtkegels von Taschenlampen huschen quiekende Ratten.
+Der Keller stinkt ekelerregend nach Moder und Fäulnis. Hier unten ist es stockdunkel. Der Boden ist übersät mit Staub, abgenagte Knochen von kleinen Tieren (hauptsächlich Ratten und Katzen), vermoderten Kleiderbündeln und zertrümmertem Mobiliar. Die Winkel wirken „falsch“, und am Rande des Lichtkegels von Taschenlampen huschen quiekende Ratten.
 
 Die Holztreppe, die zum Turm hinaufführte, ist zum Großteil eingestürzt. Mit einem waghalsigen Klettermanöver (Stuntman mit 4 Erfolgen, aber hier abzustürzen tut weh!) ist es dennoch möglich, hinaufzuklettern. Oben gibt es außer Glocken nur eine herrliche Aussicht. Der Hafen und eventuell dort stattfindende Aktivitäten sind von hier aus sehr gut zu beobachten, ebenso die Vorgänge vor der Küste. Es nisten keine Vögel im Turm.
 

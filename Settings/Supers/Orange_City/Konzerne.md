@@ -15,7 +15,9 @@ Applied Chemicals ist ein großer Chemiekonzern, der auch in der Genforschung se
 Dieses große Industrieunternehmen stellt vor allem schwere Baugeräte, wie Kräne, Bagger oder Raupen her und exportiert diese in die ganze Welt, es gibt kaum eine Großbaustelle ohne Geräte von Global Industries. Neuerdings hat es aber auch einen Großauftrag für riesige Sonnenschirme.
 
 {% capture include_body %}
-<p>Ein Superschurke könnte die schweren Geräte mit einer bösartigen KI beleben und unter seiner Kontrolle bringen um mit ihnen die Stadt zu bedrohen.</p>
+
+Ein Superschurke könnte die schweren Geräte mit einer bösartigen KI beleben und unter seiner Kontrolle bringen um mit ihnen die Stadt zu bedrohen.
+
 {% endcapture %}
 {% include beispiel.md title="Superschurkenplan" body=include_body %}
 
@@ -28,7 +30,9 @@ Dieser Konzern ist der führende Hersteller von Industrierobotern, er ist aber a
 Orange City Applied Technologies ist ein gigantischer Elektronikkonzern. Neben einem prachtvollen Bürogebäude in der Innenstadt, besitzt OCAT auch ein weitläufiges Firmengelände im Industriegebiet. Hier forscht der Konzern vor allem an hochmodernen Mensch-Maschinen-Interfaces. Vordergründig im zivilen Bereich, aber im geheimen auch für das amerikanische Militär.
 
 {% capture include_body %}
-<p>Ein Superschurke könnte die Mensch-Maschinen-Interfaces nutzen um die Bevölkerung von Orange City heimlich zu kontrollieren.</p>
+
+Ein Superschurke könnte die Mensch-Maschinen-Interfaces nutzen um die Bevölkerung von Orange City heimlich zu kontrollieren.
+
 {% endcapture %}
 {% include beispiel.md title="Superschurkenplan" body=include_body %}
 
@@ -41,7 +45,9 @@ Die Orange Bank ist eine der größten Investment-Banken und die größte Bank i
 Orange Daily ist ein großer Medienkonzern, der nicht nur die gleichnamige Zeitung herausbringt. Er besitzt auch das Kabel- und Telefonnetz der Stadt und diverse Radio- und Fernsehsender. Mit seinem Marktanteil von 70% ist er quasi Monopolist in Orange City und Umgebung.
 
 {% capture include_body %}
-<p>Adam Anton Anderson ist der Chefredakteur der örtlichen Tageszeitung. Er ist stets im korrekten Anzug gekleidet und vom ersten Blick an ein durch und durch unsympathischer Mensch, dazu ist er noch ein Choleriker. Er kann Superhelden nicht ausstehen, besonders nicht, wenn sie in seiner Stadt leben. Für Enthüllungsfotos und -stories gibt er auch mal etwas mehr aus, ist aber sonst ein geiziger Mensch, der seine freien Reporter nur schlecht bezahlt. Er ist in der ganzen Redaktion unbeliebt, kann sich aber durch gute Beziehungen zu seinen Investoren an der Verlagsspitze halten.</p>
+
+Adam Anton Anderson ist der Chefredakteur der örtlichen Tageszeitung. Er ist stets im korrekten Anzug gekleidet und vom ersten Blick an ein durch und durch unsympathischer Mensch, dazu ist er noch ein Choleriker. Er kann Superhelden nicht ausstehen, besonders nicht, wenn sie in seiner Stadt leben. Für Enthüllungsfotos und -stories gibt er auch mal etwas mehr aus, ist aber sonst ein geiziger Mensch, der seine freien Reporter nur schlecht bezahlt. Er ist in der ganzen Redaktion unbeliebt, kann sich aber durch gute Beziehungen zu seinen Investoren an der Verlagsspitze halten.
+
 {% endcapture %}
 {% include hinweis.md title="A. A. Anderson" body=include_body %}
 
@@ -54,7 +60,9 @@ Orange Grid ist der Betreiber des Atomkraftwerks und auch im Besitz des Stromnet
 Orbital Labs ist ein Weltraumkonzern, der sich auf Experimente im erdnahen Orbit spezialisiert hat. Dafür betreibt er eine eigene kleine bemannte Raumstation dessen Kontrollzentrum ein paar Meilen außerhalb von Orange City sitzt. Von hier aus werden auch kleine Raketenstarts durchgeführt. Finanziert wird Orbital Labs von einem undurchsichtigen Konglomerat aus Regierungsbehörden und internationalen Konzernen.
 
 {% capture include_body %}
-<p>Ein Superschurke könnte die Kontrollstation übernehmen und mit gigantischen Lasern auf Satelliten die Stadt bedrohen.</p>
+
+Ein Superschurke könnte die Kontrollstation übernehmen und mit gigantischen Lasern auf Satelliten die Stadt bedrohen.
+
 {% endcapture %}
 {% include beispiel.md title="Superschurkenplan" body=include_body %}
 

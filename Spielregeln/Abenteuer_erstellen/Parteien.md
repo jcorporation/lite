@@ -16,9 +16,9 @@ Ein Beziehungs- und Konfliktnetz visualisiert die Beziehungen der einzelnen Char
 
 Charaktere, die miteinander in Beziehung stehen, werden mit Linien verbunden. Die Beziehungsart der beiden Charaktere wird mit jeweils einem Symbol an den Enden der Linie notiert. Das dem Charakter zugeordnete Symbol steht dafür, wie er zum anderen Charakter steht. Man kann natürlich auch noch ein oder zwei Stichwörter auf der Linie platzieren, um mehr Informationen unterzubekommen.
 
-- <strong>Dreieck:</strong> Verfeindet
-- <strong>Kreis:</strong> Befreundet
-- <strong>Quadrat:</strong> Verpflichtung
+- **Dreieck:** Verfeindet
+- **Kreis:** Befreundet
+- **Quadrat:** Verpflichtung
 
 Am besten beginnt man mit den wichtigsten Charakteren und fügt nach und nach die unwichtigeren Charaktere hinzu. Jeder Charakter, der die Speerspitze einer Partei darstellt, sollten zwei Helfer zur Seite stehen, die verschiedene Facetten dieser Seite verkörpern. Helfer können eine extremere Einstellung besitzen oder auch von der Haltung des Anführers abweichen.
 

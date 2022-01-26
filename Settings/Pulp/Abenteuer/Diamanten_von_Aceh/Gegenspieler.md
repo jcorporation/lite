@@ -52,4 +52,4 @@ Die Nazi Soldaten sind pflichtbewusst und dumm und auf der Seite des Bösen&trad
 </table>
 
 ***
-- <strong>Weiter:</strong> [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)
+- **Weiter:** [Zeitstrahl]({{ site.baseurl }}/Settings/Pulp/Abenteuer/Diamanten_von_Aceh/Zeitstrahl)

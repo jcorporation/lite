@@ -28,4 +28,4 @@ Insgesamt befinden sich doppelt so viele Rhabarbermänner im Laden wie Spielerch
 </table>
 
 ***
-- <strong>Weiter:</strong> [Verfolgungsjagd, das UFO, Turbulenzen]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Verfolgungsjagd)
+- **Weiter:** [Verfolgungsjagd, das UFO, Turbulenzen]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Verfolgungsjagd)

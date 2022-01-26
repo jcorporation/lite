@@ -15,12 +15,18 @@ Vor dem Spiel müssen die gewünschten Magieeffekte in Kategorien aufgeteilt wer
 - Umso grober und umfassender die Kategorien gewählt werden, umso mächtiger ist die Magie im Setting.
 
 {% capture include_body %}
-<p><strong>Bewegung</strong> (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)</p>
-<p><strong>Elemente</strong> (Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)</p>
+
+**Bewegung** (Bewegen von belebten und leblosen Gegenständen, der Gegenstand muss im Blickfeld des Wirkenden sein)
+
+
+**Elemente** (Beeinflussung der vier Elemente Feuer, Wasser, Luft und Erde, z.B. Feuerbälle werfen)
+
 {% endcapture %}
 {% include beispiel.md title="Beispielmagiekategorien" body=include_body %}
 
 {% capture include_body %}
-<p>Bei Lite wird das Wirken von Magie nicht durch Regeln wie Manapunkte oder Ähnlichem beschränkt. Was möglich ist, gibt das Setting vor, an dem sich Spieler und Spielleiter orientieren sollten. Welchen Einfluss ein Zauberspruch hat, wird bei einem einfachen Konflikt durch die Schwierigkeit festgelegt. Bei einer Konfliktszene ergibt sich der Einfluss allein durch die Beschreibung aller Beteiligten. Das aber ein Anfängercharakter nicht gerade einen Berg versetzten kann, sollte jedem klar sein.</p>
+
+Bei Lite wird das Wirken von Magie nicht durch Regeln wie Manapunkte oder Ähnlichem beschränkt. Was möglich ist, gibt das Setting vor, an dem sich Spieler und Spielleiter orientieren sollten. Welchen Einfluss ein Zauberspruch hat, wird bei einem einfachen Konflikt durch die Schwierigkeit festgelegt. Bei einer Konfliktszene ergibt sich der Einfluss allein durch die Beschreibung aller Beteiligten. Das aber ein Anfängercharakter nicht gerade einen Berg versetzten kann, sollte jedem klar sein.
+
 {% endcapture %}
 {% include hinweis.md title="Magiewirkung beschränken" body=include_body %}

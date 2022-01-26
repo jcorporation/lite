@@ -9,7 +9,8 @@ title: Ausrüstung
 Ausrüstung spielt bei Lite nur eine untergeordnete Rolle, daher benötigt es keine umfangreichen Ausrüstungslisten. Bei der Charaktererschaffung und auch im Spiel kann jeder Spieler selber Ausrüstungsgegenstände erschaffen und ihnen Boni zuweisen. Es ist aber trotzdem sinnvoll eine kurze Basisausrüstungsliste zu generieren, damit nicht jeder Spieler das Rad neu erfinden muss.
 
 {% capture include_body %}
-<p>Es sollte für jedes Profil passende Ausrüstungsgegenstände erschaffen werden, damit Techniker praktische Werkzeuge, Zauberer geheimnisvolle Zauberstäbe und Kämpfer mächtige Waffen kaufen können.</p>
+Es sollte für jedes Profil passende Ausrüstungsgegenstände erschaffen werden, damit Techniker praktische Werkzeuge, Zauberer geheimnisvolle Zauberstäbe und Kämpfer mächtige Waffen kaufen können.
+
 {% endcapture %}
 {% include hinweis.md title="Aufteilung" body=include_body %}
 
@@ -43,16 +44,21 @@ Sollen die Charaktere so etwas beim Start des Abenteuers besitzen, können folge
 6. Wenn während des Spiels solch ein Gegenstand gekauft werden soll, muss auch noch der Basispreis des Gegenstands und des Zubehörs festgelegt werden.
 
 {% capture include_body %}
-<p><strong>Grundwerte</strong><br/>
+**Grundwerte**<br/>
 Pionierbonus: 1<br/>
 Forscherbonus: 1<br/>
-Zähigkeit: 6</p>
-<p><strong>Zubehör</strong><br/>
-Bordkanone: P+1, E 1</p>
-<strong>Summe Kosten: 10</strong>
-<p><strong>Basispreise</strong><br/>
+Zähigkeit: 6
+
+**Zubehör**<br/>
+Bordkanone: P+1, E 1
+
+**Summe Kosten: 10**
+
+**Basispreise**<br/>
 Flugzeug: 2.000 WE<br/>
-Bordkanone: 400 WE</p>
-<p>Im Abenteuer würde das Flugzeug also (16.000 + 800) 16.800 WE kosten.</p>
+Bordkanone: 400 WE
+
+Im Abenteuer würde das Flugzeug also (16.000 + 800) 16.800 WE kosten.
+
 {% endcapture %}
 {% include beispiel.md title="Flugzeug" body=include_body %}

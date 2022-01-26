@@ -22,7 +22,7 @@ Jeder Spieler kann seinen Charakter innerhalb einer Szene frei handeln lassen, d
 Der Spielleiter kann dasselbe natürlich für seine Spielleitercharaktere machen und Ereignisse in der Szene in Gang bringen.
 
 {% capture include_body %}
-Sage &bdquo;Ja&ldquo; zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter, wenn du &bdquo;Nein&ldquo; sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch &bdquo;Ja, aber &hellip;&ldquo; sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.
+Sage „Ja“ zu den Ideen und Aktionen deiner Mitspieler und baue darauf auf. Dadurch entwickelt sich die Geschichte im Abenteuer weiter, wenn du „Nein“ sagst, gerät sie ins Stocken. Als Spielleiter kannst du auch „Ja, aber &hellip;“ sagen, um die Szene spannender zu gestalten oder etwas Hintergrund des Abenteuers einzubauen.
 {% endcapture %}
 {% include hinweis.md title="Sag Ja" body=include_body %}
 
@@ -52,7 +52,7 @@ James wird von seiner Neugierde übermannt und der Diskutiererei überdrüssig. 
 
 Wenn die Charaktere Ausrüstung benötigen, muss diese ganz normal gekauft werden. Normalerweise reicht es aber, den Einkauf in ein, zwei Sätzen abzuhandeln. Lediglich, wenn alle Beteiligten ihn ausspielen wollen und der Einkauf plotwichtigen Materials dient, sollte er eine eigene Szene erhalten. Die Spieler dürfen die Ausrüstungsliste jederzeit ergänzen, also auch mitten im Abenteuer. Das schließt Profilbonus, Zähigkeit und Effektivität des Gegenstands ein. Der Spielleiter entscheidet allerdings, ob der Gegenstand verfügbar ist und wie viel er kostet.
 
-- <strong>Kosten:</strong> Basiskosten &times; (1 + Summe der Boni) &times; Effektivität
+- **Kosten:** Basiskosten &times; (1 + Summe der Boni) &times; Effektivität
 
 {% capture include_body %}
 Kleinigkeiten müssen bei Lite nicht bezahlt werden, also weder das Bier an der Eckkneipe noch der Reiseproviant.

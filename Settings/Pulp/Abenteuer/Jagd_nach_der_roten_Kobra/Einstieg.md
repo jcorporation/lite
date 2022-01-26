@@ -11,7 +11,9 @@ Die Charaktere wurden von Lord Moore, einem englischen Trophäensammler, nach In
 Das Abenteuer startet im Basiscamp am nordwestlichen Rand der Mangrovenwälder in Indien.
 
 {% capture include_body %}
-<p>Lord Gilbert Moore ist ein alter, britischer Gentleman, der seinen Lebensabend mit Reisen und dem Sammeln besonderer Trophäen verbringt. Für seine Sammlung fördert er bereits seit vielen Jahren vielversprechende Großwildjäger, deren Trophäen er in seinem Landgut ausstellt. Lord Moore ist mit einigen hochrangigen Mitgliedern des Clubs der Entdecker befreundet, der ihm die Charaktere empfohlen hat.</p>
+
+Lord Gilbert Moore ist ein alter, britischer Gentleman, der seinen Lebensabend mit Reisen und dem Sammeln besonderer Trophäen verbringt. Für seine Sammlung fördert er bereits seit vielen Jahren vielversprechende Großwildjäger, deren Trophäen er in seinem Landgut ausstellt. Lord Moore ist mit einigen hochrangigen Mitgliedern des Clubs der Entdecker befreundet, der ihm die Charaktere empfohlen hat.
+
 {% endcapture %}
 {% include hinweis.md title="Lord Moore" body=include_body %}
 
@@ -20,7 +22,9 @@ Das Abenteuer startet im Basiscamp am nordwestlichen Rand der Mangrovenwälder i
 Die Charaktere befinden sich in einem kleinen Camp am nordwestlichen Rand der Mangrovenwälder, das sich in den letzten Wochen am Rand einer kleinen Siedlung gebildet hat und von überwiegend britischen und amerikanischen Jägern und Abenteurern sowie von ihnen angezogenen, indischen Händlern bevölkert wird. Die Ausrüstung der Charaktere wird gerade von einigen Indern auf ein großes Floss geladen, während Lord Moores Assistent Samuel Eliot einige letzte Informationen verteilt.
 
 {% capture include_body %}
-<p>Samuel Eliot ist ein junger, pflichtbewusster Mann, der seit kurzem als persönlicher Assistent in Lord Moores Dienst steht. Er kommt aus gutem Haus und hat eine umfassende, akademische Ausbildung genossen und beneidet ein wenig die Entdecker und Abenteurer, die ausziehen und Abenteuer erleben. Einerseits träumt er davon, selbst eines Tages Entdecker zu werden, andererseits hat er viel zu viel Angst dafür. Lord Moore schätzt ihn für seine Anpassungsfähigkeit und schnelle Auffassungsgabe, die ihn zu einem wertvollen Assistenten macht. Er trägt meistens farbenfrohe, hochwertige Kleidung, die seinen guten Geschmack zur Schau stellt, ohne aufdringlich oder unpassend zu wirken.</p>
+
+Samuel Eliot ist ein junger, pflichtbewusster Mann, der seit kurzem als persönlicher Assistent in Lord Moores Dienst steht. Er kommt aus gutem Haus und hat eine umfassende, akademische Ausbildung genossen und beneidet ein wenig die Entdecker und Abenteurer, die ausziehen und Abenteuer erleben. Einerseits träumt er davon, selbst eines Tages Entdecker zu werden, andererseits hat er viel zu viel Angst dafür. Lord Moore schätzt ihn für seine Anpassungsfähigkeit und schnelle Auffassungsgabe, die ihn zu einem wertvollen Assistenten macht. Er trägt meistens farbenfrohe, hochwertige Kleidung, die seinen guten Geschmack zur Schau stellt, ohne aufdringlich oder unpassend zu wirken.
+
 {% endcapture %}
 {% include hinweis.md title="Assistent Lord Moores: Samuel Eliot" body=include_body %}
 

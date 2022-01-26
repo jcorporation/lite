@@ -19,15 +19,15 @@ Klischees sind etwas Wunderbares, jeder kennt sie und man hat schnell ein Bild v
 
 Folgende Fragen können helfen, um die wichtigsten Fakten des Charakterhintergrunds festzulegen:
 
-1. <strong>Äußerlichkeiten</strong><br/>
+1. **Äußerlichkeiten**<br/>
     Wie sieht der Charakter aus und wie kleidet er sich?<br/>
     Wie alt ist er und wo ist er geboren?<br/>
     Welche Details verleihen ihm eine individuelle Note?
-2. <strong>Verhalten</strong><br/>
+2. **Verhalten**<br/>
     Wie steht er zur Gruppe?<br/>
     Wie verhält sich der Charakter gegenüber Fremden?<br/>
     Wie ist sein sozialer Status?
-3. <strong>Geschichte</strong><br/>
+3. **Geschichte**<br/>
     Was tat er, bevor er sich der Gruppe anschloss?<br/>
     Hat er einen Beruf erlernt?<br/>
     Was motiviert ihn?
@@ -53,7 +53,8 @@ Gute Merkmale müssen nicht unbedingt positiv für den Charakter sein. Viel mehr
 {% include hinweis.md title="Gute Merkmale" body=include_body %}
 
 {% capture include_body %}
-Willi gibt James Montgomery folgende zwei Merkmale:</p>
+Willi gibt James Montgomery folgende zwei Merkmale:
+
 
 1. Ab und an etwas zu neugierig
 2. Kann kein Blut sehen

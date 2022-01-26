@@ -10,7 +10,7 @@ Die Dinosaurier waren nie wirklich ausgestorben. Überall auf der Welt schlüpft
 
 ## Die gefährlichsten Dinosaurier
 
-- Der <strong>Archäopteryx</strong> ist der größte fliegende Saurier. Er kann auch Flugzeugen gefährlich werden.
-- Der <strong>Brontosaurus</strong> ist der mit Abstand größte und schwerste Dinosaurier. Glücklicherweise ernährt er sich ausschließlich von Pflanzen und lässt sich nur schwer aus der Ruhe bringen.
-- Der <strong>Triceratops</strong> hat, wie der Name andeutet, drei panzerbrechende Hörner. Die schweren Panzerplatten an seinem Kopf schützen ihn vor Feinden und gängigen Anti-Personen-Waffen.
-- Der gefährlichste und aggressivste aller Dinosaurier ist der fleischfressende <strong>Tyrannosaurus Rex</strong>.
+- Der **Archäopteryx** ist der größte fliegende Saurier. Er kann auch Flugzeugen gefährlich werden.
+- Der **Brontosaurus** ist der mit Abstand größte und schwerste Dinosaurier. Glücklicherweise ernährt er sich ausschließlich von Pflanzen und lässt sich nur schwer aus der Ruhe bringen.
+- Der **Triceratops** hat, wie der Name andeutet, drei panzerbrechende Hörner. Die schweren Panzerplatten an seinem Kopf schützen ihn vor Feinden und gängigen Anti-Personen-Waffen.
+- Der gefährlichste und aggressivste aller Dinosaurier ist der fleischfressende **Tyrannosaurus Rex**.
