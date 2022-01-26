@@ -23,7 +23,7 @@ Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. 
 - 2, 2, 4, 4
 - 3, 3, 3, 3
 {% endcapture %}
-{% capture include_col1 %}
+{% capture include_col2 %}
 **Magiebegabt**
 
 - 1, 2, 4, 4
