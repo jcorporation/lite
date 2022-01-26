@@ -1,2 +1,5 @@
 name: Lite
 description: Ein einfaches und erzählerisches Rollenspiel
+
+sass:
+    sass_dir: assets/css
