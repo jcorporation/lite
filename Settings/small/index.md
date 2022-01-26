@@ -4,7 +4,7 @@ permalink: /Settings/small/index
 title: small
 ---
 
-<h1><img alt="intheshadows" src="{{ site.baseurl }}/assets/images/icons/small.png" />small</h1>
+{% include pictitle title=page.title image="/icons/small.png" %}
 
 small ist ein Setting für Lite im Stil von Serien und Jugendbücher wie die Littles, die Borger usw. Es geht also um ein kleines, humanoides Volk, das in unseren Wänden, alten Speichern und auch sonst überall unerkannt in der Stadt wohnt.
 
@@ -31,5 +31,5 @@ small ist ein Setting für Lite im Stil von Serien und Jugendbücher wie die Lit
 
 - [Vom Winde verweht]({{ site.baseurl }}/Settings/small/Abenteuer/Vom_Winde_verweht/)
 
-<hr/>
+***
 Autor: [Tarin](http://goblinbau.wordpress.com)
