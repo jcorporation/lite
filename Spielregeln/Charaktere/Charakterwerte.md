@@ -14,9 +14,7 @@ Umso höher der Profilwert ist, umso besser ist der Charakter in Fertigkeiten di
 
 Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. Jedem Profil muss mindestens 1 Punkt zugeordnet werden, kein Profil darf um mehr als 2 Punkte vom nächsthöheren oder nächstniedrigeren Profil abweichen.
 
-{% capture include_body %}
-<div class="row">
-    <div class="col">
+{% capture include_col1 %}
 **Normal**
 
 - 1, 2, 4, 5
@@ -24,18 +22,16 @@ Bei der Charaktererschaffung dürfen 12 Punkte auf die Profile verteilt werden. 
 - 2, 2, 3, 5
 - 2, 2, 4, 4
 - 3, 3, 3, 3
-    </div>
-    <div class="col">
+{% endcapture %}
+{% capture include_col1 %}
 **Magiebegabt**
 
 - 1, 2, 4, 4
 - 1, 3, 3, 4
 - 2, 2, 3, 4
 - 2, 3, 3, 3
-    </div>
-</div>
 {% endcapture %}
-{% include hinweis.md title="Mögliche Profilwerte" body=include_body %}
+{% include hinweis_cols.md title="Mögliche Profilwerte" col1=include_col1 col2=include_col2 %}
 
 ### Magiekategorien
 
