@@ -2,7 +2,7 @@
 layout: page
 permalink: /Settings/Supers/Abenteuer/Pflanzen_an_die_Macht/index
 title: Pflanzen an die Macht
-aside: index_aside
+aside: index_aside.md
 ---
 
 # Pflanzen an die Macht
