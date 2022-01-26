@@ -29,7 +29,7 @@ Die Charaktere bilden eine Superheldengruppe. Jeder Charakter besitzt eine [Supe
 
 ## Downloads
 
-{% include downboxrow title="Orange City" image="/thumbnails/orangecity.png" body="PDF A5
+{% include downboxrow title="Orange City" image="/thumbnails/supers-orangecity.png" body="PDF A5
 Version: 2017.06.13" link="/Downloads/Settings/lite-supers-orangecity_2017-06-13.pdf" %}
 
 ## Abenteuer
