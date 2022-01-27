@@ -4,7 +4,7 @@ permalink: /Spielregeln/Abenteuer_erstellen/index
 title: Abenteuer erstellen
 ---
 
-<h1><img alt="Erstellen" src="{{ site.baseurl }}/assets/images/icons/erstellen.png" />Abenteuer erstellen</h1>
+{% include pictitle.md title=page.title image="/icons/erstellen.png" %}
 
 In diesem Kapitel geht es darum, wie man als Spielleiter am besten ein Abenteuer für Lite erstellt und es niederschreibt. Wichtig dabei ist, dass man die Ergebnisse von Szenen offen lässt und mehrere Richtungen berücksichtigt, die das Abenteuer durch die Spielerideen und den Ausgang von Szenen nehmen kann. Natürlich wirst du beim Schreiben des Abenteuers nie alle Optionen berücksichtigen können, daher ist es wichtig eine Basis aufzubauen, auf der du im Spiel improvisieren kannst, und keine komplette Geschichte zu schreiben.
 
