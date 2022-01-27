@@ -1,5 +1,6 @@
 "use strict";
 
+// clickable event handler
 const clickBoxes = document.getElementsByClassName('clickable');
 for (const box of clickBoxes) {
     const link = box.getElementsByTagName('a')[0];
@@ -8,4 +9,14 @@ for (const box of clickBoxes) {
             link.click();
         }, false);
     }
+}
+
+// horizontal scrollable tables
+const tables = document.getElementsByTagName('table');
+for (const table of tables) {
+    const div = document.createElement('div');
+    div.classList.add('table-responsive');
+    table.classList.add('table');
+    table.insertNode(div, table);
+    div.appendChild(table);
 }
