@@ -6,7 +6,7 @@ title: Profile
 
 # Profile
 
-Bei Lite definieren vier Profile die Fähigkeiten der Charaktere. Mit diesen müssen während des Spiels alle Konflikte gelöst werden können. Natürlich erfordert die beschränkte Anzahl an Werten immer etwas Improvisation. Daher sollten diese vier Profile recht allgemein gehalten werden, damit möglichst viele typische Handlungen der Charaktere abgebildet werden können. Profile sind oft eine Mischung aus Attributen und Fertigkeiten. Gleichzeitig können sie auch an den im Setting vorkommenden Archetypen orientieren.
+Bei Lite definieren vier Profile die Fähigkeiten der Charaktere. Mit diesen müssen während des Spiels alle Konflikte gelöst werden können. Natürlich erfordert die beschränkte Anzahl an Werten immer etwas Improvisation. Daher sollten diese vier Profile recht allgemein gehalten werden, damit möglichst viele typische Handlungen der Charaktere abgebildet werden können. Profile sind oft eine Mischung aus Attributen und Fertigkeiten. Gleichzeitig können sie sich auch an den im Setting vorkommenden Archetypen orientieren.
 
 Die 4 Profile sollten folgenden Bereiche abdecken:
 
