@@ -15,7 +15,7 @@ for (const box of clickBoxes) {
 const tables = document.getElementsByTagName('table');
 for (const table of tables) {
     const div = document.createElement('div');
-    div.classList.add('table-responsive');
+    div.classList.add('table-responsive', 'mb-3');
     table.parentNode.insertBefore(div, table);
     div.appendChild(table);
 }
