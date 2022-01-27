@@ -18,15 +18,9 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) üb
             <div class="card-header">Lite Grundregelwerk v2</div>
             <div class="card-body">
                 <img class="border border-white float-start me-4" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
-                
-Das Lite Grundregelwerk enthält alles was man zum Spielen benötigt. Neben den eigentlichen Regeln sind auch zehn Settings enthalten.
-
-                
-DIN A5 Hardcover, 80 farbige Seiten
-
-                
-Preis: 10,- EUR
-
+                <p>Das Lite Grundregelwerk enthält alles was man zum Spielen benötigt. Neben den eigentlichen Regeln sind auch zehn Settings enthalten.</p>
+                <p>DIN A5 Hardcover, 80 farbige Seiten</p>
+                <p>Preis: 10,- EUR</p>
             </div>
         </div>
     </div>
