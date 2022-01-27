@@ -14,10 +14,6 @@ h1 {
   color: #0048a8;
 }
 
-h1 > img {
-  margin-right: 1rem;
-}
-
 div.card,
 ol,
 ul,
@@ -41,11 +37,6 @@ p {
   background-color: #0048a8;
 }
 
-.breadcrumb-item {
-  color: var(--bs-body-color);
-  text-decoration: none;
-}
-
 table {
   margin-bottom: 2rem;
 }
@@ -65,8 +56,4 @@ td {
 
 .card-body p:last-child {
   margin-bottom: 0;
-}
-
-.clickable {
-  cursor: pointer;
 }
