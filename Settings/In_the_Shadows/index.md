@@ -19,7 +19,7 @@ In dieser Welt des Jahres 2050 leben die Charaktere als SIN-lose, ausgestoßen o
 
 ## Download
 
-{% include downboxrow.md title="In the Shadows" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Fansettings/lite-intheshadows-2015-02-09.pdf" %}
+{% include downboxrow.md title="In the Shadows" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Fansettings/lite-intheshadows_2015-02-09.pdf" %}
 
 ***
 Autor: ManuFS

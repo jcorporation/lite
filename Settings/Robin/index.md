@@ -21,4 +21,4 @@ Die Charaktere sind nicht die Hauptdarsteller Robin Hood oder seine aus Literatu
 
 ## Download
 
-{% include downboxrow.md title="Robin" image="/thumbnails/robin.png" body="PDF A5<br/>Version: 2016.09.23" link="/Downloads/Settings/lite-robin_2016.09.23.pdf" %}
+{% include downboxrow.md title="Robin" image="/thumbnails/robin.png" body="PDF A5<br/>Version: 2016.09.23" link="/Downloads/Settings/lite-robin_2016-09-23.pdf" %}
