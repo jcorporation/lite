@@ -16,7 +16,6 @@ const tables = document.getElementsByTagName('table');
 for (const table of tables) {
     const div = document.createElement('div');
     div.classList.add('table-responsive');
-    table.classList.add('table');
-    table.insertBefore(div, table);
+    table.parentNode.insertBefore(div, table);
     div.appendChild(table);
 }
