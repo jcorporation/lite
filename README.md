@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/jcorporation/lite/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jcorporation/lite/actions/workflows/pages/pages-build-deployment)
+[![test](https://github.com/jcorporation/lite/actions/workflows/test.yml/badge.svg)](https://github.com/jcorporation/lite/actions/workflows/test.yml)
 
 # Lite
 
