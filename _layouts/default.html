@@ -35,7 +35,7 @@
     <div class="container-xxl py-2 flex-grow-1">
       {% if page.aside %}
         <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
-          <main class="col col-xl-8 overflow-auto">
+          <main class="col col-xl-8">
             {{ content }}
           </main>
           <aside class="col col-xl-4 pe-0">
@@ -43,7 +43,7 @@
           </aside>
         </div>
       {% else %}
-        <main class="overflow-auto">
+        <main>
             {{ content }}
         </main>
       {% endif %}
