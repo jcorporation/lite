@@ -19,10 +19,13 @@ Während niemand etwas böses ahnt, springen plötzlich mehrere Rhabarberstangen
 
 Insgesamt befinden sich doppelt so viele Rhabarbermänner im Laden wie Spielercharaktere. Es handelt sich um Handlanger, die das Ziel haben, möglichst viele der Statisten zu entführen.
 
-| Rhabarbermänner ||
-| ---------------- |
-| **Profil** | 2 + durchschnittliche Stufe der Gruppe |
-| **Bewaffnung** | Schwarmverstand, Laserkarabiner |
+<table>
+<caption>Rhabarbermänner</caption>
+<tbody>
+<tr><th>Profil</th><td>2 + durchschnittliche Stufe der Gruppe</td></tr>
+<tr><th>Bewaffnung</th><td>Schwarmverstand, Laserkarabiner</td></tr>
+</tbody>
+</table>
 
 ***
 - **Weiter:** [Verfolgungsjagd, das UFO, Turbulenzen]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/Verfolgungsjagd)
