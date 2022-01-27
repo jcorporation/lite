@@ -39,5 +39,8 @@ while (<$fh>) {
     while (/src="([^"]+)"/g) {
         checklink($1, $line);
     }
+    while (/image="([^"]+)"/g) {
+        checklink("{{ site.baseurl }}/assets/images".$1, $line);
+    }
 }
 close $fh;

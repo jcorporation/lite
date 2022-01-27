@@ -25,6 +25,9 @@ check_title() {
 for F in $(find ./ -name \*.md)
 do
     [ "$F" = "./README.md" ] && continue
+    [[ "$F" =~ ^./_includes.* ]] && continue
+    [[ "$F" =~ .*_aside.md$ ]] && continue
+
     # check links
     .scripts/check-links.pl "$F"
     # check permalink

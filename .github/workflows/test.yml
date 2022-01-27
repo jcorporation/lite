@@ -1,0 +1,23 @@
+name: test
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: check
+      run: ./scripts/checks.sh > out 2>&1
+    
+    - name: result
+      run: |
+        if [ -s out ]
+        then
+          cat out
+          exit 1
+        fi
