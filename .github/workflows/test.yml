@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: check
-      run: ./scripts/check.sh > out 2>&1
+      run: .scripts/check.sh > out 2>&1
     
     - name: result
       run: |
