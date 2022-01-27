@@ -6,7 +6,7 @@ title: Downloads
 
 # Downloads
 
-Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ site.baseurl }}/Lizenz)als kostenlose PDF. Falls du Bücher bevorzugst, kannst du sie [hier]({{ site.baseurl }}/Produkte/) auch direkt bei mir erwerben. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt) zu Lite.
+Hier findest du alle Lite Bücher (und mehr) unter einer [freien Lizenz ]({{ site.baseurl }}/Kontakt)als kostenlose PDF. Falls du Bücher bevorzugst, kannst du sie [hier]({{ site.baseurl }}/Produkte/) auch direkt bei mir erwerben. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt) zu Lite.
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 g-4">
     <div class="col">
