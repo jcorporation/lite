@@ -4,7 +4,7 @@ permalink: /Abenteuer/index
 title: Abenteuer
 ---
 
-<h1><img alt="Abenteuer" src="{{ site.baseurl }}/assets/images/icons/abenteuer.png" />Abenteuer</h1>
+{% include pictitle.md title=page.title image="/icons/abenteuer.png" %}
 
 Hier findet ihr alle Abenteuer die für eines der Lite-[Settings]({{ site.baseurl }}/Settings/) verfügbar sind.
 

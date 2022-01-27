@@ -12,8 +12,8 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 - [New Wyoming]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/New_Wyoming)
 - [Verkauf der Setzlinge]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Verkauf_der_Setzlinge)
-- [Interessengruppen]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Interessengruppen)
-- [Spielleitercharaktere]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Spielleitercharaktere)
+  - [Interessengruppen]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Interessengruppen)
+  - [Spielleitercharaktere]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/Spielleitercharaktere)
 - [Federal Space Exploration Company]({{ site.baseurl }}/Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/FedSpex) (FedSpex)
 
 ## Download

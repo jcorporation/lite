@@ -4,7 +4,7 @@ permalink: /Settings/Pulp/index
 title: Pulp
 ---
 
-<h1><img alt="Pulp" src="{{ site.baseurl }}/assets/images/icons/pulp.png"/>Pulp</h1>
+{% include pictitle.md title=page.title image="/icons/pulp.png" %}
 
 Wie der Name schon sagt, ist Pulp eine Lite-Adaption für pulpige Settings wie Hollow Earth Expedition, Indiana Jones oder Quatermain. Pulp-Settings spielen meist in den 1930-40ern auf der Erde, zu einer Zeit der Weltwirtschaftskrise und der Machtergreifung der Nazis in Deutschland. Daher sind die absolut bösen Nazis ein gern gesehener Gegenspieler der Protagonisten. Zu Pulp gehören aber auch Geheimgesellschaften wie die Thule-Gesellschaft oder die Illuminati. Zudem fließen oft mythische Elemente, wie die Hohlwelttheorie oder Atlantis, in das Setting ein. Vergessen darf man aber auch primitive Stämme und grausame Kulte nicht.
 

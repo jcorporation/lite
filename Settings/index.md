@@ -4,7 +4,7 @@ permalink: /Settings/index
 title: Settings
 ---
 
-<h1><img alt="Settings" src="{{ site.baseurl }}/assets/images/icons/settings.png"/>Settings</h1>
+{% include pictitle.md title=page.title image="/icons/settings.png" %}
 
 Die folgenden Settings passen Lite an ein bestimmtes Genre an, um dir Arbeit abzunehmen. Jede dieser Adaptionen enthält zumindest eine kurze Beschreibung, Profilnamen, Archetypen, eine exemplarische Ausrüstungsliste und Magiekategorien, falls das Setting Magie unterstützt.
 

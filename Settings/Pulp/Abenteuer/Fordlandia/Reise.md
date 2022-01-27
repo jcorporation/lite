@@ -14,4 +14,6 @@ Gerüchte von verfluchtem Fordlandia.
 
 Niemand will mit dem Schiff am Hafen von Fordlandia anlegen.
 
-<img alt="Karte" src="{{ site.baseurl }}/assets/images/karten/fordlandia.png"/>
+<div class="overflow-auto">
+<img alt="Reise" src="{{ site.baseurl }}/assets/images/karten/fordlandia.png"/>
+</div>

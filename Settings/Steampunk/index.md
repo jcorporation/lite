@@ -4,7 +4,7 @@ permalink: /Settings/Steampunk/index
 title: Steampunk
 ---
 
-<h1><img alt="Steampunk" src="{{ site.baseurl }}/assets/images/icons/steampunk.png"/>Steampunk</h1>
+{% include pictitle.md title=page.title image="/icons/steampunk.png" %}
 
 Dieses Setting adoptiert die Steampunk-Settings im viktorianischen Zeitalter für Lite. Es orientiert sich an Filmen wie die Wells Zeitmaschine, oder Vernes&rsquo; „20.000 Meilen unter dem Meer“ und „Reise um die Erde in 80 Tagen“. Eine idealisierte viktorianische Kultur und Mode prägt das Setting. Die Technik geht teilweise über das hinaus, was heute möglich ist, basiert aber auf Zahnrädern und Dampf. Elektrizität ist hingegen rar. Diese Technik lässt wagemutige Abenteurer in unbekannte Gegenden und auf fremde Planeten vordringen. Allgemein herrscht eine Aufbruchsstimmung.
 

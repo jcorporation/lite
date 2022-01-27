@@ -37,11 +37,17 @@ p {
   background-color: #0048a8;
 }
 
+caption {
+  white-space: nowrap;
+}
+
+caption,
 th {
   background-color: #3c80ef;
   color: white;
   padding: 0.3rem 0.5rem;
   border: 1px solid #ececec;
+  font-weight: normal;
 }
 
 td {
@@ -62,3 +68,6 @@ main ul {
   list-style-type: square;
 }
 
+.breadcrumb > span {
+  margin-top: -0.2rem;
+}

@@ -72,7 +72,7 @@ Bei der Charaktererschaffung erhält jeder Charakter 5 Gummipunkte. Diese werden
 {% capture include_body %}
 Da Gummipunkte ständig ausgegeben und regeneriert werden, zählt man sie am besten mit irgendwelchen Spielsteinen.
 {% endcapture %}
-{% include beispiel.md title="Gummipunkte" body=include_body %}
+{% include hinweis.md title="Gummipunkte" body=include_body %}
 
 ## Erfahrungspunkte
 
