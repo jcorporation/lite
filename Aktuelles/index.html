@@ -1,0 +1,50 @@
+---
+layout: page
+title: Aktuelles
+---
+
+<h1>Aktuelles</h2>
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+{% for post in paginator.posts %}
+  <div class="col">
+    <div class="card h-100 clickable">
+      <div class="card-header bg-yellow"><a class="link-dark text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="card-body">{{ post.excerpt }}</div>
+      <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<hr/>
+<div class="row">
+<div class="col">
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li class="page-item">
+      <a class="page-link link-dark" href="{{ paginator.previous_page_path }}">&laquo;</a>
+    </li>
+  {% else %}
+    <li class="page-item disabled">
+      <a class="page-link">&laquo;</a>
+    </li>
+  {% endif %}
+  <li class="page-item disabled">
+    <a class="page-link" href="#">{{ paginator.page }} / {{ paginator.total_pages }}</a>
+  </li>
+  {% if paginator.next_page %}
+    <li class="page-item">
+      <a class="page-link link-dark" href="{{ paginator.next_page_path }}">&raquo;</a>
+    </li>
+  {% else %}
+    <li class="page-item disabled">
+      <a class="page-link">&raquo;</a>
+    </li>
+  {% endif %}
+</ul>
+</div>
+<div class="col text-end">
+  <a class="btn btn-secondary" href="{{ site.baseurl }}/feed.xml"><span class="mi me-1">rss_feed</span>RSS Feed</a>
+</div>
+</div>
