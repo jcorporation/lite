@@ -5,7 +5,7 @@ tag: lite
 permalink: /Aktuelles/2016-06-12-supers-und-die-superkraefte
 ---
 
-<img alt="Supers Cover" class="floatleft" height="142" src="{{ site.baseurl }}/assets/pics/lite/titel/supers-tn.png" width="100" />Nachdem [Belchion](http://belchion.rsp-blogs.de/) Supers auf der Burg-Con getestet hat, sind ein paar seiner Anpassungen in das Setting eingeflossen. Jede Superkraft ist jetzt an eine frei wählbare Bedingung für ihren Einsatz geknüpft, man muss z.B. eine Boybuilder-Pose machen um unverwundbar zu sein.
+Nachdem [Belchion](http://belchion.rsp-blogs.de/) Supers auf der Burg-Con getestet hat, sind ein paar seiner Anpassungen in das Setting eingeflossen. Jede Superkraft ist jetzt an eine frei wählbare Bedingung für ihren Einsatz geknüpft, man muss z.B. eine Boybuilder-Pose machen um unverwundbar zu sein.
 
 Unabhängig davon habe ich auch die Stadtbeschreibung von Orange City erweitert und die Texte etwas umstrukturiert und entsprechend auch die Karte angepasst.
 

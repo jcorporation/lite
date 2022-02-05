@@ -11,7 +11,7 @@ tag: lite
 permalink: /Aktuelles/2017-06-16-lite-v2-im-druck-und-vorbestellbar
 ---
 
-<img alt="Lite v2 Bücher" class="float-start me-2 mb-2" height="500" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png"/>
+
 
 Die zweite Version des Lite Grundregelwerks ist nun im Druck und sollte bis Ende des Monats bei mir ankommen.
 

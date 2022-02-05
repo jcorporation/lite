@@ -5,7 +5,7 @@ tag: lite
 permalink: /Aktuelles/2017-06-13-lite-v2-erschienen
 ---
 
-<img alt="Lite Version 2" class="floatleft" height="213" src="{{ site.baseurl }}/assets/pics/lite/titel/grw2.png" width="150"/>Nach etwas mehr als zwei Jahren ist nun das finale PDF der zweiten Version von Lite erschienen. Spätestens bis zur FeenCon soll dann auch das Buch erscheinen, der Preis steht noch nicht fest, aber es wird wieder vollfarbig gedruckt und diesmal auch als Hardcover gebunden.
+Nach etwas mehr als zwei Jahren ist nun das finale PDF der zweiten Version von Lite erschienen. Spätestens bis zur FeenCon soll dann auch das Buch erscheinen, der Preis steht noch nicht fest, aber es wird wieder vollfarbig gedruckt und diesmal auch als Hardcover gebunden.
 
 Richtig große Änderungen bietet die neue Version nicht, vielmehr ist es eine konsequente Weiterentwicklung der Regeln. Die größten Änderungen sind die veränderte Reihenfolge bei Konfliktszenen, das Ausrüstungsgegenstände über eine Effektivität verfügen und das Setting Supers integriert wurde.
 
