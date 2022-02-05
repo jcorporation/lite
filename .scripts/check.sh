@@ -22,7 +22,7 @@ check_title() {
     fi
 }
 
-for F in $(find ./ -name \*.md)
+while read -r F
 do
     [ "$F" = "./README.md" ] && continue
     [[ "$F" =~ ^./_includes.* ]] && continue
@@ -34,4 +34,4 @@ do
     check_permalink "$F"
     # check title
     check_title "$F"
-done
+done < <(find ./ -name \*.md)
