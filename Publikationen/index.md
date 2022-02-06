@@ -6,11 +6,9 @@ title: Publikationen
 
 # Publikationen
 
-Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Publikationen auch als kostenlose PDF.
+Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Publikationen als kostenlose PDF. Die Bücher können direkt bei mir per Mail an [mail@jcgames.de](mailto:mail@jcgames.de) erstanden werden.
 
-Die Bücher können direkt bei mir per Mail an [mail@jcgames. de](mailto:mail@jcgames. de) erstanden werden. 
-
-Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) über Lite.
+Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu Lite. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt).
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
