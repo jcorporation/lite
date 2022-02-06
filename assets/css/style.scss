@@ -106,3 +106,8 @@ main ul {
 .breadcrumb > span {
   margin-top: -0.2rem;
 }
+
+.col-thumbnail {
+  flex-grow: 0;
+  flex-shrink: 1;
+}

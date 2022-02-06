@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Indianer/Drani/index
+permalink: /Settings/SpaceCowboys/Indianer/Drani/
 title: Drani
 ---
 

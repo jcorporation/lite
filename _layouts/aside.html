@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
+	<main class="col col-xl-8">
+		{{ content }}
+	</main>
+	<aside class="col col-xl-4 pe-0">
+		{% if page.aside %}
+			{% include_relative {{ page.aside }} %}
+		{% else %}
+			{% assign aside = page.name | replace: ".md", "_aside.md" %}
+			{% include_relative {{ aside }} %}
+		{% endif %}
+	</aside>
+</div>

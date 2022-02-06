@@ -3,13 +3,13 @@ layout: page
 title: Aktuelles
 ---
 
-<h1>Aktuelles</h2>
+<h1>Aktuelles</h1>
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
 {% for post in paginator.posts %}
   <div class="col">
     <div class="card h-100 clickable">
-      <div class="card-header bg-yellow"><a class="link-dark text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="card-header bg-blue"><a class="link-light text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
       <div class="card-body">{{ post.excerpt }}</div>
       <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
     </div>

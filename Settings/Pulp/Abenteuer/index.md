@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/index
+permalink: /Settings/Pulp/Abenteuer/
 title: Abenteuer
 ---
 

@@ -11,6 +11,5 @@ Orient ist ein Setting für Lite, das sich an den Geschichten aus tausendundeine
 
 Das Setting ist im Grundregelwerk enthalten und es gibt es auch als PDF-Auszug.
 
-<p><strong>[Grundregelwerk herunterladen]({{ site.baseurl }}/Downloads)<br/>
-[Zum Orient-Setting]({{ site.baseurl }}/Settings/Orient)</strong></p>
-
+- [Grundregelwerk herunterladen]({{ site.baseurl }}/Publikationen/)
+- [Zum Orient-Setting]({{ site.baseurl }}/Settings/Orient/)

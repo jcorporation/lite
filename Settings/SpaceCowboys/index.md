@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /Settings/SpaceCowboys/index
+layout: aside
+permalink: /Settings/SpaceCowboys/
 title: SpaceCowboys
-aside: index_aside.md
 ---
 
 {% include pictitle.md title=page.title image="/icons/spacecowboys.png" %}

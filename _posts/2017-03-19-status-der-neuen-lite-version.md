@@ -11,10 +11,6 @@ Die 2. Version des Lite Grundregelwerks soll eine konsequente Weiterentwicklung 
 
 Das neueste PDF bietet auch einen überarbeiteten Einführungstext und spiegelt den aktuellen Arbeitsstand wider.
 
-- [Alle Änderungen gegenüber der 1. Version]({{ site.baseurl }}/Rollenspiel/Changelogv2)
-- [PDF herunterladen]({{ site.baseurl }}/Downloads)
+- [PDF herunterladen]({{ site.baseurl }}/Publikationen/)
 
 Wie immer freue ich mich über jegliches Feedback.
-
-
-

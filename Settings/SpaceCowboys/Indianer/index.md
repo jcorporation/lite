@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Indianer/index
+permalink: /Settings/SpaceCowboys/Indianer/
 title: Indianer
 ---
 

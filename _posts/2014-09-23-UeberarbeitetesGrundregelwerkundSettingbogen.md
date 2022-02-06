@@ -9,6 +9,6 @@ Neulich ist mir aufgefallen, dass es keine Regeln für Heilung in Lite gibt. Die
 
 Mittlerweile ist auch der Settingbogen verfügbar, der im Grundregelwerk neuerdings referenziert wird.
 
-- **[Downloads]({{ site.baseurl }}/Downloads)**
+- **[Downloads]({{ site.baseurl }}/Publikationen/)**
 
 

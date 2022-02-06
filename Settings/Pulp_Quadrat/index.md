@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /Settings/Pulp_Quadrat/index
+layout: aside
+permalink: /Settings/Pulp_Quadrat/
 title: Pulp Quadrat
-aside: index_aside.md
 ---
 
 {% include pictitle.md title=page.title image="/icons/pulpquadrat.png" %}

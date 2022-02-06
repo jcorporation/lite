@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /Settings/Supers/Orange_City/index
+layout: aside
+permalink: /Settings/Supers/Orange_City/
 title: Orange City
-aside: index_aside.md
 ---
 
 # Orange City

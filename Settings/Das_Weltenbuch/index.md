@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Das_Weltenbuch/index
+permalink: /Settings/Das_Weltenbuch/
 title: Das Weltenbuch
 ---
 

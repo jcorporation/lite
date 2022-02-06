@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/small/Familien/index
+permalink: /Settings/small/Familien/
 title: Familien
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceOpera/Abenteuer/index
+permalink: /Settings/SpaceOpera/Abenteuer/
 title: Abenteuer
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Robots/Robopolis/index
+permalink: /Settings/Robots/Robopolis/
 title: Robopolis
 ---
 

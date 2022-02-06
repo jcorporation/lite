@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Zombies/index
+permalink: /Settings/Zombies/
 title: Zombies
 ---
 
@@ -19,4 +19,4 @@ Die Charaktere bilden eine solch kleine, aber wehrhafte Gruppe. Das Setting ist 
 
 ## Download
 
-{% include downboxrow.md title="Zombies" image="/thumbnails/zombies.png" body="PDF A5<br/>Version: 2016.11.27" link="/Downloads/Settings/lite-zombies_2016-11-27.pdf" %}
+{% include downboxrow.md title="Zombies" image="/thumbnails/zombies.png" body="PDF A5<br/>Version: 2016.11.27" link="/Publikationen/Settings/lite-zombies_2016-11-27.pdf" %}

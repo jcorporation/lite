@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Orient/index
+permalink: /Settings/Orient/
 title: Orient
 ---
 

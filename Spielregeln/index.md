@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /Spielregeln/index
+permalink: /Spielregeln/
 title: Spielregeln
 ---
 
 # Spielregeln
 
-Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch als [PDF]({{ site.baseurl }}/Downloads/).
+Hier findet ihr die kompletten Regeln von Lite. Natürlich gibt es diese auch als [PDF]({{ site.baseurl }}/Publikationen/).
 
 <div class="row row-cols-2 row-cols-sm-4 row-cols-xl-6 g-4">
     <div class="col">

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Fantasy/index
+permalink: /Settings/Fantasy/
 title: Fantasy
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Abenteuer/index
+permalink: /Abenteuer
 title: Abenteuer
 ---
 

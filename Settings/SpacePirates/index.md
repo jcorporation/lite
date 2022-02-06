@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpacePirates/index
+permalink: /Settings/SpacePirates/
 title: SpacePirates
 ---
 

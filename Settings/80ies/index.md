@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/index
+permalink: /Settings/80ies/
 title: 80ies
 ---
 

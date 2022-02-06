@@ -11,6 +11,4 @@ Schwertmeister, Martial Artists und moderne Samurai bewegen sich mit unglaublich
 
 Das Setting stammt von Günther Schollmayer und ich hatte die Ehre es hier aufzunehmen und daraus auch ein PDF zu erstellen.
 
-**[zu Eastern Action]({{ site.baseurl }}/Settings/Easternaction)**
-
-
+**[zu Eastern Action]({{ site.baseurl }}/Settings/Eastern_Action/)**

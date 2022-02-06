@@ -9,6 +9,6 @@ permalink: /Aktuelles/2016-01-18-lite-textversion
 
 Diese Dokumente stehen, wie alle anderen Lite Texte, unter der Creative Commons Lizenz [Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Die Textdokumente findet ihr auf der [Downloadseite]({{ site.baseurl }}/Downloads).
+Die Textdokumente findet ihr auf der [Downloadseite]({{ site.baseurl }}/Publikationen/).
 
 

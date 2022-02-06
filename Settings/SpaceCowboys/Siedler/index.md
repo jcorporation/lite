@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Siedler/index
+permalink: /Settings/SpaceCowboys/Siedler/
 title: Siedler
 ---
 

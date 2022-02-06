@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Steampunk/index
+permalink: /Settings/Steampunk/
 title: Steampunk
 ---
 

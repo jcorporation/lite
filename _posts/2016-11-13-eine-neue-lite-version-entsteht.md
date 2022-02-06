@@ -9,13 +9,13 @@ Nachdem die erste Version von Lite fast ausverkauft ist, habe ich die letzten Wo
 
 ### Änderungen
 
-- Einführungstext [Was ist Lite?]({{ site.baseurl }}/Rollenspiel/Wasistlite) erweitert
--[Konfliktszenen]({{ site.baseurl }}/Rollenspiel/Konflikte) überarbeitet
+- Einführungstext [Was ist Lite?]({{ site.baseurl }}/Spielregeln/Was_ist_Lite) erweitert
+-[Konfliktszenen]({{ site.baseurl }}/Spielregeln/Konflikte/) überarbeitet
   - Neue Reihenfolge beim Nacherzählen der Szene
   - Weitere Beispiele und Tipps
-- [Lite anpassen]({{ site.baseurl }}/Rollenspiel/Anpassungen) um spezielle Ausrüstung erweitert
-- Setting [Supers]({{ site.baseurl }}/Settings/Supers) integriert
+- [Lite anpassen]({{ site.baseurl }}/Spielregeln/Lite_anpassen/) um spezielle Ausrüstung erweitert
+- Setting [Supers]({{ site.baseurl }}/Settings/Supers/) integriert
 
 ### Download
 
-Diese Entwicklungsversion gibt es zum [Herunterladen als PDF]({{ site.baseurl }}/Downloads). Ich freue mich natürlich über jegliche Anmerkungen dazu.
+Diese Entwicklungsversion gibt es zum [Herunterladen als PDF]({{ site.baseurl }}/Publikationen/). Ich freue mich natürlich über jegliche Anmerkungen dazu.

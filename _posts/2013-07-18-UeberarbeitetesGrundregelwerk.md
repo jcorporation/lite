@@ -15,6 +15,6 @@ Hier eine kurze Übersicht, was geändert wurde:
 
 Durch das Streichen der Eskalation versuche ich das gewürfelt weiter zu minimieren. Es genügt jetzt ein Wurf jedes Beteiligten um den Ausgang zu bestimmen. Durch die Einführung von Konsequenzen sollen Konflikte etwas gefährlicher werden.
 
-**[Grundregelwerk herunterladen]({{ site.baseurl }}/Downloads)**
+**[Grundregelwerk herunterladen]({{ site.baseurl }}/Publikationen/)**
 
 

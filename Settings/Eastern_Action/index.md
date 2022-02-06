@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Eastern_Action/index
+permalink: /Settings/Eastern_Action/
 title: Eastern Action
 ---
 
@@ -18,7 +18,7 @@ Schwertmeister, Martial Artists und moderne Samurai bewegen sich mit unglaublich
 
 ## Download
 
-{% include downboxrow.md title="Eastern Action" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.10.06" link="/Downloads/Fansettings/lite-easternaction_2015-10-06.pdf" %}
+{% include downboxrow.md title="Eastern Action" image="/thumbnails/easternaction.png" body="PDF A5<br/>Version: 2015.10.06" link="/Publikationen/Fansettings/lite-easternaction_2015-10-06.pdf" %}
 
 ***
 Autor: Günther Schollmayer

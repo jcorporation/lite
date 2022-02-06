@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Pulp/index
+permalink: /Settings/Pulp/
 title: Pulp
 ---
 

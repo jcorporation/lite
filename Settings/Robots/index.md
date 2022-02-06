@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /Settings/Robots/index
+layout: aside
+permalink: /Settings/Robots/
 title: Robots
-aside: index_aside.md
 ---
 {% include pictitle.md title=page.title image="/icons/robots.png" %}
 

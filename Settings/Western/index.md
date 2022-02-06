@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Western/index
+permalink: /Settings/Western/
 title: Western
 ---
 

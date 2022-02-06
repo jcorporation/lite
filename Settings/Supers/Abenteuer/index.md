@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/Abenteuer/index
+permalink: /Settings/Supers/Abenteuer/
 title: Abenteuer
 ---
 

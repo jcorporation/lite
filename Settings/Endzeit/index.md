@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Endzeit/index
+permalink: /Settings/Endzeit/
 title: Endzeit
 ---
 

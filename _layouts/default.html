@@ -18,11 +18,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar">
           <div class="navbar-nav flex-grow-1">
-            <!--<a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Aktuelles/">Aktuelles</a>-->
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Aktuelles/">Aktuelles</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Spielregeln/">Spielregeln</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Settings/">Settings</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Downloads/">Downloads</a>
-            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Produkte/">Produkte</a>
+            <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Publikationen/">Publikationen</a>
             <a class="nav-link p-2 text-light" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
           </div>
         </div>
@@ -34,20 +33,7 @@
       </nav>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
-      {% if page.aside %}
-        <div class="row row-cols-1 row-cols-xl-2 gx-5 gy-3 me-0">
-          <main class="col col-xl-8">
-            {{ content }}
-          </main>
-          <aside class="col col-xl-4 pe-0">
-            {% include_relative {{ page.aside }} %}
-          </aside>
-        </div>
-      {% else %}
-        <main>
-            {{ content }}
-        </main>
-      {% endif %}
+      {{ content }}
     </div>
     <footer class="footer-bottom bg-light">
       <nav class="container-xxl text-center">

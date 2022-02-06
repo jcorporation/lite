@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Siedler/Asiatische_Union/index
+permalink: /Settings/SpaceCowboys/Siedler/Asiatische_Union/
 title: Asiatische Union
 ---
 

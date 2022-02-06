@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/index
+permalink: /Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/
 title: Angriff der Rhabarbermänner
 ---
 
@@ -19,7 +19,7 @@ Zunächst versuchte er, Orange Citys großen Superhelden das Grüne Gespenst unt
 
 ## Download
 
-{% include downboxrow.md title="Angriff der Rhabarbermänner" image="/thumbnails/supers-rhabarbermänner.png" body="PDF A5<br/>Version: 2017.07.02" link="/Downloads/Abenteuer/lite-supers-rhabarbermaenner_2017-07-02.pdf" %}
+{% include downboxrow.md title="Angriff der Rhabarbermänner" image="/thumbnails/supers-rhabarbermänner.png" body="PDF A5<br/>Version: 2017.07.02" link="/Publikationen/Abenteuer/lite-supers-rhabarbermaenner_2017-07-02.pdf" %}
 
 ***
 **Autor:** Onno Tasler

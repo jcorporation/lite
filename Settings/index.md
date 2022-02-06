@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/index
+permalink: /Settings/
 title: Settings
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceOpera/index
+permalink: /Settings/SpaceOpera/
 title: SpaceOpera
 ---
 

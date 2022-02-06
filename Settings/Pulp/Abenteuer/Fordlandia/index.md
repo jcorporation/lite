@@ -1,8 +1,7 @@
 ---
-layout: page
-permalink: /Settings/Pulp/Abenteuer/Fordlandia/index
+layout: aside
+permalink: /Settings/Pulp/Abenteuer/Fordlandia/
 title: Fordlandia
-aside: index_aside.md
 ---
 
 # Fordlandia

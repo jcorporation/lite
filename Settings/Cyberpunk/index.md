@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Cyberpunk/index
+permalink: /Settings/Cyberpunk/
 title: Cyberpunk
 ---
 

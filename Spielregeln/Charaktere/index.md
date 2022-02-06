@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Charaktere/index
+permalink: /Spielregeln/Charaktere/
 title: Charaktere
 ---
 

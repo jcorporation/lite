@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/index
+permalink: /Settings/Pulp/Abenteuer/Jagd_nach_der_roten_Kobra/
 title: Jagd nach der roten Kobra
 ---
 
@@ -25,7 +25,7 @@ Wenig erstaunlich also, dass Abenteurer und Großwildjäger aus aller Welt aufge
 
 ## Download
 
-{% include downboxrow.md title="Jagd nach der roten Kobra" image="/thumbnails/pulp-jagdnachderrotenkobra.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Abenteuer/lite-pulp-rotekobra_2015-02-09.pdf" %}
+{% include downboxrow.md title="Jagd nach der roten Kobra" image="/thumbnails/pulp-jagdnachderrotenkobra.png" body="PDF A5<br/>Version: 2015.02.09" link="/Publikationen/Abenteuer/lite-pulp-rotekobra_2015-02-09.pdf" %}
 
 ***
 Dieses Abenteuer basiert auf dem gleichnamigen Abenteuer von [W6 vs W12](http://w6vsw12.wordpress.com/2014/05/26/abenteuer-die-jagd-nach-der-roten-kobra-hex/) für HEX. Ich habe es deutlich gestrafft und umgestaltet.

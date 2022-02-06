@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/small/index
+permalink: /Settings/small/
 title: small
 ---
 
@@ -25,7 +25,7 @@ small ist ein Setting für Lite im Stil von Serien und Jugendbücher wie die Lit
 
 ## Download
 
-{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/small.png" body="PDF A5<br/>Version: 2015.02.09" link="/Downloads/Fansettings/lite-small_2015-02-09.pdf" %}
+{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/small.png" body="PDF A5<br/>Version: 2015.02.09" link="/Publikationen/Fansettings/lite-small_2015-02-09.pdf" %}
 
 ## Abenteuer
 

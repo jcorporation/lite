@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/index
+permalink: /Settings/SpaceOpera/Abenteuer/Unbestechlicher_Mangel/
 title: Unbestechlicher Mangel
 ---
 
@@ -18,7 +18,7 @@ Die Charaktere haben für einen Spottpreis einige Setzlinge gekauft, wurden dabe
 
 ## Download
 
-{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/spaceopera-unbestechlichermangel.png" body="PDF A5<br/>Version: 2017.07.02" link="/Downloads/Abenteuer/lite-spaceopera-unbestechlichermangel_2017-07-02.pdf" %}
+{% include downboxrow.md title="Diamanten von Aceh" image="/thumbnails/spaceopera-unbestechlichermangel.png" body="PDF A5<br/>Version: 2017.07.02" link="/Publikationen/Abenteuer/lite-spaceopera-unbestechlichermangel_2017-07-02.pdf" %}
 
 ***
 Dieses Abenteuer wurde von [Onno Tasler](http://belchion.rsp-blogs.de/) ursprünglich für seinen SpacePirates-Ableger Deep Space Traders geschrieben.

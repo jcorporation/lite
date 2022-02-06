@@ -11,7 +11,4 @@ In der neuesten Version von Lite besitzen jetzt Ausrüstungsgegenstände neben d
 
 Wie immer freue ich mich über jegliches Feedback.
 
-- [Alle Änderungen gegenüber der 1. Version]({{ site.baseurl }}/Rollenspiel/Changelogv2)
-- [PDF herunterladen]({{ site.baseurl }}/Downloads)
-
-
+- [PDF herunterladen]({{ site.baseurl }}/Publikationen/)

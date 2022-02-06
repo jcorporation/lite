@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/index
+permalink: /Settings/80ies/Abenteuer/Schatten_über_Innsmouth/
 title: Schatten über Innsmouth
 ---
 
@@ -33,7 +33,7 @@ PDF A5<br/>
                 Version: 2015.02.15
 
                 
-&raquo; <a class="text-light" href="{{ site.baseurl }}/Downloads/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a>
+&raquo; <a class="text-light" href="{{ site.baseurl }}/Publikationen/Abenteuer/lite-80ies-innsmouth_2015-02-15.pdf">Herunterladen</a>
 
             </div>
         </div>

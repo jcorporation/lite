@@ -5,9 +5,6 @@ tag: lite
 permalink: /Aktuelles/2015-01-25-Grundregelwerkaktualisiert
 ---
 
+Ich habe nochmals das Lite Grundregelwerk komplett durchgearbeitet und dabei noch ein paar kleinere Fehler ausgemerzt.
 
-[/www/lite/titel/grw-spieltest-tn.png]({{ site.baseurl }}/Imageleft)Ich habe nochmals das Lite Grundregelwerk komplett durchgearbeitet und dabei noch ein paar kleinere Fehler ausgemerzt.
-
-**[Lite Grundregelwerk herunterladen]({{ site.baseurl }}/Downloads.html)**
-
-
+**[Lite Grundregelwerk herunterladen]({{ site.baseurl }}/Publikationen/)**

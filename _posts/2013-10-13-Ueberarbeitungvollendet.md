@@ -12,6 +12,6 @@ Lite bringt in dieser Version einen (einzigartigen) Konfliktszenenmechanismus, m
 
 Als nächsten Schritt wird der Leitfaden für Spieler und Spielleiter entstehen und weiter an den 3 Beispielsettings für Pulp, Fantasy und SpaceOpera gearbeitet, damit für weitere Spieltests auch genügend Material vorhanden ist.
 
-[zum Download]({{ site.baseurl }}/Downloads.html)
+[zum Download]({{ site.baseurl }}/Publikationen/)
 
 

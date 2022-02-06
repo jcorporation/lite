@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/80ies/Abenteuer/index
+permalink: /Settings/80ies/Abenteuer/
 title: Abenteuer
 ---
 

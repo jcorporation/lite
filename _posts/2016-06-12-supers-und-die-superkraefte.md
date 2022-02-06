@@ -9,8 +9,8 @@ Nachdem [Belchion](http://belchion.rsp-blogs.de/) Supers auf der Burg-Con getest
 
 Unabhängig davon habe ich auch die Stadtbeschreibung von Orange City erweitert und die Texte etwas umstrukturiert und entsprechend auch die Karte angepasst.
 
-Auf der Webseite gibt es jetzt auch den ersten Entwurf eines neuen Abenteuers, aus der Feder von Belchion: [Angriff der Rhabarbermänner]({{ site.baseurl }}/Settings/Supers/Ab/Rhabarbermaenner)
+Auf der Webseite gibt es jetzt auch den ersten Entwurf eines neuen Abenteuers, aus der Feder von Belchion: [Angriff der Rhabarbermänner]({{ site.baseurl }}/Settings/Supers/Abenteuer/Angriff_der_Rhabarbermänner/)
 
-**[&raquo; Supers online lesen oder herunterladen]({{ site.baseurl }}/Settings/Supers)**
+**[&raquo; Supers online lesen oder herunterladen]({{ site.baseurl }}/Settings/Supers/)**
 
 

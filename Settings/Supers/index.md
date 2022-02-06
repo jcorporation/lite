@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/Supers/index
+permalink: /Settings/Supers/
 title: Supers
 ---
 
@@ -29,7 +29,7 @@ Die Charaktere bilden eine Superheldengruppe. Jeder Charakter besitzt eine [Supe
 
 ## Downloads
 
-{% include downboxrow.md title="Orange City" image="/thumbnails/supers-orangecity.png" body="PDF A5<br/>Version: 2017.06.13" link="/Downloads/Settings/lite-supers-orangecity_2017-06-13.pdf" %}
+{% include downboxrow.md title="Orange City" image="/thumbnails/supers-orangecity.png" body="PDF A5<br/>Version: 2017.06.13" link="/Publikationen/Settings/lite-supers-orangecity_2017-06-13.pdf" %}
 
 ## Abenteuer
 

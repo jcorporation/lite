@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Spielregeln/Abenteuer_erstellen/index
+permalink: /Spielregeln/Abenteuer_erstellen/
 title: Abenteuer erstellen
 ---
 

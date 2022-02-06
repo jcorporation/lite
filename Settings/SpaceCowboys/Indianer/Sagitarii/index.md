@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Indianer/Sagitarii/index
+permalink: /Settings/SpaceCowboys/Indianer/Sagitarii/
 title: Sagitarii
 ---
 

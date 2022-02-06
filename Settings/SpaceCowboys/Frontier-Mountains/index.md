@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Frontier-Mountains/index
+permalink: /Settings/SpaceCowboys/Frontier-Mountains/
 title: Frontier-Mountains
 ---
 

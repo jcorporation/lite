@@ -1,10 +1,10 @@
-<a class="breadcrumb-item link-dark text-decoration-none" href='{{ site.baseurl }}/'>Lite</a>
+<a class="breadcrumb-item link-dark text-decoration-none" href='{{ site.baseurl }}/'>{{ site.title }}</a>
 {% assign crumbs = page.url | split: '/' %}
 {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
     {%if crumb != "index" %}
       <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>
-        <a>{{ crumb | replace:'_',' '}}</a>
+        {{ page.title }}
     {% endif %}
   {% else %}
   <span>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</span>

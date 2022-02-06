@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Indianer/Inkas/index
+permalink: /Settings/SpaceCowboys/Indianer/Inkas/
 title: Inkas
 ---
 

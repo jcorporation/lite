@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Settings/SpaceCowboys/Siedler/Westliche_Föderation/index
+permalink: /Settings/SpaceCowboys/Siedler/Westliche_Föderation/
 title: Westliche Föderation
 ---
 
