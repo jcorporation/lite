@@ -20,7 +20,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
                         <img class="border border-white float-start" src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140">
                     </div>
                     <div class="col">
-                        <p>Das Lite Grundregelwerk enthält alles was man zum Spielen benötigt. Neben den eigentlichen <a href="{{ site.baseurl }}/Spielregeln/">Regeln</a> sind auch zehn <a href="{{ site.baseurl }}/Settings/">Settings</a> enthalten.</p>
+                        <p>Das Lite Grundregelwerk enthält alles was man zum Spielen benötigt. Neben den eigentlichen <a class="link-light" href="{{ site.baseurl }}/Spielregeln/">Regeln</a> sind auch zehn <a class="link-light" href="{{ site.baseurl }}/Settings/">Settings</a> enthalten.</p>
                         <p>DIN A5 Hardcover, 80 farbige Seiten</p>
                         <p>Preis: 10,- EUR</p>
                     </div>
