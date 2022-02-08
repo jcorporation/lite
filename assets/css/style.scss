@@ -111,3 +111,16 @@ main ul {
   flex-grow: 0;
   flex-shrink: 1;
 }
+
+a#totop {
+  display:block;
+  width: 19px;
+  height: 12px;
+  background-image: url(/assets/images/totop.png);
+  text-decoration: none;
+  opacity: 0.2;
+}
+
+a#totop:hover {
+  opacity: 0.6;
+}
