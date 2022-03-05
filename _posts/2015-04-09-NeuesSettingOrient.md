@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Setting: Orient"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-04-09-NeuesSettingOrient
 ---
 

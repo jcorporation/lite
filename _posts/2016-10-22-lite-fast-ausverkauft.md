@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite fast ausverkauft"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-10-22-lite-fast-ausverkauft
 ---
 

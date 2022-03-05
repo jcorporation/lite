@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Praxistest"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-07-15-Praxistest
 ---
 

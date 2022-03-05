@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Grundregelwerk und Settingbogen"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-09-23-UeberarbeitetesGrundregelwerkundSettingbogen
 ---
 

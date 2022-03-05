@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Setting überarbeitet"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-01-04-FantasySettingueberarbeitet
 ---
 

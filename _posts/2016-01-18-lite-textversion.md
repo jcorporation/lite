@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Textversion"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-01-18-lite-textversion
 ---
 

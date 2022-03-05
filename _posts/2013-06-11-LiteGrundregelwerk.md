@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Grundregelwerk"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-06-11-LiteGrundregelwerk
 ---
 

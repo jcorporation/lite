@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite im Druck"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-04-13-LiteimDruck
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die Zukunft"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-10-09-DieZukunft
 ---
 

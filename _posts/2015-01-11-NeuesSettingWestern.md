@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Setting: Western"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-01-11-NeuesSettingWestern
 ---
 

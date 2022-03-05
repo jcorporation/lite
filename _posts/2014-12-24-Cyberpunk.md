@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyberpunk"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-12-24-Cyberpunk
 ---
 

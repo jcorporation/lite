@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Überarbeitetes Grundregelwerk"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-07-18-UeberarbeitetesGrundregelwerk
 ---
 

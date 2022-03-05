@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Bücher"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-05-06-LiteBuecher
 ---
 

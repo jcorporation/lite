@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite jetzt noch effektiver"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2017-06-06-lite-jetzt-noch-effektiver
 ---
 

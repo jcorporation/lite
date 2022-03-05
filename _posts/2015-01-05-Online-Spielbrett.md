@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online-Spielbrett"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-01-05-Online-Spielbrett
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Status von Lite"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-01-06-status-von-lite
 ---
 

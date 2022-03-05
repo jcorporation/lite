@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grundregelwerk umstrukturiert"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-09-14-Grundregelwerkumstrukturiert
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Die dritte Chance für SpaceCowboys"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-01-26-DiedritteChancefuerSpaceCowboys
 ---
 

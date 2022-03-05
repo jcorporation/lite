@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite - Magie"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-04-19-Lite-Magie
 ---
 

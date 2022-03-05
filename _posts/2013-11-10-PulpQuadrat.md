@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulp"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-11-10-PulpQuadrat
 ---
 

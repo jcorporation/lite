@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SpaceOpera"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-12-26-SpaceOpera
 ---
 

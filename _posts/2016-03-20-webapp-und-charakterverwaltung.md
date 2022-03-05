@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp und Charakterverwaltung"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-03-20-webapp-und-charakterverwaltung
 ---
 

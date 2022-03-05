@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keine neue Regel für Lite - Rennen im Rollenspiel"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-02-23-KeineneueRegelfuerLite-RennenimRollenspiel
 ---
 

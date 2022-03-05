@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schatten über Innsmouth"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-02-15-SchattenueberInnsmouth
 ---
 

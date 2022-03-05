@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eine neue Lite Version entsteht"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-11-13-eine-neue-lite-version-entsteht
 ---
 

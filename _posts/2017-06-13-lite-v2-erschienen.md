@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite v2 erschienen"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2017-06-13-lite-v2-erschienen
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jagd nach der roten Kobra"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-08-17-JagdnachderrotenKobra
 ---
 

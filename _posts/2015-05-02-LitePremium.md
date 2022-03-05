@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Premium"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-05-02-LitePremium
 ---
 

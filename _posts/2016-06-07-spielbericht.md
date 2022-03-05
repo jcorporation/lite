@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spielbericht"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-06-07-spielbericht
 ---
 

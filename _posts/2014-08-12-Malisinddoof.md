@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mali sind doof..."
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-08-12-Malisinddoof
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neue Abenteuer als PDF"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2017-07-02-neue-abenteuer-als-pdf
 ---
 

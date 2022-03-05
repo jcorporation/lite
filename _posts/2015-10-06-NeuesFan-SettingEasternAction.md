@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Fan-Setting: Eastern Action"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-10-06-NeuesFan-SettingEasternAction
 ---
 

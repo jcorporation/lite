@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aktualisierte PDFs"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-02-16-AktualisiertePDFs
 ---
 

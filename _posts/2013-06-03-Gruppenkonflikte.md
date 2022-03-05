@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gruppenkonflikte"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-06-03-Gruppenkonflikte
 ---
 

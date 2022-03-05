@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ergänzte Konfliktregeln"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-10-09-ErgaenzteKonfliktregeln
 ---
 

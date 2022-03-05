@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Narrativer Dungeoncrawl"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-10-18-narrativer-dungeoncrawl
 ---
 

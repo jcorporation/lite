@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leitfaden"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-10-28-Leitfaden
 ---
 

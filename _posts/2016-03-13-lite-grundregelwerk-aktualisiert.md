@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Grundregelwerk aktualisiert"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-03-13-lite-grundregelwerk-aktualisiert
 ---
 

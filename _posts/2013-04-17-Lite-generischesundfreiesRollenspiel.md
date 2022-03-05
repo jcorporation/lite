@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite - generisches und freies Rollenspiel"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-04-17-Lite-generischesundfreiesRollenspiel
 ---
 

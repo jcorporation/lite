@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite Magie"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-08-16-LiteMagie
 ---
 

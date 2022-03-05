@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulp Quadrat"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-07-19-PulpQuadrat
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Setting und überarbeitetes Grundregelwerk"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-12-29-NeuesSettingundueberarbeitetesGrundregelwerk
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Status der neuen Lite Version"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2017-03-19-status-der-neuen-lite-version
 ---
 

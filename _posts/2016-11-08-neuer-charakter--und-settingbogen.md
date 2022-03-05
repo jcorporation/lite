@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuer Charakter- und Settingbogen"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-11-08-neuer-charakter--und-settingbogen
 ---
 

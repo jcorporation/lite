@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charakterverwaltung"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-01-02-Charakterverwaltung
 ---
 

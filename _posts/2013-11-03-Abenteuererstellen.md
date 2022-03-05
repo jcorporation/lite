@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abenteuer erstellen"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-11-03-Abenteuererstellen
 ---
 

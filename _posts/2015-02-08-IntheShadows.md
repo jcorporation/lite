@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In the Shadows"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-02-08-IntheShadows
 ---
 

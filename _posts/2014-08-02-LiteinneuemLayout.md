@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lite in neuem Layout"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-08-02-LiteinneuemLayout
 ---
 

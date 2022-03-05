@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grundregelwerk fast fertig"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-12-26-Grundregelwerkfastfertig
 ---
 

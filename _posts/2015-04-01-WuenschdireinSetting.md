@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wünsch dir ein Setting"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2015-04-01-WuenschdireinSetting
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diamanten von Aceh Podcast"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-01-12-DiamantenvonAcehPodcast
 ---
 

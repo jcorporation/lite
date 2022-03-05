@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diamanten von Aceh"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-08-06-GrundregelwerkDiamantenvonAceh
 ---
 

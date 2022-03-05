@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neues Setting: small"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2014-09-21-NeuesSettingsmall
 ---
 

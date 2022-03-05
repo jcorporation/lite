@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update der Grundregeln"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2013-09-29-Grundregeln
 ---
 

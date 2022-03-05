@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Supers und die Superkräfte"
-tag: lite
+tag: Lite
 permalink: /Aktuelles/2016-06-12-supers-und-die-superkraefte
 ---
 
