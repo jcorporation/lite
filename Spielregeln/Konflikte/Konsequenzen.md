@@ -42,12 +42,12 @@ Es gibt bei Lite keine Regel, die den Tod eines Charakters herbeiführt. Charakt
 - eine Macke, z. B. extreme Nervosität
 - eine Phobie, z. B. Platzangst
 
-##### Soziale Konsequenzen</h5>
+##### Soziale Konsequenzen
 
 - der Charakter hat einen neuen Feind
 - das Ansehen des Charakters leidet
 
-##### Sonstige Konsequenzen</h5>
+##### Sonstige Konsequenzen
 
 - der Charakter verliert einen wichtigen Gegenstand
 {% endcapture %}
