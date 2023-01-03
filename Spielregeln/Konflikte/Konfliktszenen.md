@@ -95,9 +95,9 @@ Der Spielleiter handelt für jeden seiner Charaktere genauso, als wäre er ein S
 {% capture include_body %}
 Um die Spannung einer Konfliktszene aufrechtzuerhalten ist es sinnvoll sie nicht unnötig aufzublähen und sie in 3&ndash;4 Runden abzuhandeln.
 
-ie Würfel sollten möglichst gleichmäßig auf die Runden verteilt werden.
+Die Würfel sollten möglichst gleichmäßig auf die Runden verteilt werden.
 
-it mehr eingesetzten Würfeln kann man entweder mehrere Aktionen oder Umstände beschreiben oder eben auch etwas mit größeren Einfluss auf die Szene.
+Mit mehr eingesetzten Würfeln kann man entweder mehrere Aktionen oder Umstände beschreiben oder eben auch etwas mit größeren Einfluss auf die Szene.
 
 Bei einer Niederlage ist es sinnvoll, die Misserfolgswürfel am Ende auszugeben, bei einem Sieg gibt man sie besser früh aus.
 
