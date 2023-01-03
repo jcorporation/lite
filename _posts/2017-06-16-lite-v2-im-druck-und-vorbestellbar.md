@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /Aktuelles/2017-06-16-lite-v2-im-druck-und-vorbestellbar
+tag: Lite
 title: "Lite v2 im Druck und vorbestellbar"
 ---
 
