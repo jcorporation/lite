@@ -16,14 +16,14 @@ Der Einstieg in ein Abenteuer sollte möglichst stringent sein, nichts ist langw
 
 Szenen umfassen immer einen bestimmten Schauplatz und Spielleitercharaktere, die darin auftauchen. Sie ergeben sich dynamisch aus den Aktionen der Spielercharaktere oder aber auch durch Aktionen der Spielleitercharaktere, wenn die Spielercharaktere nicht handeln. Neben aktionsreichen Szenen kann es in einem Abenteuer auch ruhige Szenen geben. Dort erholen sich die Spielercharaktere von den Strapazen des bisherigen Abenteuers und erfahren mehr über das Setting oder das Abenteuer. Welche Art von Szenen und somit welche Art von Herausforderungen es im Abenteuer gibt, muss auf die Spielercharaktere abgestimmt sein. Ein kampflastiges Abenteuer ist sicher nichts für eine Gruppe, die vor allem aus Forschern und Entdeckern besteht.
 
-<div class="card mb-3">
-    <div class="card-header bg-green text-light">Zeitleiste</div>
-    <div class="card-body">
-        
+{% capture hinweis_body %}
 Wenn Ereignisse unabhängig von bestimmten Aktionen eintreten, ist es sinnvoll, diese in einer kleinen Zeitleiste festzuhalten. In die Zeitleiste können auch geplante Aktionen der gegnerischen Parteien eingetragen werden. Wichtig ist nur, dass man während des Abenteuers bedenkt, dass sich manche Geschehnisse durch Aktionen der Spielercharaktere verschieben können. Damit hat man als Spielleiter während des Abenteuers einen guten Überblick.
+{% endcapture %}
+{% include hinweis.md title="Darstellung von Spielleitercharakteren" body=hinweis_body %}
 
-    </div>
-</div>
+## Wendung
+
+Wendungen können überall im Abenteuer auftauchen, seien es Auftraggeber mit anderen Absichten wie dargestellt oder der gesuchte Schatz entpuppt sich als etwas völlig Anderes. Wendungen sollten die Gruppe aber nicht völlig unerwartet treffen. Es sollten auch Hinweise darauf eingebaut werden, so dass die Spieler eine realistische Chance haben, auch mal eine Wendung vorauszusehen und vielleicht noch rechtzeitig darauf reagieren zu können.
 
 ## Ende
 
