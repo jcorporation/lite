@@ -6,7 +6,7 @@ title: Publikationen
 
 # Publikationen
 
-Damit niemand die Katze im Sack kaufen muss, gibt es alle Lite Publikationen als kostenlose PDF. Die Bücher können direkt bei mir per Mail an [mail@jcgames.de](mailto:mail@jcgames.de) erstanden werden.
+Alle Lite Publikationen sind als kostenlose PDF erhältlich.
 
 Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu Lite. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt).
 
@@ -22,7 +22,7 @@ Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu 
                     <div class="col">
                         <p>Das Lite Grundregelwerk enthält alles was man zum Spielen benötigt. Neben den eigentlichen <a class="link-light" href="{{ site.baseurl }}/Spielregeln/">Regeln</a> sind auch zehn <a class="link-light" href="{{ site.baseurl }}/Settings/">Settings</a> enthalten.</p>
                         <p>DIN A5 Hardcover, 80 farbige Seiten</p>
-                        <p>Preis: 10,- EUR</p>
+                        <p>Preis: ausverkauft</p>
                     </div>
                 </div>
             </div>
