@@ -80,7 +80,6 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
                 </div>
             </div>
             <div class="card-footer d-flex justify-content-between">
-                <a class="text-light" href="{{ site.baseurl }}/Publikationen/">Buch kaufen</a>
                 <a class="text-light" href="{{ site.baseurl }}/Publikationen/">PDF herunterladen</a>
             </div>
         </div>
