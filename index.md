@@ -75,7 +75,7 @@ Willkommen auf der Webpräsenz von Lite – dem [freien]({{ site.baseurl }}/Frei
                         <img src="{{ site.baseurl }}/assets/images/thumbnails/grundregelwerkv2.png" width="100" height="140" class="border border-white">
                     </div>
                     <div class="col-sm-8">
-                        <p class="card-text">Du kannst Lite als kostenloses PDF herunterladen und auch als kostengünstiges Hardcover kaufen. Mit dem Kauf des Buches unterstützt du das Projekt direkt.</p>
+                        <p class="card-text">Du kannst Lite als kostenloses PDF herunterladen.</p>
                     </div>
                 </div>
             </div>
