@@ -1,7 +1,7 @@
 title: Lite
 description: Ein einfaches und erzählerisches Rollenspiel
 url: https://lite.jcgames.de
-paginate: 10
+paginate: 30
 paginate_path: "/Aktuelles/Seite_:num/"
 
 sass:
