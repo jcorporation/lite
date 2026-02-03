@@ -6,9 +6,7 @@ title: Publikationen
 
 # Publikationen
 
-Alle Lite Publikationen sind als kostenlose PDF erhältlich.
-
-Es gibt auch [Rezensionen und Spielberichte]({{ site.baseurl }}/Rezensionen) zu Lite. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt).
+Alle Lite Publikationen sind als kostenlose PDF erhältlich. Ich freue mich über jegliches [Feedback]({{ site.baseurl }}/Kontakt).
 
 <div class="row row-cols-1 row-cols-sm-2 g-4">
     <div class="col">
